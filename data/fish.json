@@ -1,0 +1,65 @@
+[
+  {
+    "nombre": "Comealga",
+    "nombre_cientifico": "Gyrinocheilus aymonieri",
+    "otros_nombres": ["Come algas", "Comealgas chino", "Algae Eater"],
+    "descripcion": "Pez de agua dulce popular por su capacidad de limpiar algas en acuarios. De cuerpo alargado y boca en forma de ventosa para adherirse a superficies. Puede alcanzar hasta 28 cm en condiciones óptimas.",
+    "imagen": "/gallery/fish/comealga.webp"
+  },
+  {
+    "nombre": "Pez Telescopio",
+    "nombre_cientifico": "Carassius auratus var. telescope",
+    "otros_nombres": ["Telescopio negro", "Goldfish telescopio", "Moor"],
+    "descripcion": "Variedad de goldfish con ojos grandes y saltones que sobresalen lateralmente. Su visión es limitada y requiere cuidados especiales en acuarios tranquilos.",
+    "imagen": "/gallery/fish/pez-telescopio.webp"
+  },
+  {
+    "nombre": "Xifo Naranja",
+    "nombre_cientifico": "Xiphophorus hellerii",
+    "otros_nombres": ["Pez espada", "Swordtail"],
+    "descripcion": "Pez tropical vivíparo de cuerpo alargado y color naranja brillante. Los machos presentan una prolongación en forma de espada en la aleta caudal.",
+    "imagen": "/gallery/fish/xifo-naranja.webp"
+  },
+  {
+    "nombre": "Pez Platy Mickey",
+    "nombre_cientifico": "Xiphophorus maculatus",
+    "otros_nombres": ["Platy Mickey Mouse", "Platy"],
+    "descripcion": "Variedad de platy que presenta una marca oscura en la base de la cola similar a la silueta de Mickey Mouse. Es pacífico y fácil de reproducir.",
+    "imagen": "/gallery/fish/pez-platy-mickey.webp"
+  },
+  {
+    "nombre": "Pez cebra fluorescente O transgénica",
+    "nombre_cientifico": "Danio rerio (var. GloFish)",
+    "otros_nombres": ["Pez cebra Glo", "Zebrafish fluorescente"],
+    "descripcion": "Variedad transgénica del pez cebra que presenta colores fluorescentes bajo luz ultravioleta. Muy activo y resistente, ideal para acuarios comunitarios.",
+    "imagen": "/gallery/fish/pez-cebra-fluorescente.webp"
+  },
+  {
+    "nombre": "Pez betta",
+    "nombre_cientifico": "Betta splendens",
+    "otros_nombres": ["Pez luchador de Siam", "Betta"],
+    "descripcion": "Pez de aletas vistosas y colores intensos, conocido por su comportamiento territorial. Los machos no deben mantenerse juntos para evitar peleas.",
+    "imagen": "/gallery/fish/pez-betta.webp"
+  },
+  {
+    "nombre": "Pez carpa Koi",
+    "nombre_cientifico": "Cyprinus rubrofuscus",
+    "otros_nombres": ["Koi", "Carpa ornamental"],
+    "descripcion": "Variedad ornamental de la carpa común criada por sus patrones y colores. Puede vivir décadas en estanques y alcanzar más de 60 cm.",
+    "imagen": "/gallery/fish/pez-carpa-koi.webp"
+  },
+  {
+    "nombre": "Pez dorado común",
+    "nombre_cientifico": "Carassius auratus",
+    "otros_nombres": ["Goldfish común", "Carpín dorado"],
+    "descripcion": "Pez de agua fría muy resistente, de color dorado o anaranjado. Es uno de los peces ornamentales más populares del mundo.",
+    "imagen": "/gallery/fish/pez-dorado-comun.webp"
+  },
+  {
+    "nombre": "Cabeza de león",
+    "nombre_cientifico": "Carassius auratus var. lionhead",
+    "otros_nombres": ["Lionhead goldfish", "Goldfish cabeza de león"],
+    "descripcion": "Variedad de goldfish sin aleta dorsal y con un característico crecimiento carnoso en la cabeza que recuerda a una melena de león.",
+    "imagen": "/gallery/fish/cabeza-de-leon.webp"
+  }
+]

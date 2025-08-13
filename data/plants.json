@@ -1,0 +1,244 @@
+[
+  {
+    "categoria": "Colocasias",
+    "plantas": [
+      {
+        "nombre": "Black Magic",
+        "nombre_cientifico": "Colocasia esculenta 'Black Magic'",
+        "otros_nombres": ["Taro negro", "Oreja de elefante negra"],
+        "descripcion": "Hojas grandes de color morado oscuro casi negro; aporta contraste arquitectónico en estanques y bordes húmedos.",
+        "imagen": "/gallery/plants/colocasia-black-magic.webp"
+      }
+    ]
+  },
+  {
+    "categoria": "Flotantes",
+    "plantas": [
+      {
+        "nombre": "Lechuga de agua",
+        "nombre_cientifico": "Pistia stratiotes",
+        "otros_nombres": ["Water lettuce"],
+        "descripcion": "Planta flotante tropical con hojas aterciopeladas en roseta; ayuda a dar sombra y controlar algas.",
+        "imagen": "/gallery/plants/lechuga-de-agua.webp"
+      },
+      {
+        "nombre": "Azolla",
+        "nombre_cientifico": "Azolla filiculoides",
+        "otros_nombres": ["Helecho mosquito", "Water fern"],
+        "descripcion": "Pequeño helecho flotante que cubre la superficie del agua y fija nitrógeno.",
+        "imagen": "/gallery/plants/azolla.webp"
+      },
+      {
+        "nombre": "Pontederia rotundifolia",
+        "nombre_cientifico": "Pontederia rotundifolia",
+        "otros_nombres": ["Roundleaf pickerelweed"],
+        "descripcion": "Hojas redondeadas y espigas moradas; provee refugio y filtra nutrientes.",
+        "imagen": "/gallery/plants/pontederia-rotundifolia.webp"
+      },
+      {
+        "nombre": "Pontederia crassipes (Jacinto de agua)",
+        "nombre_cientifico": "Pontederia crassipes",
+        "otros_nombres": ["Eichhornia crassipes", "Water hyacinth"],
+        "descripcion": "Planta flotante con vistosas flores lilas; ayuda a filtrar el agua.",
+        "imagen": "/gallery/plants/jacinto-de-agua.webp"
+      },
+      {
+        "nombre": "Pontederia lanceolata",
+        "nombre_cientifico": "Pontederia lanceolata",
+        "otros_nombres": ["Pickerelweed lanceolada"],
+        "descripcion": "Hojas alargadas y flores violetas; crece flotante y emergente.",
+        "imagen": "/gallery/plants/pontederia-lanceolata.webp"
+      },
+      {
+        "nombre": "Salvinia molesta",
+        "nombre_cientifico": "Salvinia molesta",
+        "otros_nombres": ["Salvinia gigante", "Kariba weed"],
+        "descripcion": "Helecho flotante con hojas ovaladas cubiertas de pelos repelentes al agua.",
+        "imagen": "/gallery/plants/salvinia-molesta.webp"
+      }
+    ]
+  },
+  {
+    "categoria": "Flotantes arraigadas",
+    "plantas": [
+      {
+        "nombre": "Pontederia azurea",
+        "nombre_cientifico": "Pontederia azurea",
+        "otros_nombres": ["Pickerelweed azul", "Jacinto de agua azul"],
+        "descripcion": "Planta emergente con espigas de flores azules; ideal para orillas de estanques.",
+        "imagen": "/gallery/plants/pontederia-azurea.webp"
+      },
+      {
+        "nombre": "Estrella de agua",
+        "nombre_cientifico": "Nymphoides hydrophylla",
+        "otros_nombres": ["Snowflake"],
+        "descripcion": "Hojas flotantes tipo nenúfar pequeño y flores blancas estrelladas.",
+        "imagen": "/gallery/plants/nymphoides-hydrophylla.webp"
+      },
+      {
+        "nombre": "Ninfoidea",
+        "nombre_cientifico": "Nymphoides indica",
+        "otros_nombres": ["Water snowflake"],
+        "descripcion": "Planta con hojas flotantes y flores delicadas; crece arraigada al fondo.",
+        "imagen": "/gallery/plants/ninfoidea.webp"
+      }
+    ]
+  },
+  {
+    "categoria": "Nenufares",
+    "plantas": [
+      {
+        "nombre": "Nenúfar Sir Galahad",
+        "nombre_cientifico": "Nymphaea 'Sir Galahad'",
+        "otros_nombres": ["Sir Galahad"],
+        "tipo": "Nocturna",
+        "tamaños_disponibles": ["CH", "MD", "GR", "XXL"],
+        "descripcion": "Flor blanca perfumada que abre de noche.",
+        "imagen": "/gallery/plants/nenufar-sir-galahad.webp"
+      },
+      {
+        "nombre": "Nenúfar Red Flame",
+        "nombre_cientifico": "Nymphaea 'Red Flame'",
+        "otros_nombres": ["Red Flame"],
+        "tipo": "Nocturna",
+        "tamaños_disponibles": ["CH", "MD", "GR", "XXL"],
+        "descripcion": "Flores rojo intenso de gran impacto visual.",
+        "imagen": "/gallery/plants/nenufar-red-flame.webp"
+      },
+      {
+        "nombre": "Nenúfar Rosa Nymphaea rubra",
+        "nombre_cientifico": "Nymphaea rubra",
+        "otros_nombres": ["Rubra"],
+        "tipo": "Nocturna",
+        "tamaños_disponibles": ["CH", "MD", "GR", "XXL"],
+        "descripcion": "Variedad tropical con tonos rosados y hojas amplias.",
+        "imagen": "/gallery/plants/nenufar-rosa-rubra.webp"
+      },
+      {
+        "nombre": "Nenúfar Lila Nymphaea 'Blue Beauty'",
+        "nombre_cientifico": "Nymphaea 'Blue Beauty'",
+        "otros_nombres": ["Blue Beauty"],
+        "tipo": "Diurna",
+        "tamaños_disponibles": ["CH", "MD", "GR", "XXL"],
+        "descripcion": "Flor lila-azulada muy florífera y aromática.",
+        "imagen": "/gallery/plants/nenufar-blue-beauty.webp"
+      },
+      {
+        "nombre": "Nenúfar Púrpura Nymphaea nouchali",
+        "nombre_cientifico": "Nymphaea nouchali",
+        "otros_nombres": ["Nymphaea stellata"],
+        "tipo": "Diurna",
+        "tamaños_disponibles": ["CH", "MD", "GR", "XXL"],
+        "descripcion": "Pétalos púrpura con centro amarillo.",
+        "imagen": "/gallery/plants/nenufar-nouchali.webp"
+      },
+      {
+        "nombre": "Nenúfar Rosa Nymphaea 'Fire Crest'",
+        "nombre_cientifico": "Nymphaea 'Fire Crest'",
+        "otros_nombres": ["Fire Crest"],
+        "tipo": "Diurna",
+        "tamaños_disponibles": ["CH", "MD", "GR", "XXL"],
+        "descripcion": "Rosa intenso en forma estrellada.",
+        "imagen": "/gallery/plants/nenufar-fire-crest.webp"
+      },
+      {
+        "nombre": "Nenúfar Amarilla Nymphaea 'Yellow Dazzler'",
+        "nombre_cientifico": "Nymphaea 'Yellow Dazzler'",
+        "otros_nombres": ["Yellow Dazzler"],
+        "tipo": "Diurna",
+        "tamaños_disponibles": ["CH", "MD", "GR", "XXL"],
+        "descripcion": "Flor amarilla brillante y hojas redondeadas.",
+        "imagen": "/gallery/plants/nenufar-yellow-dazzler.webp"
+      },
+      {
+        "nombre": "Nenúfar Durazno Nymphaea 'Florida Sunset'",
+        "nombre_cientifico": "Nymphaea 'Florida Sunset'",
+        "otros_nombres": ["Florida Sunset"],
+        "tipo": "Diurna",
+        "tamaños_disponibles": ["CH", "MD", "GR", "XXL"],
+        "descripcion": "Bicolor durazno-rosado de gran atractivo visual.",
+        "imagen": "/gallery/plants/nenufar-florida-sunset.webp"
+      }
+    ]
+  },
+  {
+    "categoria": "Oxigenadoras",
+    "plantas": [
+      {
+        "nombre": "Echinodorus uruguayensis (Espada amazónica)",
+        "nombre_cientifico": "Echinodorus uruguayensis",
+        "otros_nombres": ["Espada de Uruguay"],
+        "descripcion": "Hojas largas y onduladas; útil como oxigenadora.",
+        "imagen": "/gallery/plants/echinodorus-uruguayensis.webp"
+      },
+      {
+        "nombre": "Echinodorus Melón",
+        "nombre_cientifico": "Echinodorus 'Melon'",
+        "otros_nombres": ["Espada melón"],
+        "descripcion": "Hojas anchas con tonos verdes y rojizos.",
+        "imagen": "/gallery/plants/echinodorus-melon.webp"
+      },
+      {
+        "nombre": "Echinodorus Ozelot",
+        "nombre_cientifico": "Echinodorus 'Ozelot'",
+        "otros_nombres": ["Espada ocelote"],
+        "descripcion": "Hojas moteadas rojizas; resistente y decorativa.",
+        "imagen": "/gallery/plants/echinodorus-ozelot.webp"
+      },
+      {
+        "nombre": "Pasto acuático (Sagittaria subulata)",
+        "nombre_cientifico": "Sagittaria subulata",
+        "otros_nombres": ["Dwarf sagittaria"],
+        "descripcion": "Hojas en forma de aguja; crea praderas someras.",
+        "imagen": "/gallery/plants/pasto-acuatico-sagittaria-subulata.webp"
+      },
+      {
+        "nombre": "Pasto acuático (Zosterella dubia)",
+        "nombre_cientifico": "Zosterella dubia",
+        "otros_nombres": ["Water stargrass", "Heteranthera dubia"],
+        "descripcion": "Sumergida que oxigena y estabiliza nutrientes.",
+        "imagen": "/gallery/plants/pasto-acuatico-zosterella-dubia.webp"
+      },
+      {
+        "nombre": "Elodea nutalli",
+        "nombre_cientifico": "Elodea nuttallii",
+        "otros_nombres": ["Elodea fina", "Nuttall's waterweed"],
+        "descripcion": "Tallos ramificados; gran consumidora de nutrientes.",
+        "imagen": "/gallery/plants/elodea-nutalli.webp"
+      }
+    ]
+  },
+  {
+    "categoria": "Palustres",
+    "plantas": [
+      {
+        "nombre": "Papiro enano",
+        "nombre_cientifico": "Cyperus haspan",
+        "otros_nombres": ["Mini papiro"],
+        "descripcion": "Tallos finos y umbela pequeña; ideal para bordes de estanques.",
+        "imagen": "/gallery/plants/papiro-enano.webp"
+      },
+      {
+        "nombre": "Papiro Egipcio",
+        "nombre_cientifico": "Cyperus papyrus",
+        "otros_nombres": ["Papyrus"],
+        "descripcion": "Tallos altos y coronas de hojas en umbela; muy ornamental.",
+        "imagen": "/gallery/plants/papiro-egipcio.webp"
+      },
+      {
+        "nombre": "Junco azul",
+        "nombre_cientifico": "Juncus inflexus",
+        "otros_nombres": ["Blue rush"],
+        "descripcion": "Tallos rígidos de tono azulado; resistente y decorativo.",
+        "imagen": "/gallery/plants/junco-azul.webp"
+      },
+      {
+        "nombre": "Junco enano",
+        "nombre_cientifico": "Juncus ensifolius",
+        "otros_nombres": ["Dwarf rush"],
+        "descripcion": "Tallos cortos y flores marrones discretas.",
+        "imagen": "/gallery/plants/junco-enano.webp"
+      }
+    ]
+  }
+]
