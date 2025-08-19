@@ -7,10 +7,22 @@ import { ChevronDown, ChevronRight, X, PhoneCall, Images, MessageCircle } from '
 
 function cx(...c) { return c.filter(Boolean).join(' '); }
 
-/* ====== Configura imágenes de la ficha (carpetas en /public/gallery/...) ====== */
-const MANT_IMGS = [ /* 'm1.webp', 'm2.webp' */ ];
-const REMO_IMGS = [ /* 'r1.webp', 'r2.webp' */ ];
-const CONS_IMGS = [ /* 'c1.webp', 'c2.webp' */ ];
+/* ====== Imágenes de cada ficha (según tu árbol actual) ====== */
+const MANT_IMGS = [
+  '20180810_162125.webp',
+  '20180814_155509.webp',
+  '476848771_2385917241762855_5036919680159802796_n.webp',
+];
+const REMO_IMGS = [
+  '20180810_162125.webp',
+  '20180814_155509.webp',
+  '476848771_2385917241762855_5036919680159802796_n.webp',
+];
+const CONS_IMGS = [
+  '20180810_162125.webp',
+  '20180814_155509.webp',
+  '476848771_2385917241762855_5036919680159802796_n.webp',
+];
 
 /* ====== Copys extendidos para asesoría ====== */
 const ADVISORY = [
@@ -124,7 +136,7 @@ export default function ServiciosWizard({ hideIntro = false }) {
 
   return (
     <>
-      {/* Intro del wizard (opcional para evitar duplicar el H1) */}
+      {/* Intro del wizard (opcional para no duplicar H1) */}
       {!hideIntro && (
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-6 md:py-8">
           <header className="mb-6">
@@ -138,12 +150,8 @@ export default function ServiciosWizard({ hideIntro = false }) {
 
       {/* Generador de ventas */}
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-6 md:py-8">
-        <h2 className="text-2xl md:text-3xl font-semibold text-white mt-2 mb-3">
-          ¿Qué necesitas hoy?
-        </h2>
-        <p className="text-slate-300 mb-5">
-          Elige una opción y conoce soluciones, ejemplos y tiempos estimados.
-        </p>
+        <h2 className="text-2xl md:text-3xl font-semibold text-white mt-2 mb-3">¿Qué necesitas hoy?</h2>
+        <p className="text-slate-300 mb-5">Elige una opción y conoce soluciones, ejemplos y tiempos estimados.</p>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           {ADVISORY.map((opt) => {
@@ -236,52 +244,147 @@ export default function ServiciosWizard({ hideIntro = false }) {
   );
 }
 
-/* ====== Sheet Component ====== */
+/* ====== Sheet: imágenes a la izquierda con drag-to-scroll + autoplay ====== */
 function AdvisorySheet({ open, onClose, data }) {
+  const scrollerRef = useRef(null);
+  const rafRef = useRef(null);
+  const pauseRef = useRef(false);
+  const draggingRef = useRef(false);
+
+  // Autoscroll loop
+  useEffect(() => {
+    if (!open) return;
+
+    const el = scrollerRef.current;
+    if (!el) return;
+
+    const SPEED = 0.6; // px por frame aprox. (≈36px/s)
+    const step = () => {
+      if (!pauseRef.current && !draggingRef.current) {
+        const max = el.scrollWidth - el.clientWidth;
+        if (max > 0) {
+          el.scrollLeft = el.scrollLeft + SPEED;
+          if (el.scrollLeft >= max - 1) el.scrollLeft = 0; // loop
+        }
+      }
+      rafRef.current = requestAnimationFrame(step);
+    };
+    rafRef.current = requestAnimationFrame(step);
+
+    const onEnter = () => (pauseRef.current = true);
+    const onLeave = () => (pauseRef.current = false);
+    const onDown = () => (draggingRef.current = true);
+    const onUp = () => (draggingRef.current = false);
+    const onVisibility = () => (pauseRef.current = document.hidden);
+
+    el.addEventListener('mouseenter', onEnter);
+    el.addEventListener('mouseleave', onLeave);
+    el.addEventListener('touchstart', onEnter, { passive: true });
+    el.addEventListener('touchend', onLeave, { passive: true });
+    el.addEventListener('mousedown', onDown);
+    el.addEventListener('mouseup', onUp);
+    document.addEventListener('visibilitychange', onVisibility);
+
+    return () => {
+      cancelAnimationFrame(rafRef.current);
+      el.removeEventListener('mouseenter', onEnter);
+      el.removeEventListener('mouseleave', onLeave);
+      el.removeEventListener('touchstart', onEnter);
+      el.removeEventListener('touchend', onLeave);
+      el.removeEventListener('mousedown', onDown);
+      el.removeEventListener('mouseup', onUp);
+      document.removeEventListener('visibilitychange', onVisibility);
+    };
+  }, [open]);
+
+  // Drag to scroll con mouse (touch ya funciona nativo)
+  useEffect(() => {
+    if (!open || !scrollerRef.current) return;
+    const el = scrollerRef.current;
+    let isDown = false, startX = 0, scrollStart = 0;
+
+    const onMouseDown = (e) => {
+      isDown = true; draggingRef.current = true;
+      el.classList.add('cursor-grabbing');
+      startX = e.pageX - el.offsetLeft;
+      scrollStart = el.scrollLeft;
+    };
+    const end = () => {
+      isDown = false; draggingRef.current = false;
+      el.classList.remove('cursor-grabbing');
+    };
+    const onMouseMove = (e) => {
+      if (!isDown) return;
+      e.preventDefault();
+      const x = e.pageX - el.offsetLeft;
+      el.scrollLeft = scrollStart - (x - startX);
+    };
+
+    el.addEventListener('mousedown', onMouseDown);
+    el.addEventListener('mouseleave', end);
+    el.addEventListener('mouseup', end);
+    el.addEventListener('mousemove', onMouseMove);
+
+    return () => {
+      el.removeEventListener('mousedown', onMouseDown);
+      el.removeEventListener('mouseleave', end);
+      el.removeEventListener('mouseup', end);
+      el.removeEventListener('mousemove', onMouseMove);
+    };
+  }, [open]);
+
   if (!open || !data) return null;
+
   return (
     <div className="fixed inset-0 z-[60]">
       <div className="absolute inset-0 bg-black/70 backdrop-blur-sm" onClick={onClose} />
-      <div className="absolute inset-x-0 bottom-0 md:inset-y-10 md:right-10 md:left-auto md:w-[640px] bg-white rounded-t-2xl md:rounded-2xl shadow-xl overflow-hidden">
+
+      <div className="absolute inset-x-0 bottom-0 md:inset-y-10 md:right-10 md:left-auto md:w-[980px] bg-white rounded-t-2xl md:rounded-2xl shadow-xl overflow-hidden">
+        {/* Header */}
         <div className="flex items-center justify-between px-4 py-3 border-b border-slate-200">
           <h5 className="font-semibold text-slate-900">{data.label}</h5>
           <button onClick={onClose} className="p-2 rounded-lg hover:bg-slate-100">
             <X className="h-5 w-5 text-slate-700" />
           </button>
         </div>
-        <div className="max-h-[70vh] md:max-h-[calc(100vh-5rem)] overflow-y-auto">
-          <div className="px-4 py-4">
+
+        {/* Two-panel layout */}
+        <div className="grid grid-cols-1 md:grid-cols-2">
+          {/* LEFT: carrusel arrastrable + autoplay */}
+          <div className="relative md:h-[460px] bg-slate-50">
+            {/* Bisel de guía de scroll */}
+            <div className="pointer-events-none absolute inset-y-0 left-0 w-10 bg-gradient-to-r from-white to-transparent z-10 hidden md:block" />
+            <div className="pointer-events-none absolute inset-y-0 right-0 w-10 bg-gradient-to-l from-white to-transparent z-10 hidden md:block" />
+
+            <div
+              ref={scrollerRef}
+              className="group/scroll flex gap-3 overflow-x-auto snap-x snap-mandatory scroll-smooth cursor-grab h-[260px] md:h-full px-3 py-3"
+            >
+              {(data.imgs || []).map((name, i) => (
+                <div
+                  key={i}
+                  className="relative snap-start shrink-0 w-[min(92vw,560px)] h-full md:w-full md:h-full overflow-hidden rounded-xl border border-slate-200 bg-white"
+                >
+                  <Image
+                    src={`/gallery/${data.key}/${name}`}
+                    alt={`${data.label} ${i + 1}`}
+                    fill
+                    className="object-cover"
+                    sizes="(max-width: 768px) 92vw, 50vw"
+                  />
+                </div>
+              ))}
+            </div>
+          </div>
+
+          {/* RIGHT: contenido y CTAs */}
+          <div className="px-4 py-4 md:py-6">
             <p className="text-sm text-sky-700 font-medium">{data.tagline}</p>
             <p className="mt-1 text-sm text-slate-700">{data.long}</p>
             <ul className="mt-3 list-disc pl-5 text-sm text-slate-700 space-y-1">
               {data.bullets.map((b, i) => <li key={i}>{b}</li>)}
             </ul>
 
-            {/* Galería */}
-            {data.imgs?.length ? (
-              <>
-                <h6 className="mt-5 mb-2 text-sm font-semibold text-slate-900">Ejemplos</h6>
-                <ul className="grid grid-cols-2 gap-3">
-                  {data.imgs.map((name, i) => (
-                    <li key={i} className="relative aspect-[4/3] w-full overflow-hidden rounded-xl border border-slate-200">
-                      <Image
-                        src={`/gallery/${data.key}/${name}`}
-                        alt={`${data.label} ${i + 1}`}
-                        fill
-                        className="object-cover hover:scale-[1.03] transition-transform duration-500"
-                        sizes="50vw"
-                      />
-                    </li>
-                  ))}
-                </ul>
-              </>
-            ) : (
-              <p className="mt-4 text-sm text-slate-500">
-                Agrega imágenes a <code>/public/gallery/{data.key}</code> y colócalas en los arreglos del componente.
-              </p>
-            )}
-
-            {/* CTAs */}
             <div className="mt-6 grid grid-cols-1 sm:grid-cols-3 gap-2">
               <a
                 href="https://wa.me/5210000000000"
@@ -307,7 +410,7 @@ function AdvisorySheet({ open, onClose, data }) {
             </div>
 
             <p className="mt-4 text-xs text-slate-500">
-              Tiempos típicos: mantenimiento 2-4 h; remodelación 2-5 días; construcción 2-6 semanas (según escala).
+              Tiempos típicos: mantenimiento 2–4 h; remodelación 2–5 días; construcción 2–6 semanas (según escala).
             </p>
           </div>
         </div>
