@@ -3,7 +3,7 @@
 export const Whatsapp = () => {
   return (
     <a
-      href="https://api.whatsapp.com/send/?phone=527773779679&app_absent=0"
+      href="https://api.whatsapp.com/send/?phone=527772568821&app_absent=0"
       target="_blank"
       rel="noopener noreferrer"
       style={{
