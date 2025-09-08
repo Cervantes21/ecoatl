@@ -42,6 +42,7 @@ export default function NenufaresPage() {
           </ol>
         </nav>
 
+        {/* Vista de categoría */}
         <PlantsCategoryView
           categoria="Nenufares"
           onDark

@@ -42,6 +42,7 @@ export default function OxigenadorasPage() {
           </ol>
         </nav>
 
+        {/* Vista de categoría */}
         <PlantsCategoryView
           categoria="Oxigenadoras"
           onDark

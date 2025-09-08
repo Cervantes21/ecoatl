@@ -44,6 +44,7 @@ export default function FlotantesArraigadasPage() {
           </ol>
         </nav>
 
+        {/* Vista de categoría */}
         <PlantsCategoryView
           categoria="Flotantes arraigadas"
           onDark

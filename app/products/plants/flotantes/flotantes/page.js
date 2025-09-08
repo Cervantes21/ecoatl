@@ -42,6 +42,7 @@ export default function FlotantesPage() {
           </ol>
         </nav>
 
+        {/* Vista de categoría */}
         <PlantsCategoryView
           categoria="Flotantes"
           onDark

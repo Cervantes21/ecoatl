@@ -105,7 +105,7 @@ export default function PlantsPage({ searchParams }) {
         {/* Galería */}
         <div className="w-full max-w-7xl">
           <PlantsGallery
-            initialCategorySlug={catSlug} // ej. "flotantes-arraigadas"
+            initialCategorySlug={catSlug} 
             showTabs={false}
             showHeading={false}
             showSearch={true}

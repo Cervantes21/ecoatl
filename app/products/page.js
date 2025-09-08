@@ -46,7 +46,7 @@ export default function ProductsPage() {
       <div className="relative z-20 isolate overflow-hidden">
         <div className="mx-auto max-w-7xl px-6 py-16 lg:px-8">
           <div className="mx-auto max-w-2xl text-center text-white">
-            <h1 className="text-4xl font-extrabold tracking-tight sm:text-5xl">
+            <h1 className="mt-2 text-4xl font-extrabold tracking-tight sm:text-5xl">
               Productos
             </h1>
             <p className="mt-4 text-lg text-gray-200">
@@ -63,7 +63,7 @@ export default function ProductsPage() {
               description="Oxigenadoras, flotantes, palustres y tapizantes: mejora la calidad del agua y el equilibrio de tu sistema."
               badgeItems={plantExamples}
               image={{
-                src: '/gallery/IMG_20210525_153434.webp',
+                src: '/gallery/IMG_20210518_115509.webp',
                 alt: 'Plantas acuáticas Blue Garden',
               }}
             />
@@ -75,7 +75,7 @@ export default function ProductsPage() {
               description="Koi, goldfish y especies para acuario o estanque. Asesoría para combinaciones compatibles."
               badgeItems={fishExamples}
               image={{
-                src: '/gallery/20180810_154702.webp',
+                src: '/gallery/koi-fish.webp',
                 alt: 'Peces para estanques y acuarios',
               }}
             />

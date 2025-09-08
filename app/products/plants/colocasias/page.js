@@ -64,6 +64,7 @@ export default function ColocasiasPage() {
         {/* Vista de categoría */}
         <PlantsCategoryView
           categoria="Colocasias"
+          onDark={true}
           breadcrumb={[
             { label: 'Productos', href: '/products' },
             { label: 'Plantas', href: '/products/plants' },

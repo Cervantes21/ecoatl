@@ -6,8 +6,30 @@
         "nombre": "Black Magic",
         "nombre_cientifico": "Colocasia esculenta 'Black Magic'",
         "otros_nombres": ["Taro negro", "Oreja de elefante negra"],
-        "descripcion": "Hojas grandes de color morado oscuro casi negro; aporta contraste arquitectónico en estanques y bordes húmedos.",
-        "imagen": "/gallery/plants/colocasia-black-magic.webp"
+        "descripcion": "Planta palustre de gran porte, con hojas grandes en forma de corazón de color morado oscuro casi negro. Ideal para bordes cálidos y húmedos; genera sombra baja y contraste arquitectónico.",
+        "imagen": "/gallery/plants/colocasia-black-magic.webp",
+        "cuidados": {
+          "temperatura": "18–32 °C (óptimo 22–30 °C)",
+          "ph": "6.0–7.5",
+          "dureza": "GH 3–12 °d",
+          "kh": "2–8 °dKH",
+          "luz": "Sol filtrado a pleno sol",
+          "profundidad_plantacion": "Orilla húmeda / maceta a 0–5 cm bajo lámina",
+          "velocidad_crecimiento": "Rápido en clima cálido",
+          "propagacion": "Rizomas y división de hijuelos",
+          "mantenimiento": "Mantener sustrato siempre húmedo; retirar hojas viejas; fertilizar de liberación lenta en maceta.",
+          "compatibilidad_fauna": "Buena con peces; hojas grandes brindan refugio.",
+          "consumo_nutrientes": {
+            "nitrato": "moderado",
+            "amonio_amonio": "medio-alto (preferente en raíces)",
+            "fosfato": "moderado",
+            "potasio": "moderado",
+            "hierro": "medio (mejora la pigmentación oscura)",
+            "micronutrientes": "medio",
+            "co2": "bajo (toma CO₂ atmosférico)"
+          },
+          "funcion": "Provee sombra y absorbe nutrientes en bordes; estabiliza orillas."
+        }
       }
     ]
   },
@@ -18,43 +40,146 @@
         "nombre": "Lechuga de agua",
         "nombre_cientifico": "Pistia stratiotes",
         "otros_nombres": ["Water lettuce"],
-        "descripcion": "Planta flotante tropical con hojas aterciopeladas en roseta; ayuda a dar sombra y controlar algas.",
-        "imagen": "/gallery/plants/lechuga-de-agua.webp"
+        "descripcion": "Flotante tropical de rápido crecimiento en rosetas aterciopeladas; sombrea la lámina, compite con algas y sirve de refugio alevín.",
+        "imagen": "/gallery/plants/lechuga-de-agua.webp",
+        "cuidados": {
+          "temperatura": "20–32 °C (óptimo 24–30 °C)",
+          "ph": "6.5–7.8",
+          "dureza": "GH 4–20 °d",
+          "kh": "3–10 °dKH",
+          "luz": "Alta, sol filtrado a pleno sol",
+          "profundidad_plantacion": "Flotante libre",
+          "velocidad_crecimiento": "Muy rápido",
+          "propagacion": "Estolones/hijuelos",
+          "mantenimiento": "Retirar excedentes semanalmente para evitar anoxia; evitar salpicaduras constantes en el cogollo.",
+          "compatibilidad_fauna": "Excelente refugio para crías; controlar cobertura para oxigenación.",
+          "consumo_nutrientes": {
+            "nitrato": "alto",
+            "amonio_amonio": "alto",
+            "fosfato": "alto",
+            "potasio": "medio-alto",
+            "hierro": "medio",
+            "micronutrientes": "medio",
+            "co2": "bajo (toma atmosférico)"
+          },
+          "funcion": "Sombrea, compite con algas, remueve N y P disueltos."
+        }
       },
       {
         "nombre": "Azolla",
         "nombre_cientifico": "Azolla filiculoides",
         "otros_nombres": ["Helecho mosquito", "Water fern"],
-        "descripcion": "Pequeño helecho flotante que cubre la superficie del agua y fija nitrógeno.",
-        "imagen": "/gallery/plants/azolla.webp"
-      },
-      {
-        "nombre": "Pontederia rotundifolia",
-        "nombre_cientifico": "Pontederia rotundifolia",
-        "otros_nombres": ["Roundleaf pickerelweed"],
-        "descripcion": "Hojas redondeadas y espigas moradas; provee refugio y filtra nutrientes.",
-        "imagen": "/gallery/plants/pontederia-rotundifolia.webp"
+        "descripcion": "Helecho flotante que forma mantos densos; asocia cianobacterias fijadoras de N. Útil para control de algas y como biofertilizante.",
+        "imagen": "/gallery/plants/azolla.webp",
+        "cuidados": {
+          "temperatura": "18–28 °C",
+          "ph": "5.5–7.5",
+          "dureza": "GH 2–12 °d",
+          "kh": "1–6 °dKH",
+          "luz": "Media a alta; colorea rojizo a pleno sol",
+          "profundidad_plantacion": "Flotante libre",
+          "velocidad_crecimiento": "Muy rápido",
+          "propagacion": "Fragmentación vegetativa",
+          "mantenimiento": "Contener cobertura; retirar excedentes para evitar sombreo total.",
+          "compatibilidad_fauna": "Refugio superficial; evitar cobertura total en estanques con alta demanda de O₂.",
+          "consumo_nutrientes": {
+            "nitrato": "medio (fija N atmosférico)",
+            "amonio_amonio": "medio",
+            "fosfato": "alto",
+            "potasio": "medio",
+            "hierro": "bajo-medio",
+            "micronutrientes": "medio",
+            "co2": "bajo"
+          },
+          "funcion": "Cubre la lámina de agua, reduce algas; aporta N al sistema."
+        }
       },
       {
         "nombre": "Pontederia crassipes (Jacinto de agua)",
         "nombre_cientifico": "Pontederia crassipes",
         "otros_nombres": ["Eichhornia crassipes", "Water hyacinth"],
-        "descripcion": "Planta flotante con vistosas flores lilas; ayuda a filtrar el agua.",
-        "imagen": "/gallery/plants/jacinto-de-agua.webp"
+        "descripcion": "Flotante con pecíolos inflados y flores lila/azules. Potente depurador; requiere control por su capacidad invasora.",
+        "imagen": "/gallery/plants/jacinto-de-agua.webp",
+        "cuidados": {
+          "temperatura": "20–34 °C",
+          "ph": "6.5–8.0",
+          "dureza": "GH 4–20 °d",
+          "kh": "3–10 °dKH",
+          "luz": "Pleno sol",
+          "profundidad_plantacion": "Flotante libre",
+          "velocidad_crecimiento": "Muy rápido",
+          "propagacion": "Estolones e hijuelos",
+          "mantenimiento": "Poda y extracción periódica; evitar obstrucción de cuerpos de agua.",
+          "compatibilidad_fauna": "Excelente refugio; controlar densidad para evitar déficit de oxígeno nocturno.",
+          "consumo_nutrientes": {
+            "nitrato": "muy alto",
+            "amonio_amonio": "muy alto",
+            "fosfato": "alto",
+            "potasio": "medio-alto",
+            "hierro": "medio",
+            "micronutrientes": "medio-alto",
+            "co2": "bajo"
+          },
+          "funcion": "Depurador rápido de N y P; control con poda por riesgo de invasión."
+        }
       },
       {
         "nombre": "Pontederia lanceolata",
         "nombre_cientifico": "Pontederia lanceolata",
         "otros_nombres": ["Pickerelweed lanceolada"],
-        "descripcion": "Hojas alargadas y flores violetas; crece flotante y emergente.",
-        "imagen": "/gallery/plants/pontederia-lanceolata.webp"
+        "descripcion": "Acuática de hojas lanceoladas y espigas violetas; útil en bordes, puede enraizar y emerger.",
+        "imagen": "/gallery/plants/pontederia-lanceolata.webp",
+        "cuidados": {
+          "temperatura": "15–32 °C",
+          "ph": "6.5–8.0",
+          "dureza": "GH 3–18 °d",
+          "kh": "3–10 °dKH",
+          "luz": "Pleno sol",
+          "profundidad_plantacion": "Arraigada a 5–20 cm de agua; también flotante temporal",
+          "velocidad_crecimiento": "Medio-rápido",
+          "propagacion": "División de matas y rizomas",
+          "mantenimiento": "Retirar inflorescencias secas; controlar expansión.",
+          "compatibilidad_fauna": "Atrae polinizadores; buen refugio para peces.",
+          "consumo_nutrientes": {
+            "nitrato": "moderado",
+            "amonio_amonio": "moderado",
+            "fosfato": "moderado",
+            "potasio": "medio",
+            "hierro": "bajo-medio",
+            "micronutrientes": "bajo-medio",
+            "co2": "bajo"
+          },
+          "funcion": "Filtración en orillas y atracción de polinizadores."
+        }
       },
       {
         "nombre": "Salvinia molesta",
         "nombre_cientifico": "Salvinia molesta",
         "otros_nombres": ["Salvinia gigante", "Kariba weed"],
-        "descripcion": "Helecho flotante con hojas ovaladas cubiertas de pelos repelentes al agua.",
-        "imagen": "/gallery/plants/salvinia-molesta.webp"
+        "descripcion": "Helecho flotante de hojas ovaladas con tricomas repelentes al agua; forma coberturas rápidas.",
+        "imagen": "/gallery/plants/salvinia-molesta.webp",
+        "cuidados": {
+          "temperatura": "20–30 °C",
+          "ph": "6.0–8.0",
+          "dureza": "GH 2–15 °d",
+          "kh": "1–8 °dKH",
+          "luz": "Media a alta",
+          "profundidad_plantacion": "Flotante libre",
+          "velocidad_crecimiento": "Muy rápido",
+          "propagacion": "Fragmentación de mantos",
+          "mantenimiento": "Control frecuente para evitar sombreo total; retirar material en exceso.",
+          "compatibilidad_fauna": "Refugio superficial; controlar en estanques con peces grandes.",
+          "consumo_nutrientes": {
+            "nitrato": "medio",
+            "amonio_amonio": "medio",
+            "fosfato": "alto",
+            "potasio": "medio",
+            "hierro": "bajo-medio",
+            "micronutrientes": "medio",
+            "co2": "bajo"
+          },
+          "funcion": "Cubre y clarifica por absorción de P; requiere control."
+        }
       }
     ]
   },
@@ -65,22 +190,88 @@
         "nombre": "Pontederia azurea",
         "nombre_cientifico": "Pontederia azurea",
         "otros_nombres": ["Pickerelweed azul", "Jacinto de agua azul"],
-        "descripcion": "Planta emergente con espigas de flores azules; ideal para orillas de estanques.",
-        "imagen": "/gallery/plants/pontederia-azurea.webp"
+        "descripcion": "Emergente con espigas azules llamativas; raíces fijan y filtran; estabiliza bordes.",
+        "imagen": "/gallery/plants/pontederia-azurea.webp",
+        "cuidados": {
+          "temperatura": "18–32 °C",
+          "ph": "6.5–8.0",
+          "dureza": "GH 3–18 °d",
+          "kh": "3–10 °dKH",
+          "luz": "Pleno sol",
+          "profundidad_plantacion": "Arraigada a 5–25 cm",
+          "velocidad_crecimiento": "Medio-rápido",
+          "propagacion": "División de rizomas",
+          "mantenimiento": "Poda de espigas; control perimetral.",
+          "compatibilidad_fauna": "Atrae polinizadores; refugio para alevines.",
+          "consumo_nutrientes": {
+            "nitrato": "moderado-alto",
+            "amonio_amonio": "alto",
+            "fosfato": "moderado",
+            "potasio": "medio",
+            "hierro": "bajo-medio",
+            "micronutrientes": "medio",
+            "co2": "bajo"
+          },
+          "funcion": "Biofiltro de bordes; estabiliza sustrato."
+        }
       },
       {
         "nombre": "Estrella de agua",
         "nombre_cientifico": "Nymphoides hydrophylla",
         "otros_nombres": ["Snowflake"],
-        "descripcion": "Hojas flotantes tipo nenúfar pequeño y flores blancas estrelladas.",
-        "imagen": "/gallery/plants/nymphoides-hydrophylla.webp"
+        "descripcion": "Hojas flotantes pequeñas tipo nenúfar; flores blancas estrelladas; ideal para estanques compactos.",
+        "imagen": "/gallery/plants/nymphoides-hydrophylla.webp",
+        "cuidados": {
+          "temperatura": "20–30 °C",
+          "ph": "6.5–7.8",
+          "dureza": "GH 3–14 °d",
+          "kh": "2–8 °dKH",
+          "luz": "Sol filtrado a pleno sol",
+          "profundidad_plantacion": "Arraigada a 10–40 cm",
+          "velocidad_crecimiento": "Medio",
+          "propagacion": "Rizomas y plantines en estolones",
+          "mantenimiento": "Retirar hojas viejas y controlar expansión.",
+          "compatibilidad_fauna": "Sombrea y ofrece refugio superficial.",
+          "consumo_nutrientes": {
+            "nitrato": "moderado",
+            "amonio_amonio": "moderado",
+            "fosfato": "moderado",
+            "potasio": "medio",
+            "hierro": "medio",
+            "micronutrientes": "medio",
+            "co2": "bajo-medio"
+          },
+          "funcion": "Sombra puntual y refugio; compite con algas."
+        }
       },
       {
         "nombre": "Ninfoidea",
         "nombre_cientifico": "Nymphoides indica",
         "otros_nombres": ["Water snowflake"],
-        "descripcion": "Planta con hojas flotantes y flores delicadas; crece arraigada al fondo.",
-        "imagen": "/gallery/plants/ninfoidea.webp"
+        "descripcion": "Hojas redondeadas flotantes y flores blancas plumosas; aporta sombra y floración abundante.",
+        "imagen": "/gallery/plants/ninfoidea.webp",
+        "cuidados": {
+          "temperatura": "20–30 °C",
+          "ph": "6.5–7.8",
+          "dureza": "GH 3–14 °d",
+          "kh": "2–8 °dKH",
+          "luz": "Sol filtrado",
+          "profundidad_plantacion": "Arraigada a 10–40 cm",
+          "velocidad_crecimiento": "Medio",
+          "propagacion": "Rizomas/estolones",
+          "mantenimiento": "Retiro de hojas senescentes; control de cobertura.",
+          "compatibilidad_fauna": "Cobertura suave; refugio para peces pequeños.",
+          "consumo_nutrientes": {
+            "nitrato": "moderado",
+            "amonio_amonio": "moderado",
+            "fosfato": "moderado",
+            "potasio": "medio",
+            "hierro": "medio",
+            "micronutrientes": "medio",
+            "co2": "bajo-medio"
+          },
+          "funcion": "Sombrea y decora; estabiliza nutrientes."
+        }
       }
     ]
   },
@@ -93,8 +284,30 @@
         "otros_nombres": ["Sir Galahad"],
         "tipo": "Nocturna",
         "tamaños_disponibles": ["CH", "MD", "GR", "XXL"],
-        "descripcion": "Flor blanca perfumada que abre de noche.",
-        "imagen": "/gallery/plants/nenufar-sir-galahad.webp"
+        "descripcion": "Nocturno de flor blanca perfumada; se abre al anochecer; muy elegante.",
+        "imagen": "/gallery/plants/nenufar-sir-galahad.webp",
+        "cuidados": {
+          "temperatura": "22–32 °C",
+          "ph": "6.8–8.0",
+          "dureza": "GH 4–16 °d",
+          "kh": "3–10 °dKH",
+          "luz": "Pleno sol (6–8 h)",
+          "profundidad_plantacion": "Maceta pesada a 30–60 cm",
+          "velocidad_crecimiento": "Rápido en temporada cálida",
+          "propagacion": "Rizomas y división de coronas",
+          "mantenimiento": "Usar canastas con sustrato arcilloso; fertilizante de fondo en temporada.",
+          "compatibilidad_fauna": "Sombra amplia; buen refugio; evitar herbívoros intensos.",
+          "consumo_nutrientes": {
+            "nitrato": "alto",
+            "amonio_amonio": "alto",
+            "fosfato": "moderado",
+            "potasio": "medio-alto",
+            "hierro": "medio",
+            "micronutrientes": "medio",
+            "co2": "bajo-medio"
+          },
+          "funcion": "Sombra amplia y fuerte consumo de N; reduce algas."
+        }
       },
       {
         "nombre": "Nenúfar Red Flame",
@@ -102,17 +315,61 @@
         "otros_nombres": ["Red Flame"],
         "tipo": "Nocturna",
         "tamaños_disponibles": ["CH", "MD", "GR", "XXL"],
-        "descripcion": "Flores rojo intenso de gran impacto visual.",
-        "imagen": "/gallery/plants/nenufar-red-flame.webp"
+        "descripcion": "Tropical nocturno rojo intenso y muy florífero; punto focal.",
+        "imagen": "/gallery/plants/nenufar-red-flame.webp",
+        "cuidados": {
+          "temperatura": "22–32 °C",
+          "ph": "6.8–8.0",
+          "dureza": "GH 4–16 °d",
+          "kh": "3–10 °dKH",
+          "luz": "Pleno sol",
+          "profundidad_plantacion": "30–60 cm",
+          "velocidad_crecimiento": "Rápido",
+          "propagacion": "Rizomas",
+          "mantenimiento": "Aporta tabletas nutritivas en verano; retirar hojas dañadas.",
+          "compatibilidad_fauna": "Excelente con peces; sombra y refugio.",
+          "consumo_nutrientes": {
+            "nitrato": "alto",
+            "amonio_amonio": "alto",
+            "fosfato": "moderado",
+            "potasio": "medio-alto",
+            "hierro": "medio",
+            "micronutrientes": "medio",
+            "co2": "bajo-medio"
+          },
+          "funcion": "Sombrea y estabiliza nutrientes; foco ornamental."
+        }
       },
       {
         "nombre": "Nenúfar Rosa Nymphaea rubra",
         "nombre_cientifico": "Nymphaea rubra",
         "otros_nombres": ["Rubra"],
-        "tipo": "Nocturna",
+        "tipo": "Diurna",
         "tamaños_disponibles": ["CH", "MD", "GR", "XXL"],
-        "descripcion": "Variedad tropical con tonos rosados y hojas amplias.",
-        "imagen": "/gallery/plants/nenufar-rosa-rubra.webp"
+        "descripcion": "Tropical de flores rosadas grandes; hojas con envés rojizo; vigoroso y resistente.",
+        "imagen": "/gallery/plants/nenufar-rosa-rubra.webp",
+        "cuidados": {
+          "temperatura": "22–32 °C",
+          "ph": "6.8–8.0",
+          "dureza": "GH 4–16 °d",
+          "kh": "3–10 °dKH",
+          "luz": "Pleno sol",
+          "profundidad_plantacion": "30–60 cm",
+          "velocidad_crecimiento": "Rápido",
+          "propagacion": "Rizomas",
+          "mantenimiento": "Fertilizar en temporada; dividir cada 1–2 años.",
+          "compatibilidad_fauna": "Sombra amplia; refugio para peces y anfibios.",
+          "consumo_nutrientes": {
+            "nitrato": "alto",
+            "amonio_amonio": "alto",
+            "fosfato": "moderado",
+            "potasio": "medio-alto",
+            "hierro": "medio",
+            "micronutrientes": "medio",
+            "co2": "bajo-medio"
+          },
+          "funcion": "Sombra y consumo de N; cobertura anti-algas."
+        }
       },
       {
         "nombre": "Nenúfar Lila Nymphaea 'Blue Beauty'",
@@ -120,8 +377,30 @@
         "otros_nombres": ["Blue Beauty"],
         "tipo": "Diurna",
         "tamaños_disponibles": ["CH", "MD", "GR", "XXL"],
-        "descripcion": "Flor lila-azulada muy florífera y aromática.",
-        "imagen": "/gallery/plants/nenufar-blue-beauty.webp"
+        "descripcion": "Flor lila-azulada muy florífera y aromática; resistente al calor.",
+        "imagen": "/gallery/plants/nenufar-blue-beauty.webp",
+        "cuidados": {
+          "temperatura": "22–32 °C",
+          "ph": "6.8–8.0",
+          "dureza": "GH 4–16 °d",
+          "kh": "3–10 °dKH",
+          "luz": "Pleno sol",
+          "profundidad_plantacion": "30–60 cm",
+          "velocidad_crecimiento": "Rápido",
+          "propagacion": "Rizomas",
+          "mantenimiento": "Tabletas nutritivas en verano; retirar hojas en descomposición.",
+          "compatibilidad_fauna": "Excelente; provee sombra extensa.",
+          "consumo_nutrientes": {
+            "nitrato": "alto",
+            "amonio_amonio": "alto",
+            "fosfato": "moderado",
+            "potasio": "medio-alto",
+            "hierro": "medio",
+            "micronutrientes": "medio",
+            "co2": "bajo-medio"
+          },
+          "funcion": "Sombrea, filtra nutrientes; alta floración."
+        }
       },
       {
         "nombre": "Nenúfar Púrpura Nymphaea nouchali",
@@ -129,8 +408,61 @@
         "otros_nombres": ["Nymphaea stellata"],
         "tipo": "Diurna",
         "tamaños_disponibles": ["CH", "MD", "GR", "XXL"],
-        "descripcion": "Pétalos púrpura con centro amarillo.",
-        "imagen": "/gallery/plants/nenufar-nouchali.webp"
+        "descripcion": "Flores púrpura con centro amarillo; importancia cultural en Asia; ornamental.",
+        "imagen": "/gallery/plants/nenufar-nouchali.webp",
+        "cuidados": {
+          "temperatura": "22–32 °C",
+          "ph": "6.8–8.0",
+          "dureza": "GH 4–16 °d",
+          "kh": "3–10 °dKH",
+          "luz": "Pleno sol",
+          "profundidad_plantacion": "30–60 cm",
+          "velocidad_crecimiento": "Rápido",
+          "propagacion": "Rizomas",
+          "mantenimiento": "Dividir cada 1–2 años; fertilizar en temporada.",
+          "compatibilidad_fauna": "Sombra y estabilidad térmica para peces.",
+          "consumo_nutrientes": {
+            "nitrato": "alto",
+            "amonio_amonio": "alto",
+            "fosfato": "moderado",
+            "potasio": "medio-alto",
+            "hierro": "medio",
+            "micronutrientes": "medio",
+            "co2": "bajo-medio"
+          },
+          "funcion": "Sombrea y estabiliza parámetros; reduce algas."
+        }
+      },
+      {
+        "nombre": "Nenúfar Tropical Violeta",
+        "nombre_cientifico": "Nymphaea híbrida tropical",
+        "otros_nombres": ["Nenúfar morado tropical", "Violet Tropical Water Lily"],
+        "tipo": "Diurna",
+        "tamaños_disponibles": ["CH", "MD", "GR", "XXL"],
+        "descripcion": "Híbrido violeta intenso; muy florífero y resistente al calor; impactante.",
+        "imagen": "/gallery/plants/nenufar-tropical-violeta.webp",
+        "cuidados": {
+          "temperatura": "22–34 °C",
+          "ph": "6.8–8.0",
+          "dureza": "GH 4–16 °d",
+          "kh": "3–10 °dKH",
+          "luz": "Pleno sol (6–8 h)",
+          "profundidad_plantacion": "30–60 cm",
+          "velocidad_crecimiento": "Rápido",
+          "propagacion": "Rizomas",
+          "mantenimiento": "Canastas grandes; fertilizante de fondo en verano.",
+          "compatibilidad_fauna": "Sombra amplia; refugio para alevines.",
+          "consumo_nutrientes": {
+            "nitrato": "alto",
+            "amonio_amonio": "alto",
+            "fosfato": "moderado",
+            "potasio": "medio-alto",
+            "hierro": "medio",
+            "micronutrientes": "medio",
+            "co2": "bajo-medio"
+          },
+          "funcion": "Sombrea ampliamente y consume N; muy eficiente contra algas."
+        }
       },
       {
         "nombre": "Nenúfar Rosa Nymphaea 'Fire Crest'",
@@ -138,8 +470,30 @@
         "otros_nombres": ["Fire Crest"],
         "tipo": "Diurna",
         "tamaños_disponibles": ["CH", "MD", "GR", "XXL"],
-        "descripcion": "Rosa intenso en forma estrellada.",
-        "imagen": "/gallery/plants/nenufar-fire-crest.webp"
+        "descripcion": "Flor rosada estrellada; fácil y adaptable.",
+        "imagen": "/gallery/plants/nenufar-fire-crest.webp",
+        "cuidados": {
+          "temperatura": "22–32 °C",
+          "ph": "6.8–8.0",
+          "dureza": "GH 4–16 °d",
+          "kh": "3–10 °dKH",
+          "luz": "Pleno sol",
+          "profundidad_plantacion": "30–60 cm",
+          "velocidad_crecimiento": "Rápido",
+          "propagacion": "Rizomas",
+          "mantenimiento": "Fertilizar mensualmente en temporada; quitar hojas viejas.",
+          "compatibilidad_fauna": "Refugio y sombra para la mayoría de peces.",
+          "consumo_nutrientes": {
+            "nitrato": "alto",
+            "amonio_amonio": "alto",
+            "fosfato": "moderado",
+            "potasio": "medio-alto",
+            "hierro": "medio",
+            "micronutrientes": "medio",
+            "co2": "bajo-medio"
+          },
+          "funcion": "Cobertura y consumo de N; alta estética."
+        }
       },
       {
         "nombre": "Nenúfar Amarilla Nymphaea 'Yellow Dazzler'",
@@ -147,8 +501,30 @@
         "otros_nombres": ["Yellow Dazzler"],
         "tipo": "Diurna",
         "tamaños_disponibles": ["CH", "MD", "GR", "XXL"],
-        "descripcion": "Flor amarilla brillante y hojas redondeadas.",
-        "imagen": "/gallery/plants/nenufar-yellow-dazzler.webp"
+        "descripcion": "Flor amarilla intensa con hojas redondeadas; alto impacto visual.",
+        "imagen": "/gallery/plants/nenufar-yellow-dazzler.webp",
+        "cuidados": {
+          "temperatura": "22–32 °C",
+          "ph": "6.8–8.0",
+          "dureza": "GH 4–16 °d",
+          "kh": "3–10 °dKH",
+          "luz": "Pleno sol",
+          "profundidad_plantacion": "30–60 cm",
+          "velocidad_crecimiento": "Rápido",
+          "propagacion": "Rizomas",
+          "mantenimiento": "Fertilización de fondo; división periódica.",
+          "compatibilidad_fauna": "Sombra amplia; adecuado con la mayoría de peces.",
+          "consumo_nutrientes": {
+            "nitrato": "alto",
+            "amonio_amonio": "alto",
+            "fosfato": "moderado",
+            "potasio": "medio-alto",
+            "hierro": "medio",
+            "micronutrientes": "medio",
+            "co2": "bajo-medio"
+          },
+          "funcion": "Sombrea y depura por consumo de N; alto impacto visual."
+        }
       },
       {
         "nombre": "Nenúfar Durazno Nymphaea 'Florida Sunset'",
@@ -156,8 +532,30 @@
         "otros_nombres": ["Florida Sunset"],
         "tipo": "Diurna",
         "tamaños_disponibles": ["CH", "MD", "GR", "XXL"],
-        "descripcion": "Bicolor durazno-rosado de gran atractivo visual.",
-        "imagen": "/gallery/plants/nenufar-florida-sunset.webp"
+        "descripcion": "Bicolor durazno-rosado tipo atardecer; muy ornamental.",
+        "imagen": "/gallery/plants/nenufar-florida-sunset.webp",
+        "cuidados": {
+          "temperatura": "22–32 °C",
+          "ph": "6.8–8.0",
+          "dureza": "GH 4–16 °d",
+          "kh": "3–10 °dKH",
+          "luz": "Pleno sol",
+          "profundidad_plantacion": "30–60 cm",
+          "velocidad_crecimiento": "Rápido",
+          "propagacion": "Rizomas",
+          "mantenimiento": "Aporta nutrientes de fondo en temporada; manejo de hojas.",
+          "compatibilidad_fauna": "Refugio extenso; reduce estrés en peces.",
+          "consumo_nutrientes": {
+            "nitrato": "alto",
+            "amonio_amonio": "alto",
+            "fosfato": "moderado",
+            "potasio": "medio-alto",
+            "hierro": "medio",
+            "micronutrientes": "medio",
+            "co2": "bajo-medio"
+          },
+          "funcion": "Sombra y depuración de N; efecto bicolor decorativo."
+        }
       }
     ]
   },
@@ -168,43 +566,146 @@
         "nombre": "Echinodorus uruguayensis (Espada amazónica)",
         "nombre_cientifico": "Echinodorus uruguayensis",
         "otros_nombres": ["Espada de Uruguay"],
-        "descripcion": "Hojas largas y onduladas; útil como oxigenadora.",
-        "imagen": "/gallery/plants/echinodorus-uruguayensis.webp"
+        "descripcion": "Sumergida de hojas largas onduladas; excelente oxigenadora y refugio para peces.",
+        "imagen": "/gallery/plants/echinodorus-uruguayensis.webp",
+        "cuidados": {
+          "temperatura": "20–30 °C",
+          "ph": "6.5–7.5",
+          "dureza": "GH 3–12 °d",
+          "kh": "2–6 °dKH",
+          "luz": "Media a alta",
+          "profundidad_plantacion": "Sustrato a 20–50 cm de profundidad total",
+          "velocidad_crecimiento": "Medio",
+          "propagacion": "Estolones/plantas hijas en varas florales",
+          "mantenimiento": "Sustrato nutritivo; no enterrar corona; poda de hojas viejas.",
+          "compatibilidad_fauna": "Muy buena; hojas amplias para refugio.",
+          "consumo_nutrientes": {
+            "nitrato": "alto",
+            "amonio_amonio": "medio",
+            "fosfato": "medio",
+            "potasio": "alto",
+            "hierro": "medio-alto",
+            "micronutrientes": "medio",
+            "co2": "medio (mejora crecimiento)"
+          },
+          "funcion": "Oxigena y consume N; da refugio y volumen."
+        }
       },
       {
         "nombre": "Echinodorus Melón",
         "nombre_cientifico": "Echinodorus 'Melon'",
         "otros_nombres": ["Espada melón"],
-        "descripcion": "Hojas anchas con tonos verdes y rojizos.",
-        "imagen": "/gallery/plants/echinodorus-melon.webp"
+        "descripcion": "Robusta, hojas anchas verde/rojizas; aporta volumen y oxigenación.",
+        "imagen": "/gallery/plants/echinodorus-melon.webp",
+        "cuidados": {
+          "temperatura": "20–30 °C",
+          "ph": "6.5–7.5",
+          "dureza": "GH 3–12 °d",
+          "kh": "2–6 °dKH",
+          "luz": "Media",
+          "profundidad_plantacion": "Sustrato; corona afuera",
+          "velocidad_crecimiento": "Medio",
+          "propagacion": "Plántulas en vara; división",
+          "mantenimiento": "Sustrato fértil; tabletas radiculares.",
+          "compatibilidad_fauna": "Excelente con la mayoría de peces.",
+          "consumo_nutrientes": {
+            "nitrato": "alto",
+            "amonio_amonio": "medio",
+            "fosfato": "medio",
+            "potasio": "alto",
+            "hierro": "medio-alto",
+            "micronutrientes": "medio",
+            "co2": "medio"
+          },
+          "funcion": "Oxigenadora y consumidora de N; masa vegetal estable."
+        }
       },
       {
         "nombre": "Echinodorus Ozelot",
         "nombre_cientifico": "Echinodorus 'Ozelot'",
         "otros_nombres": ["Espada ocelote"],
-        "descripcion": "Hojas moteadas rojizas; resistente y decorativa.",
-        "imagen": "/gallery/plants/echinodorus-ozelot.webp"
+        "descripcion": "Hojas moteadas rojizas; muy decorativa; ideal para exhibición.",
+        "imagen": "/gallery/plants/echinodorus-ozelot.webp",
+        "cuidados": {
+          "temperatura": "20–30 °C",
+          "ph": "6.5–7.5",
+          "dureza": "GH 3–12 °d",
+          "kh": "2–6 °dKH",
+          "luz": "Media",
+          "profundidad_plantacion": "Sustrato; corona fuera",
+          "velocidad_crecimiento": "Medio",
+          "propagacion": "Plántulas en vara; división",
+          "mantenimiento": "Tabletas ricas en Fe para realzar color.",
+          "compatibilidad_fauna": "Muy buena; hojas firmes toleran peces medianos.",
+          "consumo_nutrientes": {
+            "nitrato": "alto",
+            "amonio_amonio": "medio",
+            "fosfato": "medio",
+            "potasio": "alto",
+            "hierro": "alto (clave para color)",
+            "micronutrientes": "medio",
+            "co2": "medio"
+          },
+          "funcion": "Oxigenadora; absorbe N y estabiliza fondos."
+        }
       },
       {
         "nombre": "Pasto acuático (Sagittaria subulata)",
         "nombre_cientifico": "Sagittaria subulata",
         "otros_nombres": ["Dwarf sagittaria"],
-        "descripcion": "Hojas en forma de aguja; crea praderas someras.",
-        "imagen": "/gallery/plants/pasto-acuatico-sagittaria-subulata.webp"
-      },
-      {
-        "nombre": "Pasto acuático (Zosterella dubia)",
-        "nombre_cientifico": "Zosterella dubia",
-        "otros_nombres": ["Water stargrass", "Heteranthera dubia"],
-        "descripcion": "Sumergida que oxigena y estabiliza nutrientes.",
-        "imagen": "/gallery/plants/pasto-acuatico-zosterella-dubia.webp"
+        "descripcion": "Forma praderas densas de hojas tipo aguja; estabiliza sustrato y oxigena.",
+        "imagen": "/gallery/plants/pasto-acuatico-sagittaria-subulata.webp",
+        "cuidados": {
+          "temperatura": "18–28 °C",
+          "ph": "6.5–7.5",
+          "dureza": "GH 3–10 °d",
+          "kh": "2–6 °dKH",
+          "luz": "Media",
+          "profundidad_plantacion": "Sustrato somero 10–30 cm de lámina",
+          "velocidad_crecimiento": "Rápido con buen nutriente",
+          "propagacion": "Estolones",
+          "mantenimiento": "Poda y aclareo para mantener altura.",
+          "compatibilidad_fauna": "Excelente para crías e invertebrados.",
+          "consumo_nutrientes": {
+            "nitrato": "moderado-alto",
+            "amonio_amonio": "medio",
+            "fosfato": "medio",
+            "potasio": "alto",
+            "hierro": "medio",
+            "micronutrientes": "medio",
+            "co2": "medio"
+          },
+          "funcion": "Oxigena y fija sustrato; pradera filtrante."
+        }
       },
       {
         "nombre": "Elodea nutalli",
         "nombre_cientifico": "Elodea nuttallii",
         "otros_nombres": ["Elodea fina", "Nuttall's waterweed"],
-        "descripcion": "Tallos ramificados; gran consumidora de nutrientes.",
-        "imagen": "/gallery/plants/elodea-nutalli.webp"
+        "descripcion": "Oxigenadora de tallos finos y crecimiento veloz; excelente para reducir nutrientes.",
+        "imagen": "/gallery/plants/elodea-nutalli.webp",
+        "cuidados": {
+          "temperatura": "10–26 °C (óptimo 16–22 °C)",
+          "ph": "6.5–8.0",
+          "dureza": "GH 3–18 °d",
+          "kh": "3–10 °dKH",
+          "luz": "Media",
+          "profundidad_plantacion": "Sumergida a 30–80 cm",
+          "velocidad_crecimiento": "Muy rápido",
+          "propagacion": "Esquejes y fragmentación",
+          "mantenimiento": "Poda frecuente; evitar que invada filtros.",
+          "compatibilidad_fauna": "Refugio y zonas de desove.",
+          "consumo_nutrientes": {
+            "nitrato": "muy alto",
+            "amonio_amonio": "alto",
+            "fosfato": "medio",
+            "potasio": "medio",
+            "hierro": "bajo-medio",
+            "micronutrientes": "bajo-medio",
+            "co2": "bajo-medio (responde a inyección)"
+          },
+          "funcion": "Oxigena y reduce nitratos con rapidez."
+        }
       }
     ]
   },
@@ -212,32 +713,91 @@
     "categoria": "Palustres",
     "plantas": [
       {
-        "nombre": "Papiro enano",
-        "nombre_cientifico": "Cyperus haspan",
-        "otros_nombres": ["Mini papiro"],
-        "descripcion": "Tallos finos y umbela pequeña; ideal para bordes de estanques.",
-        "imagen": "/gallery/plants/papiro-enano.webp"
-      },
-      {
         "nombre": "Papiro Egipcio",
         "nombre_cientifico": "Cyperus papyrus",
         "otros_nombres": ["Papyrus"],
-        "descripcion": "Tallos altos y coronas de hojas en umbela; muy ornamental.",
-        "imagen": "/gallery/plants/papiro-egipcio.webp"
+        "descripcion": "Tallos altos con umbela elegante; da verticalidad y movimiento; emblemático.",
+        "imagen": "/gallery/plants/papiro-egipcio.webp",
+        "cuidados": {
+          "temperatura": "18–35 °C",
+          "ph": "6.0–8.0",
+          "dureza": "GH 4–20 °d",
+          "kh": "3–10 °dKH",
+          "luz": "Pleno sol",
+          "profundidad_plantacion": "Orilla o maceta a 0–15 cm bajo agua",
+          "velocidad_crecimiento": "Rápido",
+          "propagacion": "División de matas; esquejes de umbela",
+          "mantenimiento": "Alto consumo hídrico; podar tallos viejos.",
+          "compatibilidad_fauna": "Buen refugio; atrae aves e insectos.",
+          "consumo_nutrientes": {
+            "nitrato": "alto",
+            "amonio_amonio": "alto",
+            "fosfato": "moderado",
+            "potasio": "medio-alto",
+            "hierro": "bajo-medio",
+            "micronutrientes": "medio",
+            "co2": "bajo"
+          },
+          "funcion": "Biofiltro vigoroso; evapotranspiración y sombra alta."
+        }
       },
       {
         "nombre": "Junco azul",
         "nombre_cientifico": "Juncus inflexus",
         "otros_nombres": ["Blue rush"],
-        "descripcion": "Tallos rígidos de tono azulado; resistente y decorativo.",
-        "imagen": "/gallery/plants/junco-azul.webp"
+        "descripcion": "Perenne estructural de tallos rígidos azulados; ideal para bordes y diseño minimalista.",
+        "imagen": "/gallery/plants/junco-azul.webp",
+        "cuidados": {
+          "temperatura": "10–28 °C",
+          "ph": "6.0–8.0",
+          "dureza": "GH 3–20 °d",
+          "kh": "3–10 °dKH",
+          "luz": "Pleno sol a media sombra",
+          "profundidad_plantacion": "Borde húmedo / 0–10 cm de agua",
+          "velocidad_crecimiento": "Medio",
+          "propagacion": "División de matas",
+          "mantenimiento": "Corte de varas secas al final de invierno.",
+          "compatibilidad_fauna": "Refugio y posadero; tolera climas frescos.",
+          "consumo_nutrientes": {
+            "nitrato": "moderado",
+            "amonio_amonio": "moderado",
+            "fosfato": "bajo-moderado",
+            "potasio": "bajo-medio",
+            "hierro": "bajo",
+            "micronutrientes": "bajo-medio",
+            "co2": "bajo"
+          },
+          "funcion": "Estabiliza orillas y filtra escorrentías."
+        }
       },
       {
-        "nombre": "Junco enano",
-        "nombre_cientifico": "Juncus ensifolius",
-        "otros_nombres": ["Dwarf rush"],
-        "descripcion": "Tallos cortos y flores marrones discretas.",
-        "imagen": "/gallery/plants/junco-enano.webp"
+        "nombre": "Junco (Enea/Espadaña)",
+        "nombre_cientifico": "Typha domingensis",
+        "otros_nombres": ["Junco blanco", "Tule enea", "Enea", "Espadaña", "Cattail", "Southern cattail"],
+        "descripcion": "Emergente robusta (1–3 m) con inflorescencia café tipo ‘cigarro’. Planta clave en humedales y depuración; crecer por rizomas con vigor.",
+        "imagen": "/gallery/plants/junco-typha-domingensis.webp",
+        "cuidados": {
+          "temperatura": "15–35 °C",
+          "ph": "6.0–8.5",
+          "dureza": "GH 4–20 °d",
+          "kh": "3–12 °dKH",
+          "luz": "Pleno sol",
+          "profundidad_plantacion": "Arraigada a 10–40 cm; contener en canastas",
+          "velocidad_crecimiento": "Muy rápido",
+          "propagacion": "Rizomas; división",
+          "mantenimiento": "Contener con barreras o macetas; podar panojas secas.",
+          "compatibilidad_fauna": "Hábitat para aves y macroinvertebrados; excelente refugio.",
+          "consumo_nutrientes": {
+            "nitrato": "muy alto",
+            "amonio_amonio": "muy alto",
+            "fosfato": "muy alto",
+            "potasio": "alto",
+            "hierro": "medio",
+            "micronutrientes": "alto",
+            "co2": "bajo"
+          },
+          "funcion": "Planta clave de humedales construidos: remueve N y P, sedimentos y metales; requiere contención."
+        }
       }
     ]
   }
