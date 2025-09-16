@@ -124,32 +124,32 @@
         }
       },
       {
-        "nombre": "Pontederia lanceolata",
-        "nombre_cientifico": "Pontederia lanceolata",
-        "otros_nombres": ["Pickerelweed lanceolada"],
-        "descripcion": "Acuática de hojas lanceoladas y espigas violetas; útil en bordes, puede enraizar y emerger.",
-        "imagen": "/gallery/plants/pontederia-lanceolata.webp",
+        "nombre": "Limnobium (Bocado de rana)",
+        "nombre_cientifico": "Limnobium laevigatum",
+        "otros_nombres": ["Bocado de rana", "South American frogbit", "Frogbit"],
+        "descripcion": "Flotante de roseta con raíces colgantes muy desarrolladas; sombrea la lámina, compite con algas y ofrece gran refugio para alevines e invertebrados.",
+        "imagen": "/gallery/plants/limnobium-bocado-de-rana.webp",
         "cuidados": {
-          "temperatura": "15–32 °C",
-          "ph": "6.5–8.0",
-          "dureza": "GH 3–18 °d",
-          "kh": "3–10 °dKH",
-          "luz": "Pleno sol",
-          "profundidad_plantacion": "Arraigada a 5–20 cm de agua; también flotante temporal",
-          "velocidad_crecimiento": "Medio-rápido",
-          "propagacion": "División de matas y rizomas",
-          "mantenimiento": "Retirar inflorescencias secas; controlar expansión.",
-          "compatibilidad_fauna": "Atrae polinizadores; buen refugio para peces.",
+          "temperatura": "18–32 °C (óptimo 22–30 °C)",
+          "ph": "6.0–7.8",
+          "dureza": "GH 2–18 °d",
+          "kh": "1–8 °dKH",
+          "luz": "Media a alta; sol filtrado a pleno sol",
+          "profundidad_plantacion": "Flotante libre; puede fijarse en bordes poco profundos",
+          "velocidad_crecimiento": "Rápido en temporada cálida",
+          "propagacion": "Estolones e hijuelos",
+          "mantenimiento": "Retirar excedentes para evitar cobertura total; evitar salpicaduras constantes o que el cogollo se mantenga húmedo de forma continua (riesgo de pudrición). Proteger de descensos <15 °C.",
+          "compatibilidad_fauna": "Excelente refugio y zona de alimentación para crías; controlar densidad para mantener buena oxigenación nocturna.",
           "consumo_nutrientes": {
-            "nitrato": "moderado",
-            "amonio_amonio": "moderado",
-            "fosfato": "moderado",
+            "nitrato": "alto",
+            "amonio_amonio": "alto",
+            "fosfato": "medio-alto",
             "potasio": "medio",
             "hierro": "bajo-medio",
-            "micronutrientes": "bajo-medio",
-            "co2": "bajo"
+            "micronutrientes": "medio",
+            "co2": "bajo (toma CO₂ atmosférico)"
           },
-          "funcion": "Filtración en orillas y atracción de polinizadores."
+          "funcion": "Sombrea, remueve N y P disueltos; raíces largas filtran partículas y fomentan microfauna."
         }
       },
       {
@@ -245,32 +245,32 @@
         }
       },
       {
-        "nombre": "Ninfoidea",
-        "nombre_cientifico": "Nymphoides indica",
-        "otros_nombres": ["Water snowflake"],
-        "descripcion": "Hojas redondeadas flotantes y flores blancas plumosas; aporta sombra y floración abundante.",
-        "imagen": "/gallery/plants/ninfoidea.webp",
+        "nombre": "Pontederia lanceolata",
+        "nombre_cientifico": "Pontederia lanceolata",
+        "otros_nombres": ["Pickerelweed lanceolada"],
+        "descripcion": "Acuática de hojas lanceoladas y espigas violetas; útil en bordes, puede enraizar y emerger.",
+        "imagen": "/gallery/plants/pontederia-lanceolata.webp",
         "cuidados": {
-          "temperatura": "20–30 °C",
-          "ph": "6.5–7.8",
-          "dureza": "GH 3–14 °d",
-          "kh": "2–8 °dKH",
-          "luz": "Sol filtrado",
-          "profundidad_plantacion": "Arraigada a 10–40 cm",
-          "velocidad_crecimiento": "Medio",
-          "propagacion": "Rizomas/estolones",
-          "mantenimiento": "Retiro de hojas senescentes; control de cobertura.",
-          "compatibilidad_fauna": "Cobertura suave; refugio para peces pequeños.",
+          "temperatura": "15–32 °C",
+          "ph": "6.5–8.0",
+          "dureza": "GH 3–18 °d",
+          "kh": "3–10 °dKH",
+          "luz": "Pleno sol",
+          "profundidad_plantacion": "Arraigada a 5–20 cm de agua; también flotante temporal",
+          "velocidad_crecimiento": "Medio-rápido",
+          "propagacion": "División de matas y rizomas",
+          "mantenimiento": "Retirar inflorescencias secas; controlar expansión.",
+          "compatibilidad_fauna": "Atrae polinizadores; buen refugio para peces.",
           "consumo_nutrientes": {
             "nitrato": "moderado",
             "amonio_amonio": "moderado",
             "fosfato": "moderado",
             "potasio": "medio",
-            "hierro": "medio",
-            "micronutrientes": "medio",
-            "co2": "bajo-medio"
+            "hierro": "bajo-medio",
+            "micronutrientes": "bajo-medio",
+            "co2": "bajo"
           },
-          "funcion": "Sombrea y decora; estabiliza nutrientes."
+          "funcion": "Filtración en orillas y atracción de polinizadores."
         }
       }
     ]
@@ -705,6 +705,35 @@
             "co2": "bajo-medio (responde a inyección)"
           },
           "funcion": "Oxigena y reduce nitratos con rapidez."
+        }
+      },
+      {
+        "nombre": "Rotala indica",
+        "nombre_cientifico": "Rotala indica (Ammannia sp. 'Bonsai')",
+        "otros_nombres": ["Indian toothcup", "Rotala Bonsai"],
+        "descripcion": "Planta de tallo compacto y crecimiento vertical. Presenta hojas pequeñas y redondeadas de color verde a rosado bajo alta luz. Muy usada en paisajismo acuático para crear macizos densos y contrastes.",
+        "imagen": "/gallery/plants/rotala-indica.webp",
+        "cuidados": {
+          "temperatura": "20–28 °C",
+          "ph": "6.0–7.5",
+          "dureza": "GH 3–10 °d",
+          "kh": "1–6 °dKH",
+          "luz": "Media a alta (mejora la coloración rojiza)",
+          "profundidad_plantacion": "Plantada en grupos en el sustrato, 20–50 cm de columna de agua",
+          "velocidad_crecimiento": "Medio-rápido según luz y nutrientes",
+          "propagacion": "Esquejes de tallos laterales o podados",
+          "mantenimiento": "Podar regularmente para mantener forma compacta y estimular brotes laterales. Requiere sustrato nutritivo o abonado líquido.",
+          "compatibilidad_fauna": "Segura con peces e invertebrados; tallos densos ofrecen refugio para crías.",
+          "consumo_nutrientes": {
+            "nitrato": "medio-alto",
+            "amonio_amonio": "medio",
+            "fosfato": "medio",
+            "potasio": "medio-alto",
+            "hierro": "alto (clave para color rojo)",
+            "micronutrientes": "medio",
+            "co2": "medio-alto (recomendable inyección para mejor color)"
+          },
+          "funcion": "Oxigenadora y absorbente de nutrientes; aporta color y textura en acuarios plantados."
         }
       }
     ]

@@ -12,7 +12,7 @@ export default function EstanquesPage() {
       slug="estanques"
       title="Estanques"
       subtitle="Un santuario de vida en tu casa o negocio."
-      videoBg={{ src: '/estanque.webm', poster: '/gallery/IMG_20210525_153434.webp', overlayOpacity: 0.55 }}
+      videoBg={{ src: '/estanque.webm', poster: '/gallery/goldfish.webp', overlayOpacity: 0.55 }}
       tagline="Menos químicos, más vida. Claridad estable con bajo consumo."
       description="Diseñamos y construimos estanques con filtración biológica, vegetación curada y caudales optimizados. También hacemos remodelaciones y planes de mantenimiento."
       bullets={[
@@ -31,12 +31,11 @@ export default function EstanquesPage() {
         { title: 'Maduración y ajustes', desc: 'Ajustes finos, calendario biológico y entrega con recomendaciones.' },
       ]}
       gallery={[
-        '/gallery/IMG_20210525_153434.webp',
-        '/gallery/IMG_20210525_153446.webp',
+        '/gallery/goldfish.webp',
+        '/gallery/IMG_20210518_115509.webp',
         '/gallery/IMG_20210525_153529.webp',
         '/gallery/IMG_20210525_153613.webp',
         '/gallery/20180810_162125.webp',
-        '/gallery/20180814_155509.webp',
       ]}
       beforeAfter={[
         { before: '/gallery/testimonials/project1/before.webp', after: '/gallery/testimonials/project1/after.webp', label: 'Proyecto 1' },
@@ -48,7 +47,7 @@ export default function EstanquesPage() {
         { q: '¿Puedo integrar peces?', a: 'Sí, con diseño de hábitat y balance de plantas/filtración.' },
       ]}
       ctas={{
-        whatsapp: 'https://wa.me/5210000000000',
+        whatsapp: 'https://wa.me/527772568821',
         diagnostic: '#contacto',
         portfolioHref: '/gallery',
       }}

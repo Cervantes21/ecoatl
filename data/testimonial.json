@@ -1,0 +1,57 @@
+{
+  "defaults": {
+    "comment": "“Transformación natural con diseño biofílico y agua viva.”",
+    "author": "Cliente Blue Garden",
+    "date": "Proyecto reciente"
+  },
+  "items": [
+    {
+      "id": "project1",
+      "comment": "“El estanque que diseñaron para nuestro jardín superó nuestras expectativas. ¡Ahora tenemos un ecosistema completo en casa!”",
+      "author": "Cliente Satisfecho",
+      "date": "Agosto 2023"
+    },
+    {
+      "id": "project2",
+      "comment": "“La instalación de la bio-piscina cambió por completo nuestro espacio. ¡Es increíble!”",
+      "author": "Familia Pérez",
+      "date": "Mayo 2024"
+    },
+    {
+      "id": "project3",
+      "comment": "“Gracias a Blue Garden, tenemos un estanque con estilo único. ¡Todos lo admiran!”",
+      "author": "Jardín Botánico",
+      "date": "Enero 2025"
+    },
+    {
+      "id": "project4",
+      "comment": "“El antes y después es notable. Nuestro patio ahora es el favorito de la familia.”",
+      "author": "Residencia López",
+      "date": "Marzo 2025"
+    },
+    {
+      "id": "project5",
+      "comment": "“De un terreno en bruto a una biopiscina personalizada. El diseño curvo y los acabados naturales lograron un espacio único para convivir.”",
+      "author": "Familia Ramírez",
+      "date": "Julio 2025"
+    },
+    {
+      "id": "project6",
+      "comment": "“Un espacio minimalista convertido en un estanque elegante con lirios acuáticos, perfecto para relajarse junto al agua.”",
+      "author": "Casa Jardín",
+      "date": "Agosto 2025"
+    },
+    {
+      "id": "project7",
+      "comment": "“La antigua fuente se transformó en un estanque decorativo con lirios y detalles modernos, aportando frescura al patio.”",
+      "author": "Hotel Colonial",
+      "date": "Septiembre 2025"
+    },
+    {
+      "id": "project8",
+      "comment": "“De un patio vacío a un estanque con cascada de rocas y plantas acuáticas, logramos un espacio vivo que invita a la tranquilidad.”",
+      "author": "Centro Cultural",
+      "date": "Septiembre 2025"
+    }
+  ]
+}

@@ -68,6 +68,17 @@ export default function ContactPage() {
                     Biojardinesbiopiscinas
                   </Link>
                 </li>
+                <li className="pt-2">
+                  <span className="block text-sm text-white/70">Instagram</span>
+                  <Link
+                    className="hover:underline"
+                    href="https://www.instagram.com/bluegarden.mx/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    bluegarden.mx
+                  </Link>
+                </li>
               </ul>
 
               <div className="mt-6 rounded-xl border border-white/10 bg-white/5 p-4 text-sm text-white/90">

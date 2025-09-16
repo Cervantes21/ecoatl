@@ -51,7 +51,7 @@ export default function Hero() {
       <video
         ref={videoRef}
         src="/Video_Listo_Biopiscina_Ecobrutalista.webm"
-        poster="/gallery/IMG_20210525_153434.webp"
+        poster="/gallery/goldfish.webp"
         autoPlay muted loop playsInline preload="auto"
         className="absolute inset-0 w-full h-full object-cover z-0"
       />

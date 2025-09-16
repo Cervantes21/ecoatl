@@ -5,6 +5,7 @@ import Image from 'next/image';
 import { FaLeaf, FaFish } from 'react-icons/fa';
 import { ChevronRight } from 'lucide-react';
 import ContactCTA from '@/components/ContactCTA.jsx';
+import GalleryGrid from '@/components/GalleryGrid.jsx';
 
 export const metadata = {
   title: 'Galería | Blue Garden',
@@ -89,7 +90,7 @@ export default function GalleryPage() {
     <main className="min-h-screen bg-white dark:bg-slate-950">
       {/* Proyectos en carrusel/fichas */}
       <ProjectShowcase projects={PROJECTS} />
-
+      <GalleryGrid/>
       {/* Sección CTA a galerías con video de fondo */}
       <section className="relative py-14 overflow-hidden">
         {/* Video de fondo */}
@@ -124,7 +125,7 @@ export default function GalleryPage() {
               href="/products/plants"
               description="Oxigenadoras, flotantes, palustres y tapizantes para lograr un equilibrio saludable."
               image={{
-                src: '/gallery/IMG_20210525_153434.webp',
+                src: '/gallery/plantas-acuaticas.webp',
                 alt: 'Plantas acuáticas Blue Garden',
               }}
               cta="Ver plantas"
@@ -135,7 +136,7 @@ export default function GalleryPage() {
               href="/products/fish"
               description="Koi, goldfish y especies compatibles para estanques y acuarios."
               image={{
-                src: '/gallery/20180810_154702.webp',
+                src: '/gallery/koi-fish.webp',
                 alt: 'Peces para estanques y acuarios',
               }}
               cta="Ver peces"

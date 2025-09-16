@@ -4,62 +4,170 @@
     "nombre_cientifico": "Gyrinocheilus aymonieri",
     "otros_nombres": ["Come algas", "Comealgas chino", "Algae Eater"],
     "descripcion": "Pez de agua dulce popular por su capacidad de limpiar algas en acuarios. De cuerpo alargado y boca en forma de ventosa para adherirse a superficies. Puede alcanzar hasta 28 cm en condiciones óptimas.",
-    "imagen": "/gallery/fish/comealga.webp"
+    "imagen": "/gallery/fish/comealga.webp",
+    "cuidados": {
+      "temperatura": "22–28 °C",
+      "ph": "6.0–7.5",
+      "dureza": "GH 4–15 °d",
+      "kh": "3–8 °dKH",
+      "tamaño_adulto": "20–28 cm",
+      "alimentacion": "Principalmente algas, pero en cautiverio acepta tabletas vegetales, pepino, calabacín y comida en escamas.",
+      "comportamiento": "Juveniles pacíficos, adultos territoriales con peces similares.",
+      "compatibilidad": "Ideal en acuarios medianos y grandes; no con peces pequeños delicados.",
+      "mantenimiento": "Requiere acuarios espaciosos con muchas superficies para pastar algas."
+    },
+    "funcion": "Control de algas en acuarios y estanques pequeños."
   },
   {
     "nombre": "Pez Telescopio",
     "nombre_cientifico": "Carassius auratus var. telescope",
     "otros_nombres": ["Telescopio negro", "Goldfish telescopio", "Moor"],
     "descripcion": "Variedad de goldfish con ojos grandes y saltones que sobresalen lateralmente. Su visión es limitada y requiere cuidados especiales en acuarios tranquilos.",
-    "imagen": "/gallery/fish/pez-telescopio.webp"
+    "imagen": "/gallery/fish/pez-telescopio.webp",
+    "cuidados": {
+      "temperatura": "18–24 °C",
+      "ph": "6.5–7.5",
+      "dureza": "GH 4–20 °d",
+      "kh": "3–12 °dKH",
+      "tamaño_adulto": "15–20 cm",
+      "alimentacion": "Omnívoro: escamas, pellets, vegetales hervidos (guisantes, espinaca) y alimento vivo ocasional.",
+      "comportamiento": "Pacífico, lento nadador debido a su visión limitada.",
+      "compatibilidad": "Mejor con otros goldfish de formas similares; evitar peces rápidos o agresivos.",
+      "mantenimiento": "Acuario amplio, sin objetos cortantes para proteger sus ojos."
+    },
+    "funcion": "Ornamental clásico de acuarios fríos y estanques pequeños."
   },
   {
     "nombre": "Xifo Naranja",
     "nombre_cientifico": "Xiphophorus hellerii",
     "otros_nombres": ["Pez espada", "Swordtail"],
     "descripcion": "Pez tropical vivíparo de cuerpo alargado y color naranja brillante. Los machos presentan una prolongación en forma de espada en la aleta caudal.",
-    "imagen": "/gallery/fish/xifo-naranja.webp"
+    "imagen": "/gallery/fish/xifo-naranja.webp",
+    "cuidados": {
+      "temperatura": "22–28 °C",
+      "ph": "7.0–8.2",
+      "dureza": "GH 10–30 °d",
+      "kh": "8–15 °dKH",
+      "tamaño_adulto": "10–12 cm",
+      "alimentacion": "Omnívoro: acepta escamas, pellets, algas y alimentos vivos como larvas o artemia.",
+      "comportamiento": "Activo y algo territorial entre machos.",
+      "compatibilidad": "Pacífico en acuarios comunitarios; mantener varias hembras por macho.",
+      "mantenimiento": "Requiere espacios abiertos para nadar y plantas densas para refugio."
+    },
+    "funcion": "Ornamental y de reproducción sencilla en acuarios comunitarios."
   },
   {
     "nombre": "Pez Platy Mickey",
     "nombre_cientifico": "Xiphophorus maculatus",
     "otros_nombres": ["Platy Mickey Mouse", "Platy"],
     "descripcion": "Variedad de platy que presenta una marca oscura en la base de la cola similar a la silueta de Mickey Mouse. Es pacífico y fácil de reproducir.",
-    "imagen": "/gallery/fish/pez-platy-mickey.webp"
+    "imagen": "/gallery/fish/pez-platy-mickey.webp",
+    "cuidados": {
+      "temperatura": "20–26 °C",
+      "ph": "7.0–8.2",
+      "dureza": "GH 10–28 °d",
+      "kh": "8–12 °dKH",
+      "tamaño_adulto": "5–6 cm",
+      "alimentacion": "Omnívoro: escamas, algas, vegetales y alimento vivo.",
+      "comportamiento": "Muy pacífico y activo.",
+      "compatibilidad": "Excelente para acuarios comunitarios con peces pequeños y tranquilos.",
+      "mantenimiento": "Acuario plantado con espacio libre para nadar."
+    },
+    "funcion": "Popular en acuarios comunitarios por su resistencia y facilidad de cría."
   },
   {
     "nombre": "Pez cebra fluorescente O transgénica",
     "nombre_cientifico": "Danio rerio (var. GloFish)",
     "otros_nombres": ["Pez cebra Glo", "Zebrafish fluorescente"],
     "descripcion": "Variedad transgénica del pez cebra que presenta colores fluorescentes bajo luz ultravioleta. Muy activo y resistente, ideal para acuarios comunitarios.",
-    "imagen": "/gallery/fish/pez-cebra-fluorescente.webp"
+    "imagen": "/gallery/fish/pez-cebra-fluorescente.webp",
+    "cuidados": {
+      "temperatura": "18–26 °C",
+      "ph": "6.5–7.5",
+      "dureza": "GH 5–19 °d",
+      "kh": "3–10 °dKH",
+      "tamaño_adulto": "4–6 cm",
+      "alimentacion": "Omnívoro: escamas, micropellets, daphnia, artemia.",
+      "comportamiento": "Muy activo y pacífico en cardumen.",
+      "compatibilidad": "Ideal con peces pequeños y no agresivos.",
+      "mantenimiento": "Requiere estar en grupos de al menos 6 para reducir el estrés."
+    },
+    "funcion": "Ornamental llamativo en acuarios decorativos y educativos."
   },
   {
     "nombre": "Pez betta",
     "nombre_cientifico": "Betta splendens",
     "otros_nombres": ["Pez luchador de Siam", "Betta"],
     "descripcion": "Pez de aletas vistosas y colores intensos, conocido por su comportamiento territorial. Los machos no deben mantenerse juntos para evitar peleas.",
-    "imagen": "/gallery/fish/pez-betta.webp"
+    "imagen": "/gallery/fish/pez-betta.webp",
+    "cuidados": {
+      "temperatura": "24–30 °C",
+      "ph": "6.0–7.5",
+      "dureza": "GH 3–10 °d",
+      "kh": "2–6 °dKH",
+      "tamaño_adulto": "5–7 cm",
+      "alimentacion": "Carnívoro oportunista: acepta gránulos especiales, larvas de mosquito, artemia y daphnia.",
+      "comportamiento": "Territorial, especialmente los machos; hembras más pacíficas.",
+      "compatibilidad": "Puede convivir con peces pacíficos no llamativos ni de aletas largas.",
+      "mantenimiento": "Requiere aguas limpias, poca corriente y refugios entre plantas."
+    },
+    "funcion": "Ornamental de alto valor estético en acuarios de exhibición."
   },
   {
     "nombre": "Pez carpa Koi",
     "nombre_cientifico": "Cyprinus rubrofuscus",
     "otros_nombres": ["Koi", "Carpa ornamental"],
     "descripcion": "Variedad ornamental de la carpa común criada por sus patrones y colores. Puede vivir décadas en estanques y alcanzar más de 60 cm.",
-    "imagen": "/gallery/fish/pez-carpa-koi.webp"
+    "imagen": "/gallery/fish/pez-carpa-koi.webp",
+    "cuidados": {
+      "temperatura": "15–25 °C",
+      "ph": "6.8–8.0",
+      "dureza": "GH 6–20 °d",
+      "kh": "4–15 °dKH",
+      "tamaño_adulto": "60–90 cm",
+      "alimentacion": "Omnívoro: pellets para koi, vegetales, insectos, lombrices.",
+      "comportamiento": "Pacífico, aunque puede remover plantas al buscar alimento.",
+      "compatibilidad": "Excelente para estanques con otros koi o peces grandes.",
+      "mantenimiento": "Requiere estanques grandes, agua bien oxigenada y filtración potente."
+    },
+    "funcion": "Ornamental de alto valor en estanques y jardines acuáticos."
   },
   {
     "nombre": "Pez dorado común",
     "nombre_cientifico": "Carassius auratus",
     "otros_nombres": ["Goldfish común", "Carpín dorado"],
     "descripcion": "Pez de agua fría muy resistente, de color dorado o anaranjado. Es uno de los peces ornamentales más populares del mundo.",
-    "imagen": "/gallery/fish/pez-dorado-comun.webp"
+    "imagen": "/gallery/fish/pez-dorado-comun.webp",
+    "cuidados": {
+      "temperatura": "16–24 °C",
+      "ph": "6.5–7.5",
+      "dureza": "GH 5–19 °d",
+      "kh": "4–12 °dKH",
+      "tamaño_adulto": "15–30 cm",
+      "alimentacion": "Omnívoro: escamas, pellets, vegetales, daphnia.",
+      "comportamiento": "Pacífico, activo y resistente.",
+      "compatibilidad": "Ideal en estanques o acuarios grandes con otros goldfish.",
+      "mantenimiento": "Requiere buena filtración y suficiente espacio."
+    },
+    "funcion": "Ornamental clásico y resistente, ideal para principiantes."
   },
   {
     "nombre": "Cabeza de león",
     "nombre_cientifico": "Carassius auratus var. lionhead",
     "otros_nombres": ["Lionhead goldfish", "Goldfish cabeza de león"],
     "descripcion": "Variedad de goldfish sin aleta dorsal y con un característico crecimiento carnoso en la cabeza que recuerda a una melena de león.",
-    "imagen": "/gallery/fish/cabeza-de-leon.webp"
+    "imagen": "/gallery/fish/cabeza-de-leon.webp",
+    "cuidados": {
+      "temperatura": "18–24 °C",
+      "ph": "6.5–7.5",
+      "dureza": "GH 5–20 °d",
+      "kh": "4–12 °dKH",
+      "tamaño_adulto": "12–15 cm",
+      "alimentacion": "Omnívoro: pellets de hundimiento, vegetales hervidos y alimento vivo.",
+      "comportamiento": "Pacífico pero lento nadador.",
+      "compatibilidad": "Ideal con otros goldfish de formas redondeadas y tranquilas.",
+      "mantenimiento": "Evitar corrientes fuertes y acuarios con objetos filosos."
+    },
+    "funcion": "Ornamental especializado en acuarios de goldfish de fantasía."
   }
 ]

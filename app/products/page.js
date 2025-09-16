@@ -63,7 +63,7 @@ export default function ProductsPage() {
               description="Oxigenadoras, flotantes, palustres y tapizantes: mejora la calidad del agua y el equilibrio de tu sistema."
               badgeItems={plantExamples}
               image={{
-                src: '/gallery/IMG_20210518_115509.webp',
+                src: '/gallery/plantas-acuaticas.webp',
                 alt: 'Plantas acuáticas Blue Garden',
               }}
             />

@@ -86,7 +86,7 @@ export default function AboutContent() {
           {/* CTAs */}
           <div className="mt-6 flex flex-wrap items-center gap-3">
             <a
-              href="https://wa.me/5210000000000"
+              href="https://wa.me/527772568821"
               className="rounded-xl bg-emerald-600 px-4 py-2 text-white text-sm font-semibold hover:bg-emerald-700"
             >
               Cotiza por WhatsApp
@@ -171,7 +171,7 @@ export default function AboutContent() {
               </p>
               <div className="mt-4 flex flex-wrap gap-2">
                 <a
-                  href="https://wa.me/5210000000000"
+                  href="https://wa.me/527772568821"
                   className="inline-flex items-center gap-2 rounded-xl bg-emerald-600 px-4 py-2 text-white text-sm font-semibold hover:bg-emerald-700"
                 >
                   <Droplets className="h-4 w-4" />
@@ -241,7 +241,7 @@ export default function AboutContent() {
             </div>
             <div className="flex gap-2">
               <a
-                href="https://wa.me/5210000000000"
+                href="https://wa.me/527772568821"
                 className="rounded-xl bg-emerald-600 px-4 py-2 text-white text-sm font-semibold hover:bg-emerald-700"
               >
                 Cotiza por WhatsApp

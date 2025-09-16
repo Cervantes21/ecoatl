@@ -1,0 +1,92 @@
+[
+  {
+    "id": "project-1",
+    "nombre": "Biopiscina con cascada natural",
+    "descripcion": "Biopiscina con cascada lateral y sistema de plantas acuáticas para filtración natural.",
+    "ubicacion": "Cuernavaca, Morelos",
+    "dimension": "6 x 4 m",
+    "carpeta": "/gallery/biopiscinas/project-1",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-2",
+    "nombre": "Biopiscina rectangular con playa",
+    "descripcion": "Diseño rectangular con área tipo playa y zona profunda para nado.",
+    "ubicacion": "Jiutepec, Morelos",
+    "dimension": "8 x 5 m",
+    "carpeta": "/gallery/biopiscinas/project-2",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-3",
+    "nombre": "Biopiscina tropical",
+    "descripcion": "Proyecto con integración de vegetación tropical, cascada decorativa y espacio para peces.",
+    "ubicacion": "Tepoztlán, Morelos",
+    "dimension": "10 x 6 m",
+    "carpeta": "/gallery/biopiscinas/project-3",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-4",
+    "nombre": "Biopiscina semiurbana",
+    "descripcion": "Biopiscina en entorno urbano, con sistema de biofiltro lateral y jardineras acuáticas.",
+    "ubicacion": "Cuautla, Morelos",
+    "dimension": "7 x 5 m",
+    "carpeta": "/gallery/biopiscinas/project-4",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-5",
+    "nombre": "Biopiscina con borde infinito",
+    "descripcion": "Diseño contemporáneo con borde infinito y filtración natural mediante macrófitas.",
+    "ubicacion": "Yautepec, Morelos",
+    "dimension": "12 x 6 m",
+    "carpeta": "/gallery/biopiscinas/project-5",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-6",
+    "nombre": "Biopiscina familiar",
+    "descripcion": "Proyecto orientado al uso familiar, con zonas de baja profundidad y vegetación perimetral.",
+    "ubicacion": "Cuernavaca, Morelos",
+    "dimension": "9 x 5 m",
+    "carpeta": "/gallery/biopiscinas/project-6",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-7",
+    "nombre": "Biopiscina con deck de madera",
+    "descripcion": "Biopiscina acompañada de un deck de madera para áreas de descanso y contemplación.",
+    "ubicacion": "Jiutepec, Morelos",
+    "dimension": "10 x 7 m",
+    "carpeta": "/gallery/biopiscinas/project-7",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-8",
+    "nombre": "Biopiscina moderna en jardín",
+    "descripcion": "Diseño moderno en jardín residencial, con plantas ornamentales y filtración natural.",
+    "ubicacion": "Cuernavaca, Morelos",
+    "dimension": "6 x 4 m",
+    "carpeta": "/gallery/biopiscinas/project-8",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-9",
+    "nombre": "Biopiscina campestre",
+    "descripcion": "Proyecto campestre rodeado de vegetación nativa y piedras volcánicas.",
+    "ubicacion": "Tepoztlán, Morelos",
+    "dimension": "8 x 5 m",
+    "carpeta": "/gallery/biopiscinas/project-9",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-10",
+    "nombre": "Biopiscina en isla tropical",
+    "descripcion": "Biopiscina con diseño abierto y vegetación costera, integrándose al paisaje caribeño.",
+    "ubicacion": "Cozumel, Quintana Roo",
+    "dimension": "15 x 8 m",
+    "carpeta": "/gallery/biopiscinas/project-10",
+    "estado": "Terminado"
+  }
+]

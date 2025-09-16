@@ -1,0 +1,200 @@
+[
+  {
+    "id": "project-1",
+    "nombre": "Estanque con cascada lateral",
+    "descripcion": "Estanque de jardín con cascada lateral y peces ornamentales, ideal para espacios pequeños.",
+    "ubicacion": "Cuernavaca, Morelos",
+    "dimension": "2 x 1.5 m",
+    "carpeta": "/gallery/estanques/project-1",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-2",
+    "nombre": "Estanque rectangular con lirios",
+    "descripcion": "Estanque rectangular con borde en piedra natural y lirios acuáticos.",
+    "ubicacion": "Jiutepec, Morelos",
+    "dimension": "3 x 2 m",
+    "carpeta": "/gallery/estanques/project-2",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-3",
+    "nombre": "Estanque circular con fuente",
+    "descripcion": "Estanque circular con fuente central y zona de descanso alrededor.",
+    "ubicacion": "Temixco, Morelos",
+    "dimension": "2.8 m diámetro",
+    "carpeta": "/gallery/estanques/project-3",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-4",
+    "nombre": "Estanque rústico con muro de piedra",
+    "descripcion": "Estanque de estilo rústico con cascada en muro de piedra.",
+    "ubicacion": "Yautepec, Morelos",
+    "dimension": "3.5 x 2.5 m",
+    "carpeta": "/gallery/estanques/project-4",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-5",
+    "nombre": "Estanque minimalista",
+    "descripcion": "Estanque para meditación con diseño minimalista y acabados en piedra volcánica.",
+    "ubicacion": "Tepoztlán, Morelos",
+    "dimension": "2 x 2 m",
+    "carpeta": "/gallery/estanques/project-5",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-6",
+    "nombre": "Estanque semi-urbano con biofiltro",
+    "descripcion": "Estanque semi-urbano con biofiltro lateral en jardineras.",
+    "ubicacion": "Cuautla, Morelos",
+    "dimension": "4 x 3 m",
+    "carpeta": "/gallery/estanques/project-6",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-7",
+    "nombre": "Estanque con puente de madera",
+    "descripcion": "Estanque con puente de madera y vegetación densa alrededor.",
+    "ubicacion": "Cuernavaca, Morelos",
+    "dimension": "3.5 x 3 m",
+    "carpeta": "/gallery/estanques/project-7",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-8",
+    "nombre": "Estanque para koi",
+    "descripcion": "Estanque para koi con filtración natural y zona de descanso.",
+    "ubicacion": "Tlalnepantla, Morelos",
+    "dimension": "5 x 4 m",
+    "carpeta": "/gallery/estanques/project-8",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-9",
+    "nombre": "Estanque para patio trasero",
+    "descripcion": "Estanque pequeño para patio trasero con plantas flotantes.",
+    "ubicacion": "Jiutepec, Morelos",
+    "dimension": "2 x 1.5 m",
+    "carpeta": "/gallery/estanques/project-9",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-10",
+    "nombre": "Estanque de granja",
+    "descripcion": "Estanque de granja con biofiltro natural y bordes reforzados.",
+    "ubicacion": "Totolapan, Morelos",
+    "dimension": "6 x 4 m",
+    "carpeta": "/gallery/estanques/project-10",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-11",
+    "nombre": "Estanque en terraza moderna",
+    "descripcion": "Estanque decorativo en terraza con acabados modernos.",
+    "ubicacion": "Cuernavaca, Morelos",
+    "dimension": "2.5 x 2 m",
+    "carpeta": "/gallery/estanques/project-11",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-12",
+    "nombre": "Estanque escolar",
+    "descripcion": "Estanque escolar con fines educativos, plantas y peces ornamentales.",
+    "ubicacion": "Temixco, Morelos",
+    "dimension": "3 x 2 m",
+    "carpeta": "/gallery/estanques/project-12",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-13",
+    "nombre": "Estanque con jardín vertical",
+    "descripcion": "Estanque urbano con integración de jardín vertical.",
+    "ubicacion": "Cuernavaca, Morelos",
+    "dimension": "2 x 2.5 m",
+    "carpeta": "/gallery/estanques/project-13",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-14",
+    "nombre": "Estanque naturalista",
+    "descripcion": "Estanque naturalista con borde irregular y plantas densas.",
+    "ubicacion": "Yautepec, Morelos",
+    "dimension": "4 x 3 m",
+    "carpeta": "/gallery/estanques/project-14",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-15",
+    "nombre": "Estanque zen",
+    "descripcion": "Estanque para meditación en jardín zen con grava blanca.",
+    "ubicacion": "Tepoztlán, Morelos",
+    "dimension": "2.5 x 2 m",
+    "carpeta": "/gallery/estanques/project-15",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-16",
+    "nombre": "Estanque con puente japonés",
+    "descripcion": "Estanque con puente japonés y peces koi.",
+    "ubicacion": "Cuernavaca, Morelos",
+    "dimension": "6 x 4 m",
+    "carpeta": "/gallery/estanques/project-16",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-17",
+    "nombre": "Estanque con cascada iluminada",
+    "descripcion": "Estanque urbano con cascada iluminada.",
+    "ubicacion": "Cuautla, Morelos",
+    "dimension": "3.5 x 2.5 m",
+    "carpeta": "/gallery/estanques/project-17",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-18",
+    "nombre": "Estanque con borde de piedra laja",
+    "descripcion": "Estanque con borde en piedra laja y plantas acuáticas.",
+    "ubicacion": "Tlayacapan, Morelos",
+    "dimension": "3 x 2.5 m",
+    "carpeta": "/gallery/estanques/project-18",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-19",
+    "nombre": "Estanque moderno con iluminación RGB",
+    "descripcion": "Estanque de estilo moderno con iluminación RGB.",
+    "ubicacion": "Jiutepec, Morelos",
+    "dimension": "4 x 3 m",
+    "carpeta": "/gallery/estanques/project-19",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-20",
+    "nombre": "Estanque rústico con muelle",
+    "descripcion": "Estanque rústico con muelle de madera.",
+    "ubicacion": "Tepoztlán, Morelos",
+    "dimension": "5 x 4 m",
+    "carpeta": "/gallery/estanques/project-20",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-21",
+    "nombre": "Estanque escolar ecológico",
+    "descripcion": "Estanque escolar para proyectos ecológicos.",
+    "ubicacion": "Cuernavaca, Morelos",
+    "dimension": "3 x 2 m",
+    "carpeta": "/gallery/estanques/project-21",
+    "estado": "Terminado"
+  },
+  {
+    "id": "project-22",
+    "nombre": "Estanque comunitario",
+    "descripcion": "Gran estanque comunitario con biofiltro central y vegetación densa.",
+    "ubicacion": "Ayala, Morelos",
+    "dimension": "8 x 6 m",
+    "carpeta": "/gallery/estanques/project-22",
+    "estado": "Terminado"
+  }
+]

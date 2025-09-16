@@ -50,7 +50,7 @@ export default function EcoAquaPage() {
         '/gallery/ecosistemas/WhatsApp Image 2025-06-16 at 14.48.41 (3).webp',
         '/gallery/ecosistemas/WhatsApp Image 2025-08-04 at 22.11.07.webp',
         '/gallery/IMG_20210518_115509.webp',
-        '/gallery/IMG_20210525_153446.webp',
+        '/gallery/IMG_20210518_115509.webp',
       ]}
       beforeAfter={[
         { before: '/gallery/testimonials/project1/before.webp', after: '/gallery/testimonials/project1/after.webp', label: 'Espejo de agua' },
@@ -75,7 +75,7 @@ export default function EcoAquaPage() {
         },
       ]}
       ctas={{
-        whatsapp: 'https://wa.me/5210000000000',
+        whatsapp: 'https://wa.me/527772568821',
         diagnostic: '#contacto',
         portfolioHref: '/gallery',
       }}

@@ -1,0 +1,134 @@
+[
+  {
+    "categoria": "Eco-Small",
+    "proyectos": [
+      {
+        "id": "biotinas",
+        "nombre": "Biotinas",
+        "descripcion": "Pequeños ecosistemas acuáticos autosustentables instalados en tinas o recipientes compactos. Funcionan como hábitats en miniatura que integran plantas, peces y microorganismos.",
+        "ubicacion": "Diversos jardines residenciales",
+        "dimension": "40–80 litros",
+        "carpeta": "/gallery/ecosistemas/eco-small/biotinas",
+        "estado": "Terminado"
+      },
+      {
+        "id": "project-1",
+        "nombre": "Eco-Small Patio Natural",
+        "descripcion": "Ecosistema compacto diseñado para un patio residencial. Incluye cascada pequeña y lirios acuáticos.",
+        "ubicacion": "Cuernavaca, Morelos",
+        "dimension": "2 x 1.5 m",
+        "carpeta": "/gallery/ecosistemas/eco-small/project-1",
+        "estado": "Terminado"
+      },
+      {
+        "id": "project-2",
+        "nombre": "Mini Bioestanque",
+        "descripcion": "Instalación de un mini bioestanque con plantas flotantes y recirculación natural del agua.",
+        "ubicacion": "Jiutepec, Morelos",
+        "dimension": "1.8 x 1.2 m",
+        "carpeta": "/gallery/ecosistemas/eco-small/project-2",
+        "estado": "Terminado"
+      },
+      {
+        "id": "project-3",
+        "nombre": "Jardín Acuático Urbano",
+        "descripcion": "Sistema ecológico adaptado a un espacio urbano reducido, con peces ornamentales y plantas de sombra.",
+        "ubicacion": "Temixco, Morelos",
+        "dimension": "2 x 1.3 m",
+        "carpeta": "/gallery/ecosistemas/eco-small/project-3",
+        "estado": "Terminado"
+      },
+      {
+        "id": "project-4",
+        "nombre": "Eco-Small Ornamental",
+        "descripcion": "Estanque ecológico ornamental con cascada decorativa y borde en piedra natural.",
+        "ubicacion": "Yautepec, Morelos",
+        "dimension": "2.5 x 1.8 m",
+        "carpeta": "/gallery/ecosistemas/eco-small/project-4",
+        "estado": "Terminado"
+      },
+      {
+        "id": "project-5",
+        "nombre": "Ecosistema Compacto Educativo",
+        "descripcion": "Proyecto diseñado con fines educativos para mostrar el funcionamiento de un ciclo acuático autosustentable.",
+        "ubicacion": "Tepoztlán, Morelos",
+        "dimension": "1.5 x 1.5 m",
+        "carpeta": "/gallery/ecosistemas/eco-small/project-5",
+        "estado": "Demostrativo"
+      }
+    ]
+  },
+  {
+    "categoria": "Eco-Medium",
+    "proyectos": [
+      {
+        "id": "project-1",
+        "nombre": "Ecosistema Mediano con Cascada",
+        "descripcion": "Instalación ecológica de tamaño medio con cascada de rocas y plantas palustres.",
+        "ubicacion": "Cuernavaca, Morelos",
+        "dimension": "4 x 3 m",
+        "carpeta": "/gallery/ecosistemas/eco-medium/project-1",
+        "estado": "Terminado"
+      },
+      {
+        "id": "project-2",
+        "nombre": "Ecosistema de Patio Escolar",
+        "descripcion": "Estanque mediano diseñado para actividades educativas y contacto con la naturaleza.",
+        "ubicacion": "Ayala, Morelos",
+        "dimension": "5 x 4 m",
+        "carpeta": "/gallery/ecosistemas/eco-medium/project-2",
+        "estado": "Terminado"
+      },
+      {
+        "id": "project-3",
+        "nombre": "Ecosistema de Jardín Residencial",
+        "descripcion": "Sistema autosustentable con plantas nativas y biofiltro integrado, perfecto para jardines residenciales amplios.",
+        "ubicacion": "Jiutepec, Morelos",
+        "dimension": "6 x 5 m",
+        "carpeta": "/gallery/ecosistemas/eco-medium/project-3",
+        "estado": "Terminado"
+      }
+    ]
+  },
+  {
+    "categoria": "Grand Ecosystem",
+    "proyectos": [
+      {
+        "id": "cenotes",
+        "nombre": "Cenotes",
+        "descripcion": "Proyectos inspirados en los cenotes naturales de México, con aguas cristalinas y paredes rocosas.",
+        "ubicacion": "Yucatán, México",
+        "dimension": "Hasta 50 m de diámetro",
+        "carpeta": "/gallery/ecosistemas/grand-ecosystem/cenotes",
+        "estado": "Demostrativo"
+      },
+      {
+        "id": "humedales",
+        "nombre": "Humedales",
+        "descripcion": "Restauración y creación de humedales artificiales para filtrar agua y fomentar biodiversidad.",
+        "ubicacion": "Morelos, México",
+        "dimension": "Varía según el terreno",
+        "carpeta": "/gallery/ecosistemas/grand-ecosystem/humedales",
+        "estado": "Terminado"
+      },
+      {
+        "id": "lagos",
+        "nombre": "Lagos",
+        "descripcion": "Diseño y construcción de lagos ornamentales y funcionales para grandes terrenos y parques.",
+        "ubicacion": "Puebla, México",
+        "dimension": "Más de 1000 m²",
+        "carpeta": "/gallery/ecosistemas/grand-ecosystem/lagos",
+        "estado": "Terminado"
+      },
+      {
+        "id": "rios",
+        "nombre": "Ríos Artificiales",
+        "descripcion": "Recreación de cauces de río en jardines y parques, integrando filtración natural y vegetación.",
+        "ubicacion": "Cuernavaca, Morelos",
+        "dimension": "20–100 m de longitud",
+        "carpeta": "/gallery/ecosistemas/grand-ecosystem/rios",
+        "estado": "Terminado"
+      }
+    ]
+  }
+]

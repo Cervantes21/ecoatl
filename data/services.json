@@ -1,0 +1,169 @@
+{
+  "schemaVersion": "1.0.0",
+  "lastUpdated": "2025-09-14",
+  "services": [
+    {
+      "id": "biopiscinas",
+      "name": "Biopiscinas",
+      "slug": "biopiscinas",
+      "datasetPath": "/data/biopiscinas.json",
+      "galleryBasePath": "/gallery/biopiscinas",
+      "shortDescription": "Piscinas naturales con biofiltración (plantas, sustratos y bacterias benéficas) sin uso de cloro.",
+      "audience": ["Residencial", "Hoteles boutique", "Eco-lodges"],
+      "benefits": [
+        "Agua cristalina sin químicos agresivos",
+        "Bajo costo operativo a mediano plazo",
+        "Integración paisajística y incremento de biodiversidad"
+      ],
+      "kpis": {
+        "proyectosEntregados": 32,
+        "satisfaccionPromedio": 4.9,
+        "capacidadRangoM3": "20–400"
+      },
+      "maintenance": {
+        "frequency": "mensual",
+        "tasks": [
+          "Poda ligera de macrófitas",
+          "Limpieza de skimmers y prefiltros",
+          "Revisión de caudales y bombas"
+        ]
+      },
+      "estimates": {
+        "design": "2–4 semanas",
+        "build": "6–10 semanas",
+        "commissioning": "1–2 semanas"
+      },
+      "filters": {
+        "capacidad_m3": ["<50", "50–150", "150–300", ">300"],
+        "tipologia": ["residencial", "hotel", "reconversion"],
+        "anio": ["2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025"]
+      },
+      "seo": {
+        "title": "Biopiscinas naturales sin cloro",
+        "description": "Diseño y construcción de biopiscinas con plantas acuáticas y biofiltros. Agua viva, cero químicos."
+      },
+      "cta": {
+        "label": "Cotizar Biopiscina",
+        "path": "/contacto?servicio=biopiscinas"
+      }
+    },
+    {
+      "id": "ecosistemas",
+      "name": "Ecosistemas Acuáticos",
+      "slug": "ecosistemas",
+      "datasetPath": "/data/ecosistemas.json",
+      "galleryBasePath": "/gallery/ecosistemas",
+      "shortDescription": "Diseño y restauración de ecosistemas de agua dulce en varias escalas: biotinas, estanques, humedales, ríos y lagos.",
+      "audience": ["Residencial", "Espacios públicos", "Desarrollos turísticos y educativos"],
+      "benefits": [
+        "Control biológico de algas y mosquitos",
+        "Aumento de biodiversidad y mejora microclimática",
+        "Infraestructura verde para manejo de agua"
+      ],
+      "subcategories": [
+        {
+          "id": "eco-small",
+          "name": "Ecosistemas Pequeños",
+          "datasetKey": "eco-small",
+          "galleryBasePath": "/gallery/ecosistemas/eco-small"
+        },
+        {
+          "id": "eco-medium",
+          "name": "Ecosistemas Medianos",
+          "datasetKey": "eco-medium",
+          "galleryBasePath": "/gallery/ecosistemas/eco-medium"
+        },
+        {
+          "id": "grand-ecosystem",
+          "name": "Grandes Ecosistemas",
+          "datasetKey": "grand-ecosystem",
+          "galleryBasePath": "/gallery/ecosistemas/grand-ecosystem"
+        }
+      ],
+      "kpis": {
+        "proyectosEntregados": 54,
+        "superficieRestauradaM2": 5000,
+        "especiesNativas": 40
+      },
+      "maintenance": {
+        "frequency": "quincenal–mensual",
+        "tasks": [
+          "Balance de plantas oxigenadoras/flotantes",
+          "Retiro de materia orgánica",
+          "Ajuste de caudales y aireación"
+        ]
+      },
+      "estimates": {
+        "design": "2–6 semanas",
+        "build": "3–12 semanas",
+        "commissioning": "2–6 semanas"
+      },
+      "filters": {
+        "categoria": ["eco-small", "eco-medium", "grand-ecosystem"],
+        "uso": ["ornamental", "educativo", "infraestructura"],
+        "anio": ["2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025"]
+      },
+      "seo": {
+        "title": "Ecosistemas acuáticos: biotinas, humedales, lagos",
+        "description": "Soluciones de agua dulce con especies nativas y control biológico en múltiples escalas."
+      },
+      "cta": {
+        "label": "Explorar Ecosistemas",
+        "path": "/servicios/ecosistemas"
+      }
+    },
+    {
+      "id": "estanques",
+      "name": "Estanques",
+      "slug": "estanques",
+      "datasetPath": "/data/estanques.json",
+      "galleryBasePath": "/gallery/estanques",
+      "shortDescription": "Estanques ornamentales y funcionales (koi, naturalistas, espejos de agua, educativos) con estabilidad biológica.",
+      "audience": ["Casas con jardín", "Condominios", "Parques"],
+      "benefits": [
+        "Atracción de polinizadores y fauna benéfica",
+        "Refrescamiento térmico del entorno",
+        "Bajo consumo energético con hidráulica eficiente"
+      ],
+      "kpis": {
+        "proyectosEntregados": 76,
+        "volumenRangoM3": "1–120",
+        "superficieRangoM2": "2–90"
+      },
+      "maintenance": {
+        "frequency": "mensual",
+        "tasks": [
+          "Limpieza de prefiltros y skimmers",
+          "Sifoneo puntual de sólidos",
+          "Poda y clareo de macrófitas",
+          "Monitoreo de parámetros (NH3/NH4, NO2-, NO3-)"
+        ]
+      },
+      "estimates": {
+        "design": "1–3 semanas",
+        "build": "2–8 semanas",
+        "commissioning": "1–2 semanas"
+      },
+      "filters": {
+        "tipologia": ["koi", "naturalista", "espejo", "educativo"],
+        "volumen_m3": ["<5", "5–20", "20–60", ">60"],
+        "anio": ["2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025"]
+      },
+      "seo": {
+        "title": "Estanques ornamentales y koi",
+        "description": "Diseño y construcción de estanques con filtración biológica, cascadas y paisajismo nativo."
+      },
+      "cta": {
+        "label": "Ver Estanques",
+        "path": "/servicios/estanques"
+      }
+    }
+  ],
+  "integration": {
+    "howToUse": "Selecciona el servicio por slug, carga el dataset desde `datasetPath` y genera sliders leyendo archivos en `galleryBasePath` (o el de cada subcategoría).",
+    "i18n": {
+      "defaultLocale": "es-MX",
+      "locales": ["es-MX"]
+    }
+  }
+}

@@ -18,7 +18,7 @@ export default function FlotantesPage() {
         muted
         playsInline
         className="absolute inset-0 w-full h-full object-cover"
-        poster="/gallery/IMG_20210525_153434.webp"
+        poster="/gallery/goldfish.webp"
       >
         <source src="/Estanque_Adentro_Afuera.webm" type="video/webm" />
       </video>

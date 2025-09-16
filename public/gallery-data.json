@@ -1,25 +1,1114 @@
-[
-  "/gallery/20180810_154702.webp",
-  "/gallery/20180810_162125.webp",
-  "/gallery/20180814_155509.webp",
-  "/gallery/476848771_2385917241762855_5036919680159802796_n.webp",
-  "/gallery/476852567_2385917605096152_7976425289738494812_n.webp",
-  "/gallery/476962328_2386540318367214_4825138441598435237_n.webp",
-  "/gallery/477722005_2386539965033916_1695480883729095659_n.webp",
-  "/gallery/480871976_2395591407462105_3779058551121935182_n.webp",
-  "/gallery/481180502_2397679430586636_1026888372901985446_n.webp",
-  "/gallery/481213408_2395591450795434_6611085332230328799_n.webp",
-  "/gallery/IMG_20210518_115359.webp",
-  "/gallery/IMG_20210518_115509.webp",
-  "/gallery/IMG_20210518_115543.webp",
-  "/gallery/IMG_20210525_152419.webp",
-  "/gallery/IMG_20210525_153434.webp",
-  "/gallery/IMG_20210525_153513.webp",
-  "/gallery/IMG_20210525_153613.webp",
-  "/gallery/IMG_20210525_174902.webp",
-  "/gallery/WhatsApp Image 2025-06-16 at 14.48.41 (3).webp",
-  "/gallery/WhatsApp Image 2025-08-04 at 22.11.07.webp",
-  "/gallery/WhatsApp Image 2025-08-05 at 16.34.26 (2).webp",
-  "/gallery/biopool.webp",
-  "/gallery/koi-fish.webp"
-]
+{
+  "_files": [
+    "/gallery/20180305_110816.webp",
+    "/gallery/20180406_122907.webp",
+    "/gallery/20180420_133504.webp",
+    "/gallery/20180528_122351.webp",
+    "/gallery/20180530_160539.webp",
+    "/gallery/20180530_1605399.webp",
+    "/gallery/20180612_185240.webp",
+    "/gallery/20180613_160614.webp",
+    "/gallery/20180615_125604.webp",
+    "/gallery/20180622_190452.webp",
+    "/gallery/20180622_190540.webp",
+    "/gallery/20180913_135720.webp",
+    "/gallery/20190219_132540.webp",
+    "/gallery/20190219_132547.webp",
+    "/gallery/20190222_124455.webp",
+    "/gallery/480838123_2394681437553102_234987316827567813_n.webp",
+    "/gallery/480871976_2395591407462105_3779058551121935182_n.webp",
+    "/gallery/481027687_1072091631604362_1923498306000016121_n.webp",
+    "/gallery/481249158_2397679613919951_3747393866809242585_n.webp",
+    "/gallery/IMG-20180424-WA0035.webp",
+    "/gallery/IMG-20180529-WA0026.webp",
+    "/gallery/IMG-20200509-WA0049.webp",
+    "/gallery/IMG-20200509-WA0051.webp",
+    "/gallery/IMG_20210518_115359.webp",
+    "/gallery/IMG_20210518_115543.webp",
+    "/gallery/IMG_20210525_152419.webp",
+    "/gallery/goldfish.webp",
+    "/gallery/IMG_20210525_153513.webp",
+    "/gallery/IMG_20210525_153613.webp",
+    "/gallery/IMG_20210525_174902.webp",
+    "/gallery/WhatsApp Image 2025-06-16 at 14.48.41 (3).webp",
+    "/gallery/WhatsApp Image 2025-06-16 at 14.48.41.webp",
+    "/gallery/WhatsApp Image 2025-08-04 at 22.11.07.webp",
+    "/gallery/WhatsApp Image 2025-08-05 at 16.34.26 (2).webp",
+    "/gallery/WhatsApp Image 2025-08-11 at 16.47.22.webp",
+    "/gallery/biopool.webp",
+    "/gallery/ecosystem.webp",
+    "/gallery/estanques.webp",
+    "/gallery/f1150272.webp",
+    "/gallery/f2557888.webp",
+    "/gallery/f2567424.webp",
+    "/gallery/f2596992.webp",
+    "/gallery/koi-fish.webp"
+  ],
+  "biopiscinas": {
+    "project-1": {
+      "_files": [
+        "/gallery/biopiscinas/project-1/20180305_140559.webp",
+        "/gallery/biopiscinas/project-1/20180620_144359.webp",
+        "/gallery/biopiscinas/project-1/20180620_173241.webp",
+        "/gallery/biopiscinas/project-1/20180620_185338.webp",
+        "/gallery/biopiscinas/project-1/20180620_193102.webp",
+        "/gallery/biopiscinas/project-1/20180622_190452.webp",
+        "/gallery/biopiscinas/project-1/20180622_190504.webp",
+        "/gallery/biopiscinas/project-1/20180622_190528.webp",
+        "/gallery/biopiscinas/project-1/20180622_190540.webp",
+        "/gallery/biopiscinas/project-1/20180622_190638.webp",
+        "/gallery/biopiscinas/project-1/20180622_190714.webp",
+        "/gallery/biopiscinas/project-1/20180920_140509.webp",
+        "/gallery/biopiscinas/project-1/20180920_140634.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180605-WA0019.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180605-WA0020.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180605-WA0021.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180605-WA0022.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180622-WA0002.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180622-WA0003.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180622-WA0004.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180622-WA0005.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180622-WA0006.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180622-WA0007.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0025.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0026.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0027.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0032.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0034.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0035.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0036.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0037.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0038.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0039.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0040.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0041.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0042.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0043.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0044.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0045.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0046.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0047.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0048.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0049.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0050.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0052.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180625-WA0053.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180629-WA0001.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180629-WA0002.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180629-WA0003.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180629-WA0006.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180702-WA0021.webp",
+        "/gallery/biopiscinas/project-1/IMG-20180802-WA0000.webp"
+      ]
+    },
+    "project-10": {
+      "_files": [
+        "/gallery/biopiscinas/project-10/481027687_1072091631604362_1923498306000016121_n.webp",
+        "/gallery/biopiscinas/project-10/481233763_1072091654937693_5208818190923025536_n.webp",
+        "/gallery/biopiscinas/project-10/481257820_1072091651604360_5540474723524134297_n.webp",
+        "/gallery/biopiscinas/project-10/482030242_1072091628271029_8959831567883595117_n.webp"
+      ]
+    },
+    "project-2": {
+      "_files": [
+        "/gallery/biopiscinas/project-2/20180518_131244.webp",
+        "/gallery/biopiscinas/project-2/20180518_135107.webp",
+        "/gallery/biopiscinas/project-2/20180521_164848.webp",
+        "/gallery/biopiscinas/project-2/20180522_143311.webp",
+        "/gallery/biopiscinas/project-2/20180522_143315.webp",
+        "/gallery/biopiscinas/project-2/20180522_181710.webp",
+        "/gallery/biopiscinas/project-2/20180522_181715.webp",
+        "/gallery/biopiscinas/project-2/20180522_185037.webp",
+        "/gallery/biopiscinas/project-2/20180522_185043.webp",
+        "/gallery/biopiscinas/project-2/20180523_183532.webp",
+        "/gallery/biopiscinas/project-2/20180523_191517.webp",
+        "/gallery/biopiscinas/project-2/20180523_191901.webp",
+        "/gallery/biopiscinas/project-2/20180523_210508.webp",
+        "/gallery/biopiscinas/project-2/20180523_210515.webp",
+        "/gallery/biopiscinas/project-2/20180529_143809.webp",
+        "/gallery/biopiscinas/project-2/20180529_143823.webp",
+        "/gallery/biopiscinas/project-2/20180529_144021.webp",
+        "/gallery/biopiscinas/project-2/20180529_144031.webp",
+        "/gallery/biopiscinas/project-2/20180529_144045.webp",
+        "/gallery/biopiscinas/project-2/IMG-20180529-WA0026.webp",
+        "/gallery/biopiscinas/project-2/IMG-20180529-WA0027.webp",
+        "/gallery/biopiscinas/project-2/IMG-20180927-WA0009.webp",
+        "/gallery/biopiscinas/project-2/IMG-20180927-WA0010.webp",
+        "/gallery/biopiscinas/project-2/IMG-20180927-WA0011.webp",
+        "/gallery/biopiscinas/project-2/IMG-20180927-WA0013.webp",
+        "/gallery/biopiscinas/project-2/IMG-20180927-WA0014.webp"
+      ]
+    },
+    "project-3": {
+      "_files": [
+        "/gallery/biopiscinas/project-3/20180712_110423.webp",
+        "/gallery/biopiscinas/project-3/20180712_110427.webp",
+        "/gallery/biopiscinas/project-3/20180712_110435.webp",
+        "/gallery/biopiscinas/project-3/20180716_122143.webp",
+        "/gallery/biopiscinas/project-3/20180716_122155.webp",
+        "/gallery/biopiscinas/project-3/20180716_123240.webp",
+        "/gallery/biopiscinas/project-3/20180725_092751.webp",
+        "/gallery/biopiscinas/project-3/20180725_092801.webp",
+        "/gallery/biopiscinas/project-3/20180725_092811.webp",
+        "/gallery/biopiscinas/project-3/20180725_093240.webp",
+        "/gallery/biopiscinas/project-3/20180725_093245.webp",
+        "/gallery/biopiscinas/project-3/20180731_111123.webp",
+        "/gallery/biopiscinas/project-3/20180731_111125.webp",
+        "/gallery/biopiscinas/project-3/20180731_111129.webp",
+        "/gallery/biopiscinas/project-3/20180802_092245.webp",
+        "/gallery/biopiscinas/project-3/20180802_092248.webp",
+        "/gallery/biopiscinas/project-3/20180802_092254.webp",
+        "/gallery/biopiscinas/project-3/20180806_132447.webp",
+        "/gallery/biopiscinas/project-3/20180806_132452.webp",
+        "/gallery/biopiscinas/project-3/20180806_132503.webp",
+        "/gallery/biopiscinas/project-3/20180809_133211.webp",
+        "/gallery/biopiscinas/project-3/20180814_110309.webp",
+        "/gallery/biopiscinas/project-3/20180814_110317.webp",
+        "/gallery/biopiscinas/project-3/20180814_111644.webp",
+        "/gallery/biopiscinas/project-3/20180814_131204.webp",
+        "/gallery/biopiscinas/project-3/20180814_131206.webp",
+        "/gallery/biopiscinas/project-3/20180814_155509.webp",
+        "/gallery/biopiscinas/project-3/20180814_155513.webp",
+        "/gallery/biopiscinas/project-3/20180814_160050.webp",
+        "/gallery/biopiscinas/project-3/20180814_174530.webp",
+        "/gallery/biopiscinas/project-3/20180814_180542.webp",
+        "/gallery/biopiscinas/project-3/20180814_180549.webp",
+        "/gallery/biopiscinas/project-3/20180815_175128.webp",
+        "/gallery/biopiscinas/project-3/20180815_175130.webp",
+        "/gallery/biopiscinas/project-3/20180821_110349.webp",
+        "/gallery/biopiscinas/project-3/20180821_110351.webp",
+        "/gallery/biopiscinas/project-3/20180821_183758.webp",
+        "/gallery/biopiscinas/project-3/20180827_160121.webp",
+        "/gallery/biopiscinas/project-3/20180827_162048.webp",
+        "/gallery/biopiscinas/project-3/20180827_162054.webp",
+        "/gallery/biopiscinas/project-3/20180827_162307.webp",
+        "/gallery/biopiscinas/project-3/20180828_103523.webp",
+        "/gallery/biopiscinas/project-3/20180828_103525.webp",
+        "/gallery/biopiscinas/project-3/20180828_103527.webp",
+        "/gallery/biopiscinas/project-3/20180828_103740.webp",
+        "/gallery/biopiscinas/project-3/20180831_164457.webp",
+        "/gallery/biopiscinas/project-3/20180831_164459.webp",
+        "/gallery/biopiscinas/project-3/20180831_164517.webp",
+        "/gallery/biopiscinas/project-3/20180831_164540.webp",
+        "/gallery/biopiscinas/project-3/20180907_160912.webp",
+        "/gallery/biopiscinas/project-3/20180907_160915.webp",
+        "/gallery/biopiscinas/project-3/20180907_160920.webp",
+        "/gallery/biopiscinas/project-3/20180907_163154(0).webp",
+        "/gallery/biopiscinas/project-3/20180907_163154.webp",
+        "/gallery/biopiscinas/project-3/20180913_135712.webp",
+        "/gallery/biopiscinas/project-3/20180913_135720.webp",
+        "/gallery/biopiscinas/project-3/20180913_135722.webp",
+        "/gallery/biopiscinas/project-3/20180913_135731.webp",
+        "/gallery/biopiscinas/project-3/20180913_143656.webp",
+        "/gallery/biopiscinas/project-3/IMG-20180906-WA0010.webp",
+        "/gallery/biopiscinas/project-3/IMG-20180906-WA0011.webp"
+      ]
+    },
+    "project-4": {
+      "_files": [
+        "/gallery/biopiscinas/project-4/20180420_141058.webp",
+        "/gallery/biopiscinas/project-4/20180420_141107.webp",
+        "/gallery/biopiscinas/project-4/20190222_124444.webp",
+        "/gallery/biopiscinas/project-4/20190222_124448.webp",
+        "/gallery/biopiscinas/project-4/20190222_124451.webp",
+        "/gallery/biopiscinas/project-4/20190222_124455.webp",
+        "/gallery/biopiscinas/project-4/20190222_124503.webp",
+        "/gallery/biopiscinas/project-4/20190222_124602.webp",
+        "/gallery/biopiscinas/project-4/20190222_124614.webp",
+        "/gallery/biopiscinas/project-4/20190222_124616.webp"
+      ]
+    },
+    "project-5": {
+      "_files": [
+        "/gallery/biopiscinas/project-5/20180526_160751.webp",
+        "/gallery/biopiscinas/project-5/20180526_160755.webp",
+        "/gallery/biopiscinas/project-5/20180526_160800.webp",
+        "/gallery/biopiscinas/project-5/20180526_160820.webp",
+        "/gallery/biopiscinas/project-5/20180526_160833.webp",
+        "/gallery/biopiscinas/project-5/20180526_160919.webp",
+        "/gallery/biopiscinas/project-5/20180526_160931.webp",
+        "/gallery/biopiscinas/project-5/20180526_160935.webp",
+        "/gallery/biopiscinas/project-5/20180528_140905.webp",
+        "/gallery/biopiscinas/project-5/20180528_140908.webp",
+        "/gallery/biopiscinas/project-5/20180528_150055.webp",
+        "/gallery/biopiscinas/project-5/20180528_150102.webp",
+        "/gallery/biopiscinas/project-5/20180528_150118.webp",
+        "/gallery/biopiscinas/project-5/20180615_145210.webp",
+        "/gallery/biopiscinas/project-5/20181230_135821.webp",
+        "/gallery/biopiscinas/project-5/20181230_135826.webp",
+        "/gallery/biopiscinas/project-5/20181230_152140.webp",
+        "/gallery/biopiscinas/project-5/20181230_152146.webp",
+        "/gallery/biopiscinas/project-5/20181230_152320.webp",
+        "/gallery/biopiscinas/project-5/20181230_153239.webp",
+        "/gallery/biopiscinas/project-5/20181230_153246.webp",
+        "/gallery/biopiscinas/project-5/20181230_153250.webp",
+        "/gallery/biopiscinas/project-5/f2010752.webp",
+        "/gallery/biopiscinas/project-5/f2024704.webp"
+      ]
+    },
+    "project-6": {
+      "_files": [
+        "/gallery/biopiscinas/project-6/20180527_120809.webp",
+        "/gallery/biopiscinas/project-6/20180527_144924.webp",
+        "/gallery/biopiscinas/project-6/20180527_161951.webp",
+        "/gallery/biopiscinas/project-6/20180527_161959.webp",
+        "/gallery/biopiscinas/project-6/20180527_162007.webp",
+        "/gallery/biopiscinas/project-6/20180612_185220.webp",
+        "/gallery/biopiscinas/project-6/20180612_185240.webp"
+      ]
+    },
+    "project-7": {
+      "_files": [
+        "/gallery/biopiscinas/project-7/20180528_122042.webp",
+        "/gallery/biopiscinas/project-7/20180528_122050.webp",
+        "/gallery/biopiscinas/project-7/20180528_122351.webp",
+        "/gallery/biopiscinas/project-7/20180615_125407.webp",
+        "/gallery/biopiscinas/project-7/20180615_125422.webp"
+      ]
+    },
+    "project-8": {
+      "_files": [
+        "/gallery/biopiscinas/project-8/476848771_2385917241762855_5036919680159802796_n.webp",
+        "/gallery/biopiscinas/project-8/476852567_2385917605096152_7976425289738494812_n.webp",
+        "/gallery/biopiscinas/project-8/476962328_2386540318367214_4825138441598435237_n.webp",
+        "/gallery/biopiscinas/project-8/477722005_2386539965033916_1695480883729095659_n.webp",
+        "/gallery/biopiscinas/project-8/480451327_2394299497591296_7377367564485582813_n.webp",
+        "/gallery/biopiscinas/project-8/480518551_2394001677621078_7428475154052003148_n.webp",
+        "/gallery/biopiscinas/project-8/480545526_2394299324257980_287983796731793861_n.webp",
+        "/gallery/biopiscinas/project-8/480614428_2394299154257997_8475175936816071713_n.webp",
+        "/gallery/biopiscinas/project-8/480663019_2394681470886432_3427409995417634414_n.webp",
+        "/gallery/biopiscinas/project-8/480689788_2394681680886411_7431240930281015940_n.webp",
+        "/gallery/biopiscinas/project-8/480699862_2394001770954402_7908077008285664322_n.webp",
+        "/gallery/biopiscinas/project-8/480752399_2394681670886412_6361636085261155685_n.webp",
+        "/gallery/biopiscinas/project-8/480778791_2394299334257979_4126348823252094630_n.webp",
+        "/gallery/biopiscinas/project-8/480788228_2394002060954373_5907011766434395152_n.webp",
+        "/gallery/biopiscinas/project-8/480827103_2394002080954371_6380222479404261424_n.webp",
+        "/gallery/biopiscinas/project-8/480838123_2394681437553102_234987316827567813_n.webp",
+        "/gallery/biopiscinas/project-8/480871976_2395591407462105_3779058551121935182_n.webp",
+        "/gallery/biopiscinas/project-8/480887990_2394299450924634_5421923843097549807_n.webp",
+        "/gallery/biopiscinas/project-8/481040110_2394681710886408_1896406938908334737_n.webp",
+        "/gallery/biopiscinas/project-8/481089147_2394681270886452_8077669668238207288_n.webp",
+        "/gallery/biopiscinas/project-8/481180502_2397679430586636_1026888372901985446_n.webp",
+        "/gallery/biopiscinas/project-8/481188913_2394299237591322_6303514634944364135_n.webp",
+        "/gallery/biopiscinas/project-8/481213408_2395591450795434_6611085332230328799_n.webp"
+      ]
+    },
+    "project-9": {
+      "_files": [
+        "/gallery/biopiscinas/project-9/480598238_2394290464258866_2270671816070849155_n.webp",
+        "/gallery/biopiscinas/project-9/480608311_2394290730925506_2893174738767258676_n.webp",
+        "/gallery/biopiscinas/project-9/480708751_2394004880954091_3518865236464695028_n.webp",
+        "/gallery/biopiscinas/project-9/480751235_2394290474258865_6010542738764354615_n.webp",
+        "/gallery/biopiscinas/project-9/480755214_2394005127620733_2627610427983008690_n.webp",
+        "/gallery/biopiscinas/project-9/480813566_2394290664258846_8682961686042007158_n.webp",
+        "/gallery/biopiscinas/project-9/480886079_2394005310954048_7411083707972998713_n.webp",
+        "/gallery/biopiscinas/project-9/480897415_2394004877620758_7635319478147300982_n.webp",
+        "/gallery/biopiscinas/project-9/480943640_2394290430925536_8752710447527905665_n.webp",
+        "/gallery/biopiscinas/project-9/480948925_2394290647592181_3747785845313200108_n.webp",
+        "/gallery/biopiscinas/project-9/480969181_2394290470925532_4522746359232685276_n.webp",
+        "/gallery/biopiscinas/project-9/481045263_2394290727592173_6589590672848389224_n.webp",
+        "/gallery/biopiscinas/project-9/481060892_2394004934287419_2196410187966043833_n.webp"
+      ]
+    }
+  },
+  "construccion": {
+    "_files": [
+      "/gallery/construccion/162402913_1387721428249113_1681049724421122083_n.webp",
+      "/gallery/construccion/163343232_1387721068249149_3178672869535872027_n.webp",
+      "/gallery/construccion/20180522_181715.webp",
+      "/gallery/construccion/20181231_144854.webp"
+    ]
+  },
+  "ecosistemas": {
+    "eco-medium": {
+      "project-1": {
+        "_files": [
+          "/gallery/ecosistemas/eco-medium/project-1/20181128_160115.webp",
+          "/gallery/ecosistemas/eco-medium/project-1/20181128_160116.webp",
+          "/gallery/ecosistemas/eco-medium/project-1/20181128_160146.webp",
+          "/gallery/ecosistemas/eco-medium/project-1/20181128_160148.webp",
+          "/gallery/ecosistemas/eco-medium/project-1/20181128_161232.webp",
+          "/gallery/ecosistemas/eco-medium/project-1/20181128_161233.webp",
+          "/gallery/ecosistemas/eco-medium/project-1/20181128_161235.webp",
+          "/gallery/ecosistemas/eco-medium/project-1/20181128_161236.webp",
+          "/gallery/ecosistemas/eco-medium/project-1/20181129_133817.webp",
+          "/gallery/ecosistemas/eco-medium/project-1/20181129_133827.webp",
+          "/gallery/ecosistemas/eco-medium/project-1/20181129_133834.webp",
+          "/gallery/ecosistemas/eco-medium/project-1/20181129_133835.webp",
+          "/gallery/ecosistemas/eco-medium/project-1/20181129_133836.webp",
+          "/gallery/ecosistemas/eco-medium/project-1/20181129_174327.webp",
+          "/gallery/ecosistemas/eco-medium/project-1/20181129_174329.webp",
+          "/gallery/ecosistemas/eco-medium/project-1/20181129_174342.webp",
+          "/gallery/ecosistemas/eco-medium/project-1/IMG-20181221-WA0001.webp"
+        ]
+      },
+      "project-2": {
+        "_files": [
+          "/gallery/ecosistemas/eco-medium/project-2/20190205_110030.webp",
+          "/gallery/ecosistemas/eco-medium/project-2/20190205_110032.webp",
+          "/gallery/ecosistemas/eco-medium/project-2/20190205_110034.webp",
+          "/gallery/ecosistemas/eco-medium/project-2/20190530_105404.webp",
+          "/gallery/ecosistemas/eco-medium/project-2/20190530_105428.webp",
+          "/gallery/ecosistemas/eco-medium/project-2/20190530_105433.webp",
+          "/gallery/ecosistemas/eco-medium/project-2/20190530_122432.webp",
+          "/gallery/ecosistemas/eco-medium/project-2/20190530_122443.webp",
+          "/gallery/ecosistemas/eco-medium/project-2/20190530_122448.webp",
+          "/gallery/ecosistemas/eco-medium/project-2/20190530_122451.webp",
+          "/gallery/ecosistemas/eco-medium/project-2/20190530_123446.webp",
+          "/gallery/ecosistemas/eco-medium/project-2/20190530_123521.webp",
+          "/gallery/ecosistemas/eco-medium/project-2/20190530_123523.webp"
+        ]
+      },
+      "project-3": {
+        "_files": [
+          "/gallery/ecosistemas/eco-medium/project-3/20190111_134044.webp",
+          "/gallery/ecosistemas/eco-medium/project-3/20190111_134047.webp",
+          "/gallery/ecosistemas/eco-medium/project-3/20190111_163744.webp",
+          "/gallery/ecosistemas/eco-medium/project-3/20190111_164322.webp",
+          "/gallery/ecosistemas/eco-medium/project-3/20190116_112814.webp",
+          "/gallery/ecosistemas/eco-medium/project-3/20190116_113123.webp",
+          "/gallery/ecosistemas/eco-medium/project-3/20190116_113128.webp",
+          "/gallery/ecosistemas/eco-medium/project-3/20190117_182133.webp",
+          "/gallery/ecosistemas/eco-medium/project-3/20190322_122223.webp",
+          "/gallery/ecosistemas/eco-medium/project-3/20190322_122227.webp"
+        ]
+      }
+    },
+    "eco-small": {
+      "biotinas": {
+        "_files": [
+          "/gallery/ecosistemas/eco-small/biotinas/IMG-20200509-WA0049.webp",
+          "/gallery/ecosistemas/eco-small/biotinas/IMG-20200509-WA0050.webp",
+          "/gallery/ecosistemas/eco-small/biotinas/IMG-20200509-WA0051.webp",
+          "/gallery/ecosistemas/eco-small/biotinas/IMG-20200509-WA0052.webp",
+          "/gallery/ecosistemas/eco-small/biotinas/IMG-20200509-WA0053.webp",
+          "/gallery/ecosistemas/eco-small/biotinas/IMG-20200509-WA0054.webp",
+          "/gallery/ecosistemas/eco-small/biotinas/IMG-20200509-WA0055.webp",
+          "/gallery/ecosistemas/eco-small/biotinas/IMG-20200509-WA0056.webp",
+          "/gallery/ecosistemas/eco-small/biotinas/IMG-20200509-WA0057.webp"
+        ]
+      },
+      "project-1": {
+        "_files": [
+          "/gallery/ecosistemas/eco-small/project-1/20181231_104334.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20181231_104335.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20181231_122518.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20181231_144854.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190103_161026.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190103_161027.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190105_135704.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190105_135726.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190105_145723.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190105_145724(0).webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190108_182724.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190108_182751.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190108_182757.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190219_124937.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190219_124943.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190219_124952.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190219_125046.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190219_125052.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190219_125054.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190219_125100.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190219_125105.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190305_134947.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190305_134951.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190305_135026.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190305_135036.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190305_135039.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190305_135046.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190305_135755.webp",
+          "/gallery/ecosistemas/eco-small/project-1/20190305_135758.webp"
+        ]
+      },
+      "project-2": {
+        "_files": [
+          "/gallery/ecosistemas/eco-small/project-2/20180404_130415.webp",
+          "/gallery/ecosistemas/eco-small/project-2/20180404_130424.webp",
+          "/gallery/ecosistemas/eco-small/project-2/20180404_130435.webp",
+          "/gallery/ecosistemas/eco-small/project-2/20180404_132304.webp",
+          "/gallery/ecosistemas/eco-small/project-2/20180404_145218.webp",
+          "/gallery/ecosistemas/eco-small/project-2/20180404_145607.webp",
+          "/gallery/ecosistemas/eco-small/project-2/20180404_152922.webp",
+          "/gallery/ecosistemas/eco-small/project-2/20180405_125748.webp",
+          "/gallery/ecosistemas/eco-small/project-2/20180405_125819.webp",
+          "/gallery/ecosistemas/eco-small/project-2/20180613_160554.webp",
+          "/gallery/ecosistemas/eco-small/project-2/20180613_160603.webp",
+          "/gallery/ecosistemas/eco-small/project-2/IMG-20180427-WA0004.webp"
+        ]
+      },
+      "project-3": {
+        "_files": [
+          "/gallery/ecosistemas/eco-small/project-3/WhatsApp Image 2025-08-11 at 16.47.23 (1).webp",
+          "/gallery/ecosistemas/eco-small/project-3/WhatsApp Image 2025-08-11 at 16.47.23.webp"
+        ]
+      },
+      "project-4": {
+        "_files": [
+          "/gallery/ecosistemas/eco-small/project-4/20180511_132206.webp",
+          "/gallery/ecosistemas/eco-small/project-4/20180511_132214.webp",
+          "/gallery/ecosistemas/eco-small/project-4/20180511_132218.webp"
+        ]
+      },
+      "project-5": {
+        "_files": [
+          "/gallery/ecosistemas/eco-small/project-5/WhatsApp Image 2025-08-13 at 19.59.17.webp"
+        ]
+      }
+    },
+    "grand-ecosystem": {
+      "cenotes": {},
+      "humedales": {
+        "_files": [
+          "/gallery/ecosistemas/grand-ecosystem/humedales/WhatsApp Image 2025-08-05 at 16.34.24 (1).webp",
+          "/gallery/ecosistemas/grand-ecosystem/humedales/WhatsApp Image 2025-08-05 at 16.34.24.webp",
+          "/gallery/ecosistemas/grand-ecosystem/humedales/WhatsApp Image 2025-08-05 at 16.34.25 (1).webp",
+          "/gallery/ecosistemas/grand-ecosystem/humedales/WhatsApp Image 2025-08-05 at 16.34.25 (2).webp",
+          "/gallery/ecosistemas/grand-ecosystem/humedales/WhatsApp Image 2025-08-05 at 16.34.25 (3).webp",
+          "/gallery/ecosistemas/grand-ecosystem/humedales/WhatsApp Image 2025-08-05 at 16.34.25 (4).webp",
+          "/gallery/ecosistemas/grand-ecosystem/humedales/WhatsApp Image 2025-08-05 at 16.34.25.webp",
+          "/gallery/ecosistemas/grand-ecosystem/humedales/WhatsApp Image 2025-08-05 at 16.34.26 (1).webp",
+          "/gallery/ecosistemas/grand-ecosystem/humedales/WhatsApp Image 2025-08-05 at 16.34.26 (2).webp",
+          "/gallery/ecosistemas/grand-ecosystem/humedales/WhatsApp Image 2025-08-05 at 16.34.26 (3).webp",
+          "/gallery/ecosistemas/grand-ecosystem/humedales/WhatsApp Image 2025-08-05 at 16.34.26.webp",
+          "/gallery/ecosistemas/grand-ecosystem/humedales/WhatsApp Image 2025-08-05 at 16.34.27 (1).webp",
+          "/gallery/ecosistemas/grand-ecosystem/humedales/WhatsApp Image 2025-08-05 at 16.34.27 (2).webp",
+          "/gallery/ecosistemas/grand-ecosystem/humedales/WhatsApp Image 2025-08-05 at 16.34.27 (3).webp",
+          "/gallery/ecosistemas/grand-ecosystem/humedales/WhatsApp Image 2025-08-05 at 16.34.27 (4).webp",
+          "/gallery/ecosistemas/grand-ecosystem/humedales/WhatsApp Image 2025-08-05 at 16.34.27 (5).webp",
+          "/gallery/ecosistemas/grand-ecosystem/humedales/WhatsApp Image 2025-08-05 at 16.34.27.webp",
+          "/gallery/ecosistemas/grand-ecosystem/humedales/WhatsApp Image 2025-08-05 at 16.34.28.webp"
+        ]
+      },
+      "lagos": {
+        "_files": [
+          "/gallery/ecosistemas/grand-ecosystem/lagos/20180913_171549.webp",
+          "/gallery/ecosistemas/grand-ecosystem/lagos/20180913_171553.webp",
+          "/gallery/ecosistemas/grand-ecosystem/lagos/20180913_172125.webp",
+          "/gallery/ecosistemas/grand-ecosystem/lagos/20180920_171927.webp",
+          "/gallery/ecosistemas/grand-ecosystem/lagos/20180920_171946.webp",
+          "/gallery/ecosistemas/grand-ecosystem/lagos/20180927_095450.webp",
+          "/gallery/ecosistemas/grand-ecosystem/lagos/20180927_095500.webp",
+          "/gallery/ecosistemas/grand-ecosystem/lagos/20180927_095542.webp",
+          "/gallery/ecosistemas/grand-ecosystem/lagos/20180927_095553.webp",
+          "/gallery/ecosistemas/grand-ecosystem/lagos/20180927_095556.webp",
+          "/gallery/ecosistemas/grand-ecosystem/lagos/20180927_095637.webp",
+          "/gallery/ecosistemas/grand-ecosystem/lagos/20180927_095639.webp",
+          "/gallery/ecosistemas/grand-ecosystem/lagos/20180927_100132.webp",
+          "/gallery/ecosistemas/grand-ecosystem/lagos/20180929_091853.webp",
+          "/gallery/ecosistemas/grand-ecosystem/lagos/20180929_105515.webp",
+          "/gallery/ecosistemas/grand-ecosystem/lagos/20180929_112555.webp",
+          "/gallery/ecosistemas/grand-ecosystem/lagos/20180929_112557.webp",
+          "/gallery/ecosistemas/grand-ecosystem/lagos/20181004_112245.webp",
+          "/gallery/ecosistemas/grand-ecosystem/lagos/20181004_112755.webp"
+        ]
+      },
+      "rios": {
+        "project-1": {
+          "_files": [
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180406_122929.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180406_123003.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180406_183639.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180406_183723.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180406_183734.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180406_183805.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180406_183815.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180406_183820.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180406_183830.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180621_144653.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180621_144719.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180621_144815.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180621_144921.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115332.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115339.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115352.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115354.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115359.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115503.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115508.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115526.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115532.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115548.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115552.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115600.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115610.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115615.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115624.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115626.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115635.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115644.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115736.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115740(0).webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115740.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115753.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20180831_115754.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20181210_141927.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20181210_141954.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20181210_142005.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20181210_142120.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20181210_142153.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20181210_142158.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20181210_142159.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20181210_142213.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20181210_142215.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20181210_142243.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20181210_142245.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20181210_142248.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20181210_142259.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20181210_142314.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20181210_142316.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20190308_131819.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20190308_131844.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20190308_131846.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20190308_131901.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20190308_131907.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20190308_131919.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20190308_131922.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20190308_131942.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20190308_131950.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20190308_131955.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20190308_132006.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20190308_132030.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20190308_132036.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20190308_132043.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/20190308_132111.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/f6554816.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/f6568256.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/f6580352.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/f6595072.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/f6622336.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-1/f6633856.webp"
+          ]
+        },
+        "project-2": {
+          "_files": [
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-2/IMG-20180424-WA0034.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-2/IMG-20180424-WA0037.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-2/IMG-20180424-WA0038.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-2/IMG-20180424-WA0039.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-2/IMG-20180424-WA0043.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-2/IMG-20180424-WA0044.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-2/IMG-20180424-WA0045.webp",
+            "/gallery/ecosistemas/grand-ecosystem/rios/project-2/IMG-20180424-WA0048.webp"
+          ]
+        }
+      }
+    }
+  },
+  "estanques": {
+    "project-1": {
+      "_files": [
+        "/gallery/estanques/project-1/20180416_173937.webp",
+        "/gallery/estanques/project-1/20180416_173948.webp",
+        "/gallery/estanques/project-1/20180416_174021.webp",
+        "/gallery/estanques/project-1/20180416_174035.webp",
+        "/gallery/estanques/project-1/20180416_174045.webp",
+        "/gallery/estanques/project-1/20180419_143055.webp",
+        "/gallery/estanques/project-1/20180419_150642.webp",
+        "/gallery/estanques/project-1/20180419_150645.webp",
+        "/gallery/estanques/project-1/20180419_161040.webp",
+        "/gallery/estanques/project-1/20180419_161042.webp",
+        "/gallery/estanques/project-1/20180419_161051.webp",
+        "/gallery/estanques/project-1/20180427_120453.webp",
+        "/gallery/estanques/project-1/20180427_120502.webp",
+        "/gallery/estanques/project-1/20180504_171742.webp",
+        "/gallery/estanques/project-1/20180504_171744.webp",
+        "/gallery/estanques/project-1/20180504_171752.webp",
+        "/gallery/estanques/project-1/20180510_130212.webp",
+        "/gallery/estanques/project-1/20180616_140620.webp",
+        "/gallery/estanques/project-1/20180616_140627.webp",
+        "/gallery/estanques/project-1/20180616_140636.webp",
+        "/gallery/estanques/project-1/20180616_140644.webp",
+        "/gallery/estanques/project-1/20180616_140924.webp",
+        "/gallery/estanques/project-1/20180616_140932.webp",
+        "/gallery/estanques/project-1/20180619_141013.webp",
+        "/gallery/estanques/project-1/20181011_135755.webp",
+        "/gallery/estanques/project-1/20181011_135758.webp",
+        "/gallery/estanques/project-1/20181011_135802.webp",
+        "/gallery/estanques/project-1/20181011_135808.webp",
+        "/gallery/estanques/project-1/20181011_135818.webp",
+        "/gallery/estanques/project-1/20181011_135824.webp",
+        "/gallery/estanques/project-1/20181011_135829.webp",
+        "/gallery/estanques/project-1/20181221_155247.webp",
+        "/gallery/estanques/project-1/20181221_155255.webp",
+        "/gallery/estanques/project-1/20190405_110404.webp",
+        "/gallery/estanques/project-1/20190405_110423.webp",
+        "/gallery/estanques/project-1/20190405_110424.webp",
+        "/gallery/estanques/project-1/20190405_110431.webp",
+        "/gallery/estanques/project-1/20190405_110434.webp",
+        "/gallery/estanques/project-1/20190405_110558.webp",
+        "/gallery/estanques/project-1/20190405_110612.webp",
+        "/gallery/estanques/project-1/20190405_110647.webp",
+        "/gallery/estanques/project-1/20190607_102649.webp",
+        "/gallery/estanques/project-1/20190611_095615.webp",
+        "/gallery/estanques/project-1/20190611_095634.webp",
+        "/gallery/estanques/project-1/IMG-20180524-WA0010.webp"
+      ]
+    },
+    "project-10": {
+      "_files": [
+        "/gallery/estanques/project-10/f1254592.webp",
+        "/gallery/estanques/project-10/f1262784.webp",
+        "/gallery/estanques/project-10/f1270400.webp",
+        "/gallery/estanques/project-10/f1280384.webp",
+        "/gallery/estanques/project-10/f1322624.webp",
+        "/gallery/estanques/project-10/f2438720.webp",
+        "/gallery/estanques/project-10/f2449920.webp",
+        "/gallery/estanques/project-10/f2487616.webp",
+        "/gallery/estanques/project-10/f2501312.webp",
+        "/gallery/estanques/project-10/f2547584.webp",
+        "/gallery/estanques/project-10/f2557888.webp",
+        "/gallery/estanques/project-10/f2567424.webp",
+        "/gallery/estanques/project-10/f2596992.webp"
+      ]
+    },
+    "project-11": {
+      "_files": [
+        "/gallery/estanques/project-11/f0490240.webp",
+        "/gallery/estanques/project-11/f0517824.webp",
+        "/gallery/estanques/project-11/f0529984.webp",
+        "/gallery/estanques/project-11/f0542592.webp",
+        "/gallery/estanques/project-11/f0556096.webp",
+        "/gallery/estanques/project-11/f0567040.webp",
+        "/gallery/estanques/project-11/f0576640.webp",
+        "/gallery/estanques/project-11/f0588416.webp",
+        "/gallery/estanques/project-11/f0600256.webp",
+        "/gallery/estanques/project-11/f0612160.webp",
+        "/gallery/estanques/project-11/f0623744.webp",
+        "/gallery/estanques/project-11/f0636672.webp",
+        "/gallery/estanques/project-11/f0649664.webp",
+        "/gallery/estanques/project-11/f0661184.webp",
+        "/gallery/estanques/project-11/f0710336.webp",
+        "/gallery/estanques/project-11/f0721024.webp",
+        "/gallery/estanques/project-11/f0732480.webp",
+        "/gallery/estanques/project-11/f0743040.webp",
+        "/gallery/estanques/project-11/f2127616.webp",
+        "/gallery/estanques/project-11/f2139584.webp",
+        "/gallery/estanques/project-11/f2151552.webp",
+        "/gallery/estanques/project-11/f2176384.webp",
+        "/gallery/estanques/project-11/f2372864.webp"
+      ]
+    },
+    "project-12": {
+      "_files": [
+        "/gallery/estanques/project-12/20180510_123746.webp",
+        "/gallery/estanques/project-12/20180510_123750.webp",
+        "/gallery/estanques/project-12/20180510_123758.webp",
+        "/gallery/estanques/project-12/20181016_112228.webp",
+        "/gallery/estanques/project-12/20181016_112234.webp",
+        "/gallery/estanques/project-12/20181016_112235.webp",
+        "/gallery/estanques/project-12/20190610_102629.webp",
+        "/gallery/estanques/project-12/IMG-20180424-WA0033.webp",
+        "/gallery/estanques/project-12/IMG-20180424-WA0036.webp",
+        "/gallery/estanques/project-12/IMG-20180424-WA0040.webp",
+        "/gallery/estanques/project-12/IMG-20180424-WA0042.webp"
+      ]
+    },
+    "project-13": {
+      "_files": [
+        "/gallery/estanques/project-13/20181220_122519.webp",
+        "/gallery/estanques/project-13/20181220_145816.webp",
+        "/gallery/estanques/project-13/20190121_160821.webp",
+        "/gallery/estanques/project-13/20190121_172655.webp",
+        "/gallery/estanques/project-13/20190121_172656.webp",
+        "/gallery/estanques/project-13/20190121_172658.webp"
+      ]
+    },
+    "project-14": {
+      "_files": [
+        "/gallery/estanques/project-14/IMG-20180704-WA0005.webp",
+        "/gallery/estanques/project-14/IMG-20180704-WA0006.webp",
+        "/gallery/estanques/project-14/IMG-20180704-WA0007.webp",
+        "/gallery/estanques/project-14/IMG-20180704-WA0008.webp",
+        "/gallery/estanques/project-14/IMG-20180704-WA0009.webp",
+        "/gallery/estanques/project-14/IMG-20180704-WA0010.webp",
+        "/gallery/estanques/project-14/IMG-20180704-WA0012.webp",
+        "/gallery/estanques/project-14/IMG-20180704-WA0013.webp",
+        "/gallery/estanques/project-14/IMG-20180704-WA0014.webp"
+      ]
+    },
+    "project-15": {
+      "_files": [
+        "/gallery/estanques/project-15/164684356_1390804957940760_3175223696389012084_n.webp",
+        "/gallery/estanques/project-15/476676137_2386532721701307_7319147237407959755_n.webp",
+        "/gallery/estanques/project-15/WhatsApp Image 2025-08-04 at 22.12.35 (1).webp",
+        "/gallery/estanques/project-15/WhatsApp Image 2025-08-04 at 22.12.35.webp",
+        "/gallery/estanques/project-15/WhatsApp Image 2025-08-04 at 22.12.37 (1).webp",
+        "/gallery/estanques/project-15/WhatsApp Image 2025-08-04 at 22.12.37.webp"
+      ]
+    },
+    "project-16": {
+      "_files": [
+        "/gallery/estanques/project-16/WhatsApp Image 2025-08-04 at 22.09.46.webp",
+        "/gallery/estanques/project-16/WhatsApp Image 2025-08-04 at 22.09.47 (1).webp",
+        "/gallery/estanques/project-16/WhatsApp Image 2025-08-04 at 22.09.47.webp",
+        "/gallery/estanques/project-16/WhatsApp Image 2025-08-04 at 22.09.48.webp",
+        "/gallery/estanques/project-16/WhatsApp Image 2025-08-04 at 22.09.54.webp",
+        "/gallery/estanques/project-16/WhatsApp Image 2025-08-04 at 22.09.55 (2).webp",
+        "/gallery/estanques/project-16/WhatsApp Image 2025-08-04 at 22.09.55 (3).webp",
+        "/gallery/estanques/project-16/WhatsApp Image 2025-08-04 at 22.09.55.webp",
+        "/gallery/estanques/project-16/WhatsApp Image 2025-08-04 at 22.09.56.webp"
+      ]
+    },
+    "project-17": {
+      "_files": [
+        "/gallery/estanques/project-17/WhatsApp Image 2025-08-04 at 22.09.56 (2).webp",
+        "/gallery/estanques/project-17/WhatsApp Image 2025-08-04 at 22.09.56 (3).webp",
+        "/gallery/estanques/project-17/WhatsApp Image 2025-08-04 at 22.09.57 (1).webp",
+        "/gallery/estanques/project-17/WhatsApp Image 2025-08-04 at 22.09.57.webp"
+      ]
+    },
+    "project-18": {
+      "_files": [
+        "/gallery/estanques/project-18/WhatsApp Image 2025-08-04 at 22.09.49 (1).webp",
+        "/gallery/estanques/project-18/WhatsApp Image 2025-08-04 at 22.09.49.webp",
+        "/gallery/estanques/project-18/WhatsApp Image 2025-08-04 at 22.11.06.webp",
+        "/gallery/estanques/project-18/WhatsApp Image 2025-08-04 at 22.11.07.webp"
+      ]
+    },
+    "project-19": {
+      "_files": [
+        "/gallery/estanques/project-19/20190205_110038.webp",
+        "/gallery/estanques/project-19/20190205_121510.webp",
+        "/gallery/estanques/project-19/20190205_121518.webp",
+        "/gallery/estanques/project-19/20190205_130810(0).webp",
+        "/gallery/estanques/project-19/20190217_164222.webp",
+        "/gallery/estanques/project-19/20190217_164234.webp",
+        "/gallery/estanques/project-19/20190217_164246.webp"
+      ]
+    },
+    "project-2": {
+      "_files": [
+        "/gallery/estanques/project-2/20180517_154422.webp",
+        "/gallery/estanques/project-2/20180517_155809.webp",
+        "/gallery/estanques/project-2/20180517_161624.webp",
+        "/gallery/estanques/project-2/20180517_161632.webp",
+        "/gallery/estanques/project-2/20180517_161640.webp",
+        "/gallery/estanques/project-2/20180517_161939.webp",
+        "/gallery/estanques/project-2/20180517_161952.webp",
+        "/gallery/estanques/project-2/20180518_191738.webp",
+        "/gallery/estanques/project-2/20180907_144942.webp",
+        "/gallery/estanques/project-2/20180907_144945(0).webp",
+        "/gallery/estanques/project-2/20180907_144945.webp",
+        "/gallery/estanques/project-2/20180907_145002.webp",
+        "/gallery/estanques/project-2/20180907_145053.webp",
+        "/gallery/estanques/project-2/20180907_145210.webp",
+        "/gallery/estanques/project-2/20180907_145218.webp",
+        "/gallery/estanques/project-2/20190305_150723.webp",
+        "/gallery/estanques/project-2/20190305_150738.webp",
+        "/gallery/estanques/project-2/20190305_150741.webp",
+        "/gallery/estanques/project-2/20190305_152248.webp",
+        "/gallery/estanques/project-2/20190305_152249.webp",
+        "/gallery/estanques/project-2/20190305_152250.webp",
+        "/gallery/estanques/project-2/20190305_152251.webp",
+        "/gallery/estanques/project-2/20190305_152256.webp"
+      ]
+    },
+    "project-20": {
+      "_files": [
+        "/gallery/estanques/project-20/IMG-20190506-WA0000.webp",
+        "/gallery/estanques/project-20/IMG-20190506-WA0001.webp",
+        "/gallery/estanques/project-20/IMG-20190506-WA0003.webp"
+      ]
+    },
+    "project-21": {
+      "_files": [
+        "/gallery/estanques/project-21/20190315_162447.webp",
+        "/gallery/estanques/project-21/20190315_162449.webp",
+        "/gallery/estanques/project-21/20190315_162451.webp",
+        "/gallery/estanques/project-21/20190315_162452.webp"
+      ]
+    },
+    "project-22": {
+      "_files": [
+        "/gallery/estanques/project-22/20180829_183525.webp",
+        "/gallery/estanques/project-22/20180829_183529.webp",
+        "/gallery/estanques/project-22/20180829_183538.webp",
+        "/gallery/estanques/project-22/20180829_183543.webp",
+        "/gallery/estanques/project-22/20180829_183600.webp",
+        "/gallery/estanques/project-22/20180829_183604.webp",
+        "/gallery/estanques/project-22/20180829_183612.webp",
+        "/gallery/estanques/project-22/20180829_183755.webp",
+        "/gallery/estanques/project-22/20180829_184029.webp",
+        "/gallery/estanques/project-22/20180829_184030.webp",
+        "/gallery/estanques/project-22/20180829_184038.webp",
+        "/gallery/estanques/project-22/20180829_184157.webp",
+        "/gallery/estanques/project-22/20180901_164432.webp",
+        "/gallery/estanques/project-22/20181227_162157.webp",
+        "/gallery/estanques/project-22/20190219_132701.webp",
+        "/gallery/estanques/project-22/20190219_132710.webp"
+      ]
+    },
+    "project-3": {
+      "_files": [
+        "/gallery/estanques/project-3/20180530_160539.webp",
+        "/gallery/estanques/project-3/20180530_160558.webp",
+        "/gallery/estanques/project-3/20180530_160605.webp",
+        "/gallery/estanques/project-3/20180606_172335.webp",
+        "/gallery/estanques/project-3/20180608_181804.webp",
+        "/gallery/estanques/project-3/20180608_181810.webp",
+        "/gallery/estanques/project-3/20180608_185109.webp",
+        "/gallery/estanques/project-3/20180612_171304.webp",
+        "/gallery/estanques/project-3/20180716_154516.webp",
+        "/gallery/estanques/project-3/20180716_154518.webp",
+        "/gallery/estanques/project-3/20180716_154526.webp",
+        "/gallery/estanques/project-3/20180716_154624.webp",
+        "/gallery/estanques/project-3/20180716_154628.webp",
+        "/gallery/estanques/project-3/20180716_154827.webp",
+        "/gallery/estanques/project-3/20180716_154828.webp",
+        "/gallery/estanques/project-3/20181012_122519.webp",
+        "/gallery/estanques/project-3/20181012_122710.webp",
+        "/gallery/estanques/project-3/20181012_122713.webp",
+        "/gallery/estanques/project-3/20181012_122719.webp",
+        "/gallery/estanques/project-3/20181013_095606.webp",
+        "/gallery/estanques/project-3/20190301_134340.webp",
+        "/gallery/estanques/project-3/20190301_145155.webp",
+        "/gallery/estanques/project-3/20190301_145203.webp",
+        "/gallery/estanques/project-3/20190301_145740.webp",
+        "/gallery/estanques/project-3/20190304_104122.webp",
+        "/gallery/estanques/project-3/IMG-20180930-WA0000.webp",
+        "/gallery/estanques/project-3/IMG-20180930-WA0001.webp",
+        "/gallery/estanques/project-3/IMG-20180930-WA0002.webp",
+        "/gallery/estanques/project-3/IMG-20180930-WA0003.webp",
+        "/gallery/estanques/project-3/IMG-20180930-WA0004.webp"
+      ]
+    },
+    "project-4": {
+      "_files": [
+        "/gallery/estanques/project-4/20180810_154647.webp",
+        "/gallery/estanques/project-4/20180810_154648.webp",
+        "/gallery/estanques/project-4/20180810_154650.webp",
+        "/gallery/estanques/project-4/20180810_154700.webp",
+        "/gallery/estanques/project-4/20180810_154702.webp",
+        "/gallery/estanques/project-4/20180810_160358.webp",
+        "/gallery/estanques/project-4/20180810_160412.webp",
+        "/gallery/estanques/project-4/20180810_161345.webp",
+        "/gallery/estanques/project-4/20180810_161347.webp",
+        "/gallery/estanques/project-4/20180810_161355.webp",
+        "/gallery/estanques/project-4/20180810_162125.webp",
+        "/gallery/estanques/project-4/20180810_162127.webp"
+      ]
+    },
+    "project-5": {
+      "_files": [
+        "/gallery/estanques/project-5/20180305_110807.webp",
+        "/gallery/estanques/project-5/20180305_110816.webp",
+        "/gallery/estanques/project-5/20180305_110827.webp",
+        "/gallery/estanques/project-5/20180305_110828.webp",
+        "/gallery/estanques/project-5/IMG-20181221-WA0004.webp"
+      ]
+    },
+    "project-6": {
+      "_files": [
+        "/gallery/estanques/project-6/20190217_160738.webp",
+        "/gallery/estanques/project-6/20190217_160748.webp",
+        "/gallery/estanques/project-6/20190217_160753.webp",
+        "/gallery/estanques/project-6/20190217_160758.webp",
+        "/gallery/estanques/project-6/20190217_163254.webp",
+        "/gallery/estanques/project-6/20190217_163302.webp",
+        "/gallery/estanques/project-6/20190217_163303.webp",
+        "/gallery/estanques/project-6/20190217_163305.webp",
+        "/gallery/estanques/project-6/20190217_164808.webp",
+        "/gallery/estanques/project-6/20190217_164812.webp",
+        "/gallery/estanques/project-6/20190217_171011.webp",
+        "/gallery/estanques/project-6/20190217_173929.webp",
+        "/gallery/estanques/project-6/20190221_125855.webp",
+        "/gallery/estanques/project-6/20190407_110512.webp",
+        "/gallery/estanques/project-6/20190407_110517.webp",
+        "/gallery/estanques/project-6/20190407_110525.webp",
+        "/gallery/estanques/project-6/20190407_110909.webp",
+        "/gallery/estanques/project-6/20190407_110913.webp",
+        "/gallery/estanques/project-6/20190407_140203.webp",
+        "/gallery/estanques/project-6/20190407_140205.webp",
+        "/gallery/estanques/project-6/20190407_140207.webp",
+        "/gallery/estanques/project-6/20190407_140409.webp",
+        "/gallery/estanques/project-6/20190407_140419.webp",
+        "/gallery/estanques/project-6/20190407_140421.webp",
+        "/gallery/estanques/project-6/20190407_140422.webp",
+        "/gallery/estanques/project-6/20190410_144756.webp",
+        "/gallery/estanques/project-6/20190410_144759.webp",
+        "/gallery/estanques/project-6/20190417_133844.webp",
+        "/gallery/estanques/project-6/20190418_124814.webp",
+        "/gallery/estanques/project-6/20190418_124816.webp",
+        "/gallery/estanques/project-6/20190418_124817.webp",
+        "/gallery/estanques/project-6/20190423_121816.webp",
+        "/gallery/estanques/project-6/IMG-20190419-WA0003.webp",
+        "/gallery/estanques/project-6/IMG-20190419-WA0004.webp",
+        "/gallery/estanques/project-6/IMG-20190419-WA0005.webp",
+        "/gallery/estanques/project-6/IMG-20190419-WA0006.webp"
+      ]
+    },
+    "project-7": {
+      "_files": [
+        "/gallery/estanques/project-7/20181220_103246.webp",
+        "/gallery/estanques/project-7/20181220_103248.webp",
+        "/gallery/estanques/project-7/20181220_103301.webp",
+        "/gallery/estanques/project-7/20181220_103302.webp",
+        "/gallery/estanques/project-7/20181220_103315.webp",
+        "/gallery/estanques/project-7/20181220_103320.webp",
+        "/gallery/estanques/project-7/20181220_103321.webp",
+        "/gallery/estanques/project-7/20181220_103339.webp",
+        "/gallery/estanques/project-7/20181220_103341(0).webp",
+        "/gallery/estanques/project-7/20181220_103341.webp",
+        "/gallery/estanques/project-7/20181220_103343.webp",
+        "/gallery/estanques/project-7/20181220_103450.webp",
+        "/gallery/estanques/project-7/20181220_103512.webp",
+        "/gallery/estanques/project-7/20181220_103516.webp",
+        "/gallery/estanques/project-7/IMG-20180424-WA0041.webp",
+        "/gallery/estanques/project-7/IMG-20180424-WA0046.webp"
+      ]
+    },
+    "project-8": {
+      "_files": [
+        "/gallery/estanques/project-8/20180612_123911.webp",
+        "/gallery/estanques/project-8/20190327_140028.webp",
+        "/gallery/estanques/project-8/20190327_140044.webp",
+        "/gallery/estanques/project-8/20190327_153206.webp",
+        "/gallery/estanques/project-8/20190327_175530.webp",
+        "/gallery/estanques/project-8/20190327_175535.webp",
+        "/gallery/estanques/project-8/20190327_190113.webp",
+        "/gallery/estanques/project-8/20190328_110619.webp",
+        "/gallery/estanques/project-8/20190328_110637.webp",
+        "/gallery/estanques/project-8/20190328_123021.webp",
+        "/gallery/estanques/project-8/20190328_144923.webp",
+        "/gallery/estanques/project-8/20190328_153509.webp",
+        "/gallery/estanques/project-8/20190328_153523.webp",
+        "/gallery/estanques/project-8/20190328_164422.webp",
+        "/gallery/estanques/project-8/20190328_181528.webp",
+        "/gallery/estanques/project-8/20190328_185354.webp",
+        "/gallery/estanques/project-8/20190329_081630.webp",
+        "/gallery/estanques/project-8/20190329_081901.webp",
+        "/gallery/estanques/project-8/20190329_101000.webp",
+        "/gallery/estanques/project-8/IMG-20190417-WA0008.webp",
+        "/gallery/estanques/project-8/IMG-20190417-WA0009.webp",
+        "/gallery/estanques/project-8/IMG-20190417-WA0010.webp"
+      ]
+    },
+    "project-9": {
+      "_files": [
+        "/gallery/estanques/project-9/20190510_130101.webp",
+        "/gallery/estanques/project-9/20190513_111720(0).webp",
+        "/gallery/estanques/project-9/20190513_111733(0).webp",
+        "/gallery/estanques/project-9/20190513_111746.webp"
+      ]
+    }
+  },
+  "fish": {
+    "_files": [
+      "/gallery/fish/cabeza-de-leon.webp",
+      "/gallery/fish/comealga.webp",
+      "/gallery/fish/pez-betta.webp",
+      "/gallery/fish/pez-carpa-koi.webp",
+      "/gallery/fish/pez-cebra-fluorescente.webp",
+      "/gallery/fish/pez-dorado-comun.webp",
+      "/gallery/fish/pez-platy-mickey.webp",
+      "/gallery/fish/pez-telescopio.webp",
+      "/gallery/fish/xifo-naranja.webp"
+    ]
+  },
+  "mantenimiento": {
+    "_files": [
+      "/gallery/mantenimiento/20180404_152922.webp",
+      "/gallery/mantenimiento/20180526_160919.webp",
+      "/gallery/mantenimiento/20180526_1609199.webp",
+      "/gallery/mantenimiento/20180613_160554.webp",
+      "/gallery/mantenimiento/20180920_171927.webp",
+      "/gallery/mantenimiento/20180927_100132.webp",
+      "/gallery/mantenimiento/20180929_112557.webp",
+      "/gallery/mantenimiento/20181128_161232.webp"
+    ]
+  },
+  "plants": {
+    "_files": [
+      "/gallery/plants/azolla.webp",
+      "/gallery/plants/colocasia-black-magic.webp",
+      "/gallery/plants/echinodorus-melon.webp",
+      "/gallery/plants/echinodorus-ozelot.webp",
+      "/gallery/plants/echinodorus-uruguayensis.webp",
+      "/gallery/plants/elodea-nutalli.webp",
+      "/gallery/plants/jacinto-de-agua.webp",
+      "/gallery/plants/junco-azul.webp",
+      "/gallery/plants/junco-typha-domingensis.webp",
+      "/gallery/plants/lechuga-de-agua.webp",
+      "/gallery/plants/nenufar-blue-beauty.webp",
+      "/gallery/plants/nenufar-fire-crest.webp",
+      "/gallery/plants/nenufar-florida-sunset.webp",
+      "/gallery/plants/nenufar-nouchali.webp",
+      "/gallery/plants/nenufar-red-flame.webp",
+      "/gallery/plants/nenufar-rosa-rubra.webp",
+      "/gallery/plants/nenufar-sir-galahad.webp",
+      "/gallery/plants/nenufar-tropical-violeta.webp",
+      "/gallery/plants/nenufar-yellow-dazzler.webp",
+      "/gallery/plants/ninfoidea.webp",
+      "/gallery/plants/nymphoides-hydrophylla.webp",
+      "/gallery/plants/papiro-egipcio.webp",
+      "/gallery/plants/pasto-acuatico-sagittaria-subulata.webp",
+      "/gallery/plants/pontederia-azurea.webp",
+      "/gallery/plants/pontederia-lanceolata.webp",
+      "/gallery/plants/pontederia-rotundifolia..webp",
+      "/gallery/plants/salvinia-molesta.webp"
+    ]
+  },
+  "remodelacion": {
+    "_files": [
+      "/gallery/remodelacion/20180416_173948.webp",
+      "/gallery/remodelacion/20180530_160539.webp",
+      "/gallery/remodelacion/20180616_140932.webp",
+      "/gallery/remodelacion/20180712_110423.webp",
+      "/gallery/remodelacion/476848771_2385917241762855_5036919680159802796_n.webp",
+      "/gallery/remodelacion/481213408_2395591450795434_6611085332230328799_n.webp",
+      "/gallery/remodelacion/IMG-20180906-WA0011.webp",
+      "/gallery/remodelacion/IMG-20180930-WA0004.webp"
+    ]
+  },
+  "testimonials": {
+    "project1": {
+      "_files": [
+        "/gallery/testimonials/project1/after.webp",
+        "/gallery/testimonials/project1/before.webp"
+      ]
+    },
+    "project2": {
+      "_files": [
+        "/gallery/testimonials/project2/after.webp",
+        "/gallery/testimonials/project2/before.webp"
+      ]
+    },
+    "project3": {
+      "_files": [
+        "/gallery/testimonials/project3/after.webp",
+        "/gallery/testimonials/project3/before.webp"
+      ]
+    },
+    "project4": {
+      "_files": [
+        "/gallery/testimonials/project4/after.webp",
+        "/gallery/testimonials/project4/before.webp"
+      ]
+    },
+    "project5": {
+      "_files": [
+        "/gallery/testimonials/project5/after.webp",
+        "/gallery/testimonials/project5/before.webp"
+      ]
+    },
+    "project6": {
+      "_files": [
+        "/gallery/testimonials/project6/after.webp",
+        "/gallery/testimonials/project6/before.webp"
+      ]
+    },
+    "project7": {
+      "_files": [
+        "/gallery/testimonials/project7/after.webp",
+        "/gallery/testimonials/project7/before.webp"
+      ]
+    },
+    "project8": {
+      "_files": [
+        "/gallery/testimonials/project8/after.webp",
+        "/gallery/testimonials/project8/before.webp"
+      ]
+    }
+  }
+}
