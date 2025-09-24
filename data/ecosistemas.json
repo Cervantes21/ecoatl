@@ -28,33 +28,6 @@
         "dimension": "1.8 x 1.2 m",
         "carpeta": "/gallery/ecosistemas/eco-small/project-2",
         "estado": "Terminado"
-      },
-      {
-        "id": "project-3",
-        "nombre": "Jardín Acuático Urbano",
-        "descripcion": "Sistema ecológico adaptado a un espacio urbano reducido, con peces ornamentales y plantas de sombra.",
-        "ubicacion": "Temixco, Morelos",
-        "dimension": "2 x 1.3 m",
-        "carpeta": "/gallery/ecosistemas/eco-small/project-3",
-        "estado": "Terminado"
-      },
-      {
-        "id": "project-4",
-        "nombre": "Eco-Small Ornamental",
-        "descripcion": "Estanque ecológico ornamental con cascada decorativa y borde en piedra natural.",
-        "ubicacion": "Yautepec, Morelos",
-        "dimension": "2.5 x 1.8 m",
-        "carpeta": "/gallery/ecosistemas/eco-small/project-4",
-        "estado": "Terminado"
-      },
-      {
-        "id": "project-5",
-        "nombre": "Ecosistema Compacto Educativo",
-        "descripcion": "Proyecto diseñado con fines educativos para mostrar el funcionamiento de un ciclo acuático autosustentable.",
-        "ubicacion": "Tepoztlán, Morelos",
-        "dimension": "1.5 x 1.5 m",
-        "carpeta": "/gallery/ecosistemas/eco-small/project-5",
-        "estado": "Demostrativo"
       }
     ]
   },
