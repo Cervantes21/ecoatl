@@ -34,14 +34,5 @@
     "dimension": "3.5 x 2.5 m",
     "carpeta": "/gallery/estanques/project-4",
     "estado": "Terminado"
-  },
-  {
-    "id": "project-5",
-    "nombre": "Estanque minimalista",
-    "descripcion": "Estanque para meditación con diseño minimalista y acabados en piedra volcánica.",
-    "ubicacion": "Tepoztlán, Morelos",
-    "dimension": "2 x 2 m",
-    "carpeta": "/gallery/estanques/project-5",
-    "estado": "Terminado"
   }
 ]
