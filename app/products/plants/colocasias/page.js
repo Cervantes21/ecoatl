@@ -4,7 +4,7 @@ import { ChevronRight } from 'lucide-react';
 import PlantsCategoryView from '@/components/PlantsCategoryView';
 
 export const metadata = {
-  title: 'Colocasias | Blue Garden',
+  title: 'Colocasias | Atl Ecosystem',
   description:
     'Explora nuestra colección de colocasias para estanques, acuarios y biopiscinas.',
 };

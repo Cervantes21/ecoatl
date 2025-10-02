@@ -2,7 +2,7 @@
 import AboutContent from '@/components/AboutContent';
 
 export const metadata = {
-  title: 'Nosotros | Blue Garden',
+  title: 'Nosotros | Atl Ecosystem',
   description:
     'Más de 12 años diseñando, construyendo y cuidando Estanques, BioPiscinas y Ecosistemas Acuáticos.',
 };

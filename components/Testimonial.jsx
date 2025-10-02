@@ -26,7 +26,7 @@ function metaById(id) {
   const found = testimonialMeta?.items?.find((x) => x.id === id) || {};
   return {
     id,
-    comment: found.comment || defaults.comment || '“Proyecto Blue Garden.”',
+    comment: found.comment || defaults.comment || '“Proyecto Atl Ecosystem.”',
     author: found.author || defaults.author || 'Cliente',
     date: found.date || defaults.date || 'Reciente',
   };

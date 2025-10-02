@@ -19,8 +19,8 @@ export const metadata = {
   metadataBase: new URL(siteUrl),
 
   title: {
-    default: 'Blue Garden - Estanques, Acuarios y BioPiscinas',
-    template: '%s | Blue Garden',
+    default: 'Atl Ecosystem - Estanques, Acuarios y BioPiscinas',
+    template: '%s | Atl Ecosystem',
   },
   description:
     'Diseñamos y construimos ecosistemas acuáticos: bio-piscinas, estanques, cascadas y más.',
@@ -30,19 +30,19 @@ export const metadata = {
   openGraph: {
     type: 'website',
     url: '/',
-    siteName: 'Blue Garden',
+    siteName: 'Atl Ecosystem',
     images: [
-      // ✅ sirve desde /public/logo_blue-garden.webp
-      { url: '/logo_blue-garden.webp' },
+      // ✅ sirve desde /public/logo_ecoatl.png
+      { url: '/logo_ecoatl.png' },
     ],
   },
 
   twitter: {
     card: 'summary_large_image',
-    title: 'Blue Garden',
+    title: 'Atl Ecosystem',
     description:
       'Diseñamos y construimos ecosistemas acuáticos: bio-piscinas, estanques, cascadas y más.',
-    images: ['/logo_blue-garden.webp'],
+    images: ['/logo_ecoatl.png'],
   },
 
   icons: {

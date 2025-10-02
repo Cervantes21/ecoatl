@@ -3,7 +3,7 @@ import Link from 'next/link';
 import ContactForm from '@/components/ContactForm';
 
 export const metadata = {
-  title: 'Contacto | Blue Garden',
+  title: 'Contacto | Atl Ecosystem',
   description:
     'Contáctanos para plantas acuáticas, peces, biopiscinas, construcción, remodelación o mantenimiento. Sucursales en Centro, Cuernavaca y Riviera Maya.',
 };
@@ -129,7 +129,7 @@ export default function ContactPage() {
 
             {/* Sucursal 2 - ACTUALIZADA */}
             <div className="rounded-2xl border border-white/15 bg-white/10 p-4 text-white backdrop-blur-md">
-              <h3 className="text-lg font-semibold">Blue Garden Centro</h3>
+              <h3 className="text-lg font-semibold">Atl Ecosystem Centro</h3>
               <div className="mt-3 overflow-hidden rounded-xl">
                 <div className="aspect-video">
                   <iframe
@@ -156,7 +156,7 @@ export default function ContactPage() {
 
             {/* Sucursal 3 */}
             <div className="rounded-2xl border border-white/15 bg-white/10 p-4 text-white backdrop-blur-md">
-              <h3 className="text-lg font-semibold">Blue Garden Riviera Maya</h3>
+              <h3 className="text-lg font-semibold">Atl Ecosystem Riviera Maya</h3>
               <div className="mt-3 overflow-hidden rounded-xl">
                 <div className="aspect-video">
                   <iframe

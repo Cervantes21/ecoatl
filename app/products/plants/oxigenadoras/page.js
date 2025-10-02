@@ -4,7 +4,7 @@ import { ChevronRight } from 'lucide-react';
 import PlantsCategoryView from '@/components/PlantsCategoryView';
 
 export const metadata = {
-  title: 'Oxigenadoras | Blue Garden',
+  title: 'Oxigenadoras | Atl Ecosystem',
   description: 'Plantas oxigenadoras para estanques, acuarios y biopiscinas.',
 };
 

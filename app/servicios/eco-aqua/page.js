@@ -15,17 +15,17 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 export const metadata = {
-  title: 'Ecosistemas Acuáticos | Blue Garden',
+  title: 'Ecosistemas Acuáticos | Atl Ecosystem',
   description:
     'Humedales construidos, lagos, cenotes y ríos artificiales. Diseño, construcción y mantenimiento con filtración biológica y paisajismo funcional.',
   alternates: { canonical: '/servicios/ecosistemas' },
   openGraph: {
-    title: 'Ecosistemas Acuáticos | Blue Garden',
+    title: 'Ecosistemas Acuáticos | Atl Ecosystem',
     description:
       'Microclimas vivos que se regulan por sí mismos: humedales, lagos, cenotes y ríos con bajo consumo y alto valor ecológico.',
     type: 'website',
     url: '/servicios/ecosistemas',
-    images: ['/logo_blue-garden.webp'], // imagen segura existente
+    images: ['/logo_ecoatl.png'], // imagen segura existente
   },
 };
 

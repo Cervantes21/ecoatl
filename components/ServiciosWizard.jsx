@@ -144,7 +144,7 @@ export default function ServiciosWizard({ hideIntro = false }) {
       {!hideIntro && (
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-6 md:py-8">
           <header className="mb-6">
-            <h1 className="text-3xl md:text-4xl font-bold text-white">Servicios Blue Garden</h1>
+            <h1 className="text-3xl md:text-4xl font-bold text-white">Servicios Atl Ecosystem</h1>
             <p className="mt-2 text-slate-300">Te ayudamos a identificar lo que necesitas y te mostramos opciones con ejemplos visuales.</p>
           </header>
         </div>

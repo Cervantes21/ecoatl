@@ -4,7 +4,7 @@ import { ChevronRight } from 'lucide-react';
 import PlantsCategoryView from '@/components/PlantsCategoryView';
 
 export const metadata = {
-  title: 'Palustres | Blue Garden',
+  title: 'Palustres | Atl Ecosystem',
   description: 'Plantas palustres para estanques, acuarios y biopiscinas.',
 };
 

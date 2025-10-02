@@ -187,7 +187,7 @@ export default function ContactForm() {
         <div className="md:col-span-2">
           <label className="flex items-start gap-3 text-sm text-slate-700">
             <input type="checkbox" name="consent" required /> 
-            <span>Acepto ser contactado por Blue Garden para responder a mi solicitud.</span>
+            <span>Acepto ser contactado por Atl Ecosystem para responder a mi solicitud.</span>
           </label>
         </div>
       </div>

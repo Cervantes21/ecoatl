@@ -104,7 +104,7 @@ function ProjectSheet({ open, onClose, project, onPrevProject, onNextProject, ha
           </div>
 
           <div className="flex items-center gap-2">
-            {/* Nav de proyectos con hover fucsia-700 */}
+            {/* Nav de proyectos con hover teal-700 */}
             {hasPrev && (
               <button
                 onClick={onPrevProject}
@@ -251,7 +251,7 @@ function ProjectSheet({ open, onClose, project, onPrevProject, onNextProject, ha
               )}
             </div>
 
-            {/* Prev/Next imagen con hover fucsia-700 */}
+            {/* Prev/Next imagen con hover teal-700 */}
             {!showCompare && images.length > 1 && (
               <>
                 <button

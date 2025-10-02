@@ -68,11 +68,11 @@ export default function Hero() {
             aria-haspopup="true"
             aria-expanded={open}
             onClick={() => setOpen(v => !v)}
-            className="bg-white rounded-full overflow-hidden p-2 w-28 h-28 sm:w-32 sm:h-32 flex items-center justify-center ring-2 ring-transparent hover:ring-fuchsia-600 focus:outline-none focus:ring-4 focus:ring-fuchsia-300 transition-all duration-200"
+            className="bg-white rounded-full overflow-hidden p-2 w-28 h-28 sm:w-32 sm:h-32 flex items-center justify-center ring-2 ring-transparent hover:ring-green-600 focus:outline-none focus:ring-4 focus:ring-green-300 transition-all duration-200"
           >
             <Image
-              src="/logo_blue-garden.webp"
-              alt="Logo Blue Garden"
+              src="/logo_ecoatl.png"
+              alt="Logo Atl Ecosystem"
               width={96} height={96}
               className="object-contain" priority
             />
@@ -89,14 +89,14 @@ export default function Hero() {
               <div className="flex flex-col sm:flex-row gap-3">
                 <Link
                   href="/servicios"
-                  className="flex-1 text-center rounded-full px-5 py-3 text-sm sm:text-base font-semibold ring-2 ring-green-600 text-white hover:bg-fuchsia-600 hover:ring-fuchsia-600 transition-colors duration-200"
+                  className="flex-1 text-center rounded-full px-5 py-3 text-sm sm:text-base font-semibold ring-2 ring-green-600 text-white hover:bg-green-600 hover:ring-green-600 transition-colors duration-200"
                   onClick={() => setOpen(false)}
                 >
                   Servicios
                 </Link>
                 <Link
                   href="/products"
-                  className="flex-1 text-center rounded-full px-5 py-3 text-sm sm:text-base font-semibold ring-2 ring-green-600 text-white hover:bg-fuchsia-600 hover:ring-fuchsia-600 transition-colors duration-200"
+                  className="flex-1 text-center rounded-full px-5 py-3 text-sm sm:text-base font-semibold ring-2 ring-green-600 text-white hover:bg-green-600 hover:ring-green-600 transition-colors duration-200"
                   onClick={() => setOpen(false)}
                 >
                   Productos
@@ -115,7 +115,7 @@ export default function Hero() {
 
         {/* Título */}
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-white drop-shadow-lg mb-2">
-          Blue Garden
+          Atl Ecosystem
         </h1>
 
         {/* Subtítulo */}

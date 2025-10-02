@@ -15,8 +15,8 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 export const metadata = {
-  title: 'Galería | Blue Garden',
-  description: 'Explora proyectos de Blue Garden por categoría: BioPiscinas, Estanques y Ecosistemas.',
+  title: 'Galería | Atl Ecosystem',
+  description: 'Explora proyectos de Atl Ecosystem por categoría: BioPiscinas, Estanques y Ecosistemas.',
 };
 
 const PUBLIC_DIR = path.join(process.cwd(), 'public');
@@ -340,7 +340,7 @@ export default function GalleryPage() {
               title="Galería de plantas"
               href="/products/plants"
               description="Oxigenadoras, flotantes, palustres y tapizantes para lograr un equilibrio saludable."
-              image={{ src: '/gallery/plantas-acuaticas.webp', alt: 'Plantas acuáticas Blue Garden' }}
+              image={{ src: '/gallery/plantas-acuaticas.webp', alt: 'Plantas acuáticas Atl Ecosystem' }}
               cta="Ver plantas"
             />
             <CategoryCard
@@ -397,7 +397,7 @@ function CategoryCard({ icon, title, description, href, image, cta = 'Ver más' 
                     dark:bg-slate-900/90 dark:border-slate-700">
       <div className="relative h-48 w-full overflow-hidden">
         <Image
-          src={image?.src || '/logo_blue-garden.webp'}
+          src={image?.src || '/logo_ecoatl.png'}
           alt={image?.alt || title}
           fill
           sizes="(max-width: 768px) 100vw, 50vw"

@@ -59,7 +59,7 @@ export default function Navbar() {
           <>
             {/* Plantas */}
             <li
-              className="flex items-center justify-between gap-2 py-1 px-6 hover:text-fuchsia-600 cursor-pointer"
+              className="flex items-center justify-between gap-2 py-1 px-6 hover:text-green-600 cursor-pointer"
               onClick={() => setOpenNested(prev => prev === 'plants' ? null : 'plants')}
             >
               <div className="flex items-center gap-2"><FaLeaf /><span>Plantas</span></div>
@@ -67,13 +67,13 @@ export default function Navbar() {
             </li>
             {openNested === 'plants' && (
               <ul className="flex flex-col bg-gray-50">
-                <li className="py-1 px-10 hover:text-fuchsia-600">
+                <li className="py-1 px-10 hover:text-green-600">
                   <Link href="/products/plants/colocasias" onClick={closeMenu}>Colocasias</Link>
                 </li>
 
                 {/* Flotantes (nido móvil) */}
                 <li
-                  className="flex items-center justify-between py-1 px-10 hover:text-fuchsia-600 cursor-pointer"
+                  className="flex items-center justify-between py-1 px-10 hover:text-green-600 cursor-pointer"
                   onClick={() => setOpenFlotantesMobile(prev => !prev)}
                 >
                   <span>Flotantes</span>
@@ -81,31 +81,31 @@ export default function Navbar() {
                 </li>
                 {openFlotantesMobile && (
                   <ul className="flex flex-col bg-gray-100">
-                    <li className="py-1 px-14 hover:text-fuchsia-600">
+                    <li className="py-1 px-14 hover:text-green-600">
                       <Link href="/products/plants/flotantes/flotantes" onClick={closeMenu}>Flotantes libres</Link>
                     </li>
-                    <li className="py-1 px-14 hover:text-fuchsia-600">
+                    <li className="py-1 px-14 hover:text-green-600">
                       <Link href="/products/plants/flotantes/arraigadas" onClick={closeMenu}>Arraigadas</Link>
                     </li>
-                    <li className="py-1 px-14 hover:text-fuchsia-600">
+                    <li className="py-1 px-14 hover:text-green-600">
                       <Link href="/products/plants/flotantes" onClick={closeMenu}>Ver todo Flotantes</Link>
                     </li>
                   </ul>
                 )}
 
-                <li className="py-1 px-10 hover:text-fuchsia-600">
+                <li className="py-1 px-10 hover:text-green-600">
                   <Link href="/products/plants/nenufares" onClick={closeMenu}>Nenúfares</Link>
                 </li>
-                <li className="py-1 px-10 hover:text-fuchsia-600">
+                <li className="py-1 px-10 hover:text-green-600">
                   <Link href="/products/plants/oxigenadoras" onClick={closeMenu}>Oxigenadoras</Link>
                 </li>
-                <li className="py-1 px-10 hover:text-fuchsia-600">
+                <li className="py-1 px-10 hover:text-green-600">
                   <Link href="/products/plants/palustres" onClick={closeMenu}>Palustres</Link>
                 </li>
               </ul>
             )}
             {/* Peces */}
-            <li className="flex items-center gap-2 py-1 px-6 hover:text-fuchsia-600">
+            <li className="flex items-center gap-2 py-1 px-6 hover:text-green-600">
               <FaFish />
               <Link href="/products/fish" onClick={closeMenu}>Peces</Link>
             </li>
@@ -153,13 +153,13 @@ export default function Navbar() {
 
             {/* Grupo Plantas */}
             <ul className="ml-6 mt-1">
-              <li className="py-1 px-2 hover:text-fuchsia-600">
+              <li className="py-1 px-2 hover:text-green-600">
                 <Link href="/products/plants/colocasias" onClick={closeMenu}>Colocasias</Link>
               </li>
 
               {/* Flotantes: solo click (no hover) */}
               <li
-                className="py-1 px-2 hover:text-fuchsia-600 flex items-center justify-between cursor-pointer select-none"
+                className="py-1 px-2 hover:text-green-600 flex items-center justify-between cursor-pointer select-none"
                 onClick={() => {
                   setOpenNested(prev => (prev === 'flotantes' ? null : 'flotantes'));
                   setOpenFlotantesDesktop(prev => !prev);
@@ -171,31 +171,31 @@ export default function Navbar() {
 
               {openNested === 'flotantes' && openFlotantesDesktop && (
                 <ul className="ml-4">
-                  <li className="py-1 hover:text-fuchsia-600">
+                  <li className="py-1 hover:text-green-600">
                     <Link href="/products/plants/flotantes/flotantes" onClick={closeMenu}>Flotantes libres</Link>
                   </li>
-                  <li className="py-1 hover:text-fuchsia-600">
+                  <li className="py-1 hover:text-green-600">
                     <Link href="/products/plants/flotantes/arraigadas" onClick={closeMenu}>Arraigadas</Link>
                   </li>
-                  <li className="py-1 hover:text-fuchsia-600">
+                  <li className="py-1 hover:text-green-600">
                     <Link href="/products/plants/flotantes" onClick={closeMenu}>Ver todo Flotantes</Link>
                   </li>
                 </ul>
               )}
 
-              <li className="py-1 px-2 hover:text-fuchsia-600">
+              <li className="py-1 px-2 hover:text-green-600">
                 <Link href="/products/plants/nenufares" onClick={closeMenu}>Nenúfares</Link>
               </li>
-              <li className="py-1 px-2 hover:text-fuchsia-600">
+              <li className="py-1 px-2 hover:text-green-600">
                 <Link href="/products/plants/oxigenadoras" onClick={closeMenu}>Oxigenadoras</Link>
               </li>
-              <li className="py-1 px-2 hover:text-fuchsia-600">
+              <li className="py-1 px-2 hover:text-green-600">
                 <Link href="/products/plants/palustres" onClick={closeMenu}>Palustres</Link>
               </li>
             </ul>
 
             {/* Peces (desktop) */}
-            <li className="flex items-center gap-2 py-1 hover:text-fuchsia-600 mt-2">
+            <li className="flex items-center gap-2 py-1 hover:text-green-600 mt-2">
               <FaFish />
               <Link href="/products/fish" onClick={closeMenu}>Peces</Link>
             </li>
@@ -210,12 +210,12 @@ export default function Navbar() {
       <nav className="container mx-auto flex justify-between items-center px-4 py-3">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-3" onClick={closeMenu}>
-          <Image src="/logo_blue-garden.webp" alt="Logo Blue Garden" width={60} height={60} />
-          <span className="text-3xl font-bold text-fuchsia-600">Blue Garden</span>
+          <Image src="/logo_ecoatl.png" alt="Logo Atl Ecosystem" width={60} height={60} />
+          <span className="text-3xl font-bold text-teal-900">Atl Ecosystem</span>
         </Link>
 
         {/* Hamburger */}
-        <button className="lg:hidden text-fuchsia-600 focus:outline-none" onClick={toggleMenu} aria-label="Abrir menú">
+        <button className="lg:hidden text-green-600 focus:outline-none" onClick={toggleMenu} aria-label="Abrir menú">
           {isOpen ? <X size={28} /> : <Menu size={28} />}
         </button>
 
@@ -248,7 +248,7 @@ export default function Navbar() {
             onMouseLeave={() => { const t = setTimeout(() => setHoveredMenu(null), 300); setSubmenuTimeout(t); }}
           >
             <div
-              className="flex items-center justify-between lg:justify-start gap-1 cursor-pointer hover:text-fuchsia-600 w-full"
+              className="flex items-center justify-between lg:justify-start gap-1 cursor-pointer hover:text-green-600 w-full"
               onClick={() => setOpenSubmenu(prev => (prev === 'productos' ? null : 'productos'))}
             >
               <span>Productos</span>
@@ -260,7 +260,7 @@ export default function Navbar() {
 
           {/* Otros enlaces */}
           <li><Link href="/gallery" onClick={closeMenu} className="hover:text-green-600">Galería</Link></li>
-          <li><Link href="/about" onClick={closeMenu} className="hover:text-fuchsia-600">Nosotros</Link></li>
+          <li><Link href="/about" onClick={closeMenu} className="hover:text-green-600">Nosotros</Link></li>
           <li><Link href="/contact" onClick={closeMenu} className="hover:text-green-600">Contacto</Link></li>
         </ul>
       </nav>

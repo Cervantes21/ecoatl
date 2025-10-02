@@ -37,7 +37,7 @@ export default function ServiceGrid() {
     <section id="services" className="py-20 bg-white">
       <div className="container mx-auto px-4">
         {/* Texto principal */}
-        <h2 className="text-4xl md:text-5xl font-bold text-fuchsia-600 text-center mb-4">
+        <h2 className="text-4xl md:text-5xl font-bold text-green-600 text-center mb-4">
           Diseño de Estanques y Acuapaisajismo
         </h2>
         <p className="text-lg md:text-xl text-blue-700 text-center mb-12">

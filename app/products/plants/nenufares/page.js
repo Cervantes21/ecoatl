@@ -4,7 +4,7 @@ import { ChevronRight } from 'lucide-react';
 import PlantsCategoryView from '@/components/PlantsCategoryView';
 
 export const metadata = {
-  title: 'Nenúfares | Blue Garden',
+  title: 'Nenúfares | Atl Ecosystem',
   description: 'Catálogo de nenúfares para estanques, acuarios y biopiscinas.',
 };
 

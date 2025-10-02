@@ -17,12 +17,12 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 export const metadata = {
-  title: 'BioPiscinas | Blue Garden',
+  title: 'BioPiscinas | Atl Ecosystem',
   description:
     'Diseño, construcción y conversión de albercas a BioPiscinas con filtración biológica, zonas de regeneración vegetal y automatización eficiente. Opciones híbridas con apoyo UV/ozono y climatización responsable.',
   alternates: { canonical: '/servicios/biopool' },
   openGraph: {
-    title: 'BioPiscinas | Blue Garden',
+    title: 'BioPiscinas | Atl Ecosystem',
     description:
       'Nada en agua suave y natural, sin cloro agresivo. Conversión de albercas a BioPiscinas, diseño a medida y automatización.',
     type: 'website',

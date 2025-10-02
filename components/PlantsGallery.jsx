@@ -137,9 +137,9 @@ function DetailsModal({ open, item, onClose, onPrev, onNext }) {
   const alias = Array.isArray(p.otros_nombres) ? p.otros_nombres : [];
 
   const navBtn =
-    'inline-flex items-center rounded-xl px-3 py-2 text-sm bg-[#0e1b2b] text-white hover:bg-fuchsia-700 transition border-0 focus:outline-none focus:ring-0';
+    'inline-flex items-center rounded-xl px-3 py-2 text-sm bg-[#0e1b2b] text-white hover:bg-green-700 transition border-0 focus:outline-none focus:ring-0';
   const navBtnMobile =
-    'rounded-xl px-3 py-2 text-sm bg-[#0e1b2b] text-white hover:bg-fuchsia-700 transition border-0 focus:outline-none focus:ring-0';
+    'rounded-xl px-3 py-2 text-sm bg-[#0e1b2b] text-white hover:bg-green-700 transition border-0 focus:outline-none focus:ring-0';
 
   const cuidados = p.cuidados || {};
   const nutrientes = cuidados.consumo_nutrientes || {};
@@ -234,7 +234,7 @@ function DetailsModal({ open, item, onClose, onPrev, onNext }) {
                       <div className="text-xs uppercase tracking-wide text-white/70 mb-1">Tamaños</div>
                       <div className="flex flex-wrap gap-1">
                         {sizes.map((t) => (
-                          <span key={t} className="text-xs rounded bg-fuchsia-50 text-fuchsia-700 px-2 py-0.5 border border-fuchsia-100">{t}</span>
+                          <span key={t} className="text-xs rounded bg-green-50 text-green-700 px-2 py-0.5 border border-green-100">{t}</span>
                         ))}
                       </div>
                     </div>
@@ -499,7 +499,7 @@ export default function PlantsGallery({
                 className={cx(
                   'whitespace-nowrap rounded-2xl px-4 py-2 text-sm sm:text-base transition',
                   active
-                    ? 'bg-fuchsia-700 text-white shadow'
+                    ? 'bg-green-700 text-white shadow'
                     : 'bg-slate-100 text-slate-700 hover:bg-slate-200 dark:bg-slate-800 dark:text-slate-200 dark:hover:bg-slate-700'
                 )}
               >
@@ -643,14 +643,14 @@ export default function PlantsGallery({
                         {sizes.map((t) => (
                           <span
                             key={t}
-                            className="text-[10px] rounded bg-fuchsia-50 text-fuchsia-700 px-1.5 py-0.5 border border-fuchsia-100"
+                            className="text-[10px] rounded bg-green-50 text-green-700 px-1.5 py-0.5 border border-green-100"
                           >
                             {t}
                           </span>
                         ))}
                       </div>
                     )}
-                    <span className="ml-auto text-sm font-medium text-fuchsia-700 group-hover:text-fuchsia-900 dark:text-fuchsia-400 dark:group-hover:text-fuchsia-300">
+                    <span className="ml-auto text-sm font-medium text-green-700 group-hover:text-green-900 dark:text-green-400 dark:group-hover:text-green-300">
                       Ver detalles
                     </span>
                   </div>

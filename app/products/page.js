@@ -6,7 +6,7 @@ import plants from '@/data/plants.json';
 import fish from '@/data/fish.json';
 
 export const metadata = {
-  title: 'Productos | Blue Garden',
+  title: 'Productos | Atl Ecosystem',
   description: 'Explora nuestras plantas acuáticas y peces para tu estanque, acuario o biopiscina.',
 };
 
@@ -64,7 +64,7 @@ export default function ProductsPage() {
               badgeItems={plantExamples}
               image={{
                 src: '/gallery/plantas-acuaticas.webp',
-                alt: 'Plantas acuáticas Blue Garden',
+                alt: 'Plantas acuáticas Atl Ecosystem',
               }}
             />
 
@@ -98,7 +98,7 @@ function CategoryCard({ icon, title, description, href, badgeItems = [], image }
     <div className="group relative overflow-hidden rounded-3xl border border-white/30 bg-white/90 shadow-sm transition hover:shadow-md backdrop-blur-sm">
       <div className="relative h-48 w-full overflow-hidden">
         <Image
-          src={image?.src || '/logo_blue-garden.webp'}
+          src={image?.src || '/logo_ecoatl.png'}
           alt={image?.alt || title}
           fill
           sizes="(max-width: 768px) 100vw, 50vw"

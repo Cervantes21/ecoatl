@@ -8,7 +8,7 @@ import {
 } from 'lucide-react';
 
 export const metadata = {
-  title: 'Servicios | Blue Garden',
+  title: 'Servicios | Atl Ecosystem',
   description:
     'Estanques, BioPiscinas y Ecosistemas Acuáticos. Más de 12 años creando agua viva: diseño, construcción, remodelación y mantenimiento.',
 };
@@ -106,7 +106,7 @@ export default function ServiciosPage() {
             Asesoría guiada
           </p>
           <h1 className="mt-2 text-3xl md:text-5xl font-extrabold text-white">
-            Servicios Blue Garden
+            Servicios Atl Ecosystem
           </h1>
 
           <p className="mt-4 text-slate-200 max-w-3xl leading-relaxed">
@@ -154,10 +154,10 @@ export default function ServiciosPage() {
       {/* Antes / Después */}
       <BeforeAfterGrid maxItems={8} intervalMs={3200} />
 
-      {/* Por qué Blue Garden */}
+      {/* Por qué Atl Ecosystem */}
       <section className="relative py-10">
         <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-white">¿Por qué Blue Garden?</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-white">¿Por qué Atl Ecosystem?</h2>
           <p className="mt-2 text-white/80 max-w-3xl">
             Diseñamos sistemas vivos que se estabilizan por sí mismos. Cada proyecto equilibra estética,
             biología y eficiencia energética para que disfrutes agua clara y saludable todo el año.

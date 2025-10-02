@@ -5,7 +5,7 @@ import { ChevronRight } from 'lucide-react';
 import { PLANT_CATEGORIES, slugify, getCategoryBySlug } from '@/utils/plantsRouting';
 
 export const metadata = {
-  title: 'Plantas acuáticas | Blue Garden',
+  title: 'Plantas acuáticas | Atl Ecosystem',
   description:
     'Explora plantas oxigenadoras, flotantes, palustres, nenúfares y colocasias para estanques, acuarios y biopiscinas.',
 };
@@ -78,7 +78,7 @@ export default function PlantsPage({ searchParams }) {
           <div className="mb-4">
             <Link
               href={selected.href}
-              className="inline-block text-xl sm:text-2xl font-semibold text-white underline decoration-fuchsia-400/60 underline-offset-4 hover:decoration-fuchsia-300"
+              className="inline-block text-xl sm:text-2xl font-semibold text-white underline decoration-green-400/60 underline-offset-4 hover:decoration-green-300"
             >
               {selected.label}
             </Link>
@@ -93,7 +93,7 @@ export default function PlantsPage({ searchParams }) {
               href={chip.href}
               className={`rounded-full border px-3 py-1 text-sm transition ${
                 chip.isActive
-                  ? 'bg-fuchsia-600 text-white border-fuchsia-600'
+                  ? 'bg-green-600 text-white border-green-600'
                   : 'border-white text-white hover:bg-white/20'
               }`}
             >

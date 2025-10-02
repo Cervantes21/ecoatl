@@ -101,9 +101,9 @@ function DetailsModal({ open, fish, onClose, onPrev, onNext }) {
   } = fish || {};
 
   const navBtn =
-    'inline-flex items-center rounded-xl px-3 py-2 text-sm bg-[#0e1b2b] text-white hover:bg-fuchsia-700 transition border-0 focus:outline-none focus:ring-0';
+    'inline-flex items-center rounded-xl px-3 py-2 text-sm bg-[#0e1b2b] text-white hover:bg-green-700 transition border-0 focus:outline-none focus:ring-0';
   const navBtnMobile =
-    'rounded-xl px-3 py-2 text-sm bg-[#0e1b2b] text-white hover:bg-fuchsia-700 transition border-0 focus:outline-none focus:ring-0';
+    'rounded-xl px-3 py-2 text-sm bg-[#0e1b2b] text-white hover:bg-green-700 transition border-0 focus:outline-none focus:ring-0';
 
   return createPortal(
     <div
@@ -343,7 +343,7 @@ export default function FishGallery({
                   placeholder="Buscar por nombre, científico o alias…"
                   className="w-full sm:w-72 rounded-xl border px-3 py-2 outline-none focus:ring-2
                              bg-white/90 border-white/30 text-slate-900 placeholder:text-slate-500
-                             focus:ring-fuchsia-500"
+                             focus:ring-green-500"
                 />
               </div>
             )}
@@ -352,7 +352,7 @@ export default function FishGallery({
                 value={sortKey}
                 onChange={(e) => setSortKey(e.target.value)}
                 className="rounded-xl border px-3 py-2 outline-none focus:ring-2
-                           bg-white/90 border-white/30 text-slate-900 focus:ring-fuchsia-500"
+                           bg-white/90 border-white/30 text-slate-900 focus:ring-green-500"
               >
                 <option value="nombre">Ordenar por nombre común (A–Z)</option>
                 <option value="cientifico">Ordenar por nombre científico (A–Z)</option>
@@ -426,7 +426,7 @@ export default function FishGallery({
                       )}
 
                       <div className="mt-1 flex items-center gap-3">
-                        <span className="ml-auto text-sm font-medium text-fuchsia-50 bg-fuchsia-700 group-hover:bg-fuchsia-600 px-2.5 py-1 rounded-lg">
+                        <span className="ml-auto text-sm font-medium text-green-50 bg-teal-700 group-hover:bg-green-600 px-2.5 py-1 rounded-lg">
                           Ver detalles
                         </span>
                       </div>

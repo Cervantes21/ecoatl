@@ -2,7 +2,7 @@
 import FishGallery from '@/components/FishGallery.jsx';
 
 export const metadata = {
-  title: 'Blue Garden — Peces',
+  title: 'Atl Ecosystem — Peces',
   description: 'Galería y catálogo de peces para estanques y acuarios.',
 };
 

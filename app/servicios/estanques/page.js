@@ -17,12 +17,12 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 export const metadata = {
-  title: 'Estanques | Blue Garden',
+  title: 'Estanques | Atl Ecosystem',
   description:
     'Estanques cristalinos con filtración biológica, plantas y peces. Diseño, construcción, remodelación y mantenimiento.',
   alternates: { canonical: '/servicios/estanques' },
   openGraph: {
-    title: 'Estanques | Blue Garden',
+    title: 'Estanques | Atl Ecosystem',
     description:
       'Un santuario de vida en tu casa o negocio. Claridad estable con bajo consumo y paisajismo funcional.',
     type: 'website',

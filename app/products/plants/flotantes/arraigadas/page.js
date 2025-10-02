@@ -4,7 +4,7 @@ import { ChevronRight } from 'lucide-react';
 import PlantsCategoryView from '@/components/PlantsCategoryView';
 
 export const metadata = {
-  title: 'Flotantes arraigadas | Blue Garden',
+  title: 'Flotantes arraigadas | Atl Ecosystem',
   description: 'Plantas flotantes arraigadas para estanques, acuarios y biopiscinas.',
 };
 

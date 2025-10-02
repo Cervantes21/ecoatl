@@ -61,7 +61,7 @@ export default function AboutContent() {
             Sobre nosotros
           </p>
           <h1 className="mt-2 text-3xl md:text-5xl font-extrabold text-white">
-            Blue Garden
+            Atl Ecosystem
           </h1>
 
           {/* Texto actualizado */}
