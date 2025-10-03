@@ -42,12 +42,7 @@
     "/gallery/WhatsApp Image 2025-06-16 at 14.48.41 (3).webp",
     "/gallery/WhatsApp Image 2025-06-16 at 14.48.41.webp",
     "/gallery/WhatsApp Image 2025-08-04 at 22.11.07.webp",
-    "/gallery/WhatsApp Image 2025-08-05 at 16.34.26 (2).webp",
-    "/gallery/WhatsApp Image 2025-08-11 at 16.47.22.webp",
-    "/gallery/WhatsApp Image 2025-09-12 at 19.45.55 (2).webp",
-    "/gallery/WhatsApp Image 2025-09-12 at 19.45.55 (3).webp",
-    "/gallery/WhatsApp Image 2025-09-12 at 19.45.56 (1).webp",
-    "/gallery/WhatsApp Image 2025-09-12 at 19.45.56.webp"
+    "/gallery/WhatsApp Image 2025-08-05 at 16.34.26 (2).webp"
   ],
   "biopiscinas": {
     "_files": [],
@@ -224,7 +219,6 @@
       "lagos": {
         "_files": [
           "/gallery/ecosistemas/grand-ecosystem/lagos/20180913_171553.webp",
-          "/gallery/ecosistemas/grand-ecosystem/lagos/20180913_172125.webp",
           "/gallery/ecosistemas/grand-ecosystem/lagos/20180920_171946.webp",
           "/gallery/ecosistemas/grand-ecosystem/lagos/20180927_095450.webp",
           "/gallery/ecosistemas/grand-ecosystem/lagos/20180927_095500.webp",
@@ -234,7 +228,6 @@
           "/gallery/ecosistemas/grand-ecosystem/lagos/20180927_100132.webp",
           "/gallery/ecosistemas/grand-ecosystem/lagos/20180929_091853.webp",
           "/gallery/ecosistemas/grand-ecosystem/lagos/20180929_105515.webp",
-          "/gallery/ecosistemas/grand-ecosystem/lagos/20180929_112557.webp",
           "/gallery/ecosistemas/grand-ecosystem/lagos/20181004_112245.webp",
           "/gallery/ecosistemas/grand-ecosystem/lagos/20181004_112755.webp"
         ]
@@ -422,18 +415,6 @@
       "_files": [
         "/gallery/testimonials/project6/after.webp",
         "/gallery/testimonials/project6/before.webp"
-      ]
-    },
-    "project7": {
-      "_files": [
-        "/gallery/testimonials/project7/after.webp",
-        "/gallery/testimonials/project7/before.webp"
-      ]
-    },
-    "project8": {
-      "_files": [
-        "/gallery/testimonials/project8/after.webp",
-        "/gallery/testimonials/project8/before.webp"
       ]
     }
   }
