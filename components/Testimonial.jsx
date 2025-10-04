@@ -57,7 +57,7 @@ export default function Testimonial({ maxItems, intervalMs = 3000 }) {
     <section className="py-16 bg-green-50">
       <div className="container mx-auto px-4">
         <div className="mb-8 text-center">
-          <h2 className="text-2xl md:text-3xl font-semibold text-green-900">Antes / Después</h2>
+          <h2 className="text-2xl md:text-3xl font-semibold text-teal-600">Antes / Después</h2>
           <p className="text-gray-600">Proyectos recientes de biopiscinas, estanques y ecosistemas</p>
         </div>
 
@@ -178,7 +178,7 @@ function FadeCarousel({ project, intervalMs }) {
 
       <div className="mt-4 text-center">
         <p className="text-gray-700 italic">{project.comment}</p>
-        <h4 className="mt-2 font-semibold text-green-800">— {project.author}</h4>
+        <h4 className="mt-2 font-semibold text-teal-800">— {project.author}</h4>
         <span className="block text-sm text-gray-500">{project.date}</span>
       </div>
     </article>

@@ -13,13 +13,13 @@ const LOCATIONS = [
     maps: "https://share.google/46wwBUOGblAgqbwlW",
   },
   {
-    nombre: "Blue Garden Cuernavaca Centro",
+    nombre: "Eco-Atl, Atl-Ecosystem Centro",
     direccion:
       "Calle Gral. H. Galeana 46, Cuernavaca Centro, Centro, 62000 Cuernavaca, Mor.",
-    telefono: "55 4717 3446",
-    telHref: "tel:+525547173446",
-    whatsapp: "https://wa.me/525547173446",
-    email: "bluegarden357@gmail.com",
+    telefono: "777 256 88 21",
+    telHref: "tel:+527772568821",
+    whatsapp: "https://wa.me/527772568821",
+    email: "atl.ecosystem@gmail.com",
     maps: "https://maps.app.goo.gl/W1MEdCESj4jnRiry9",
   },
   {
@@ -35,7 +35,7 @@ const LOCATIONS = [
 
 export default function ContactCTA() {
   return (
-    <section id="contact" className="relative py-20 bg-green-700 text-white">
+    <section id="contact" className="relative py-20 bg-teal-900 text-white">
       <div className="mx-auto max-w-7xl px-6">
         {/* Encabezado */}
         <header className="text-center">
@@ -51,13 +51,13 @@ export default function ContactCTA() {
         <div className="mt-8 flex flex-wrap justify-center gap-4">
           <Link
             href="/contact"
-            className="inline-flex items-center gap-2 rounded-xl bg-white px-6 py-3 font-semibold text-green-700 shadow-sm hover:bg-gray-100 transition"
+            className="inline-flex items-center gap-2 rounded-xl bg-white px-6 py-3 font-semibold text-teal-700 shadow-sm hover:bg-gray-100 transition"
           >
             <ArrowRight className="h-5 w-5" /> Ir a Contacto
           </Link>
           <a
             href="mailto:bluegarden357@gmail.com"
-            className="inline-flex items-center gap-2 rounded-xl bg-white px-6 py-3 font-semibold text-green-700 shadow-sm hover:bg-gray-100 transition"
+            className="inline-flex items-center gap-2 rounded-xl bg-white px-6 py-3 font-semibold text-teal-700 shadow-sm hover:bg-gray-100 transition"
           >
             <Mail className="h-5 w-5" /> Escríbenos
           </a>
@@ -99,7 +99,7 @@ export default function ContactCTA() {
                     href={loc.maps}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-flex items-center gap-2 rounded-lg bg-white px-4 py-2 text-green-700 font-semibold hover:bg-gray-100 transition text-sm"
+                    className="inline-flex items-center gap-2 rounded-lg bg-white px-4 py-2 text-teal-700 font-semibold hover:bg-gray-100 transition text-sm"
                   >
                     <MapPin className="h-4 w-4" /> Ver en Maps
                   </a>
@@ -108,7 +108,7 @@ export default function ContactCTA() {
                   href={loc.whatsapp}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center gap-2 rounded-lg border border-green-300 bg-green-50 px-4 py-2 text-green-900 font-semibold hover:bg-green-100 transition text-sm"
+                  className="inline-flex items-center gap-2 rounded-lg border border-teal-300 bg-green-50 px-4 py-2 text-teal-900 font-semibold hover:bg-green-100 transition text-sm"
                 >
                   <MessageCircle className="h-4 w-4" /> WhatsApp
                 </a>
